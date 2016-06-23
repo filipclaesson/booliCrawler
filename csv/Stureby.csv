@@ -1,0 +1,505 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-06-15,Götaforsvägen 22,Stureby,GronHagsatra,3,67,3,Lägenhet,null,2100000,1125000,3225000,3841,Mäklarhuset,372.7641293694795,Bandhagen
+2016-06-10,Sågverksgatan 96,Stureby,GronHagsatra,1,20,2,Lägenhet,1946,1495000,290000,1785000,1467,Länsförsäkringar Fastighetsförmedling,874.9253256537056,Stureby
+2016-06-09,Korsnäsvägen 6,Stureby,GronHagsatra,7,204,null,Villa,1959,8950000,1450000,10400000,null,Mäklarhuset,554.3430086585913,Stureby
+2016-06-07,Tussmötevägen 188,Stureby,GronHagsatra,2,50,1,Lägenhet,1929,3150000,-605000,2545000,3105,Bjurfors,196.33426385287882,Svedmyra
+2016-05-31,Skönviksvägen 271,Stureby,GronHagsatra,3,70,3,Lägenhet,1952,2950000,175000,3125000,3972,SkandiaMäklarna,344.78509192216313,Stureby
+2016-05-30,Bäckaskiftsvägen 29,Stureby,GronHagsatra,3,69,3,Lägenhet,1951,3000000,250000,3250000,3439,Notar,343.9126874761037,Stureby
+2016-05-29,Husumsgränd 34,Stureby,GronHagsatra,6,97,null,Radhus,1951,5400000,860000,6260000,null,HusmanHagberg,956.5672178379572,Stureby
+2016-05-27,Skönviksvägen 293,Stureby,GronHagsatra,2,57,3,Lägenhet,null,1995000,415000,2410000,3382,Mäklarhuset,225.04865871031927,Bandhagen
+2016-05-27,Graningegränd 12,Stureby,GronHagsatra,8,150,null,Villa,1924,7750000,2050000,9800000,null,Länsförsäkringar Fastighetsförmedling,593.9078500813318,Stureby
+2016-05-27,Sågverksgatan 108,Stureby,GronHagsatra,2,46,2,Lägenhet,1946,1995000,310000,2305000,3213,Notar,950.1687141219791,Stureby
+2016-05-26,Skönviksvägen 230,Stureby,GronHagsatra,6,130,null,Villa,1926,8450000,-250000,8200000,null,SkandiaMäklarna,248.88027385479683,Stureby
+2016-05-25,Bandhagsvägen 22,Stureby,GronHagsatra,6,145,null,Villa,1946,7500000,25000,7525000,null,Fastighetsbyrån,508.29785068356205,Stureby
+2016-05-25,Bastuhagsvägen 49,Stureby,GronHagsatra,1,29,1,Lägenhet,2014,1695000,435000,2130000,1985,Länsförsäkringar Fastighetsförmedling,498.2501635532705,Stureby
+2016-05-24,Sågverksgatan 85,Stureby,GronHagsatra,2,54,1,Lägenhet,1946,1995000,265000,2260000,3512,Länsförsäkringar Fastighetsförmedling,839.3818189305431,Stureby
+2016-05-23,Bäckaskiftsvägen 48,Stureby,GronHagsatra,2,57,3,Lägenhet,1953,2495000,355000,2850000,2727,Södermäklarna,341.01360962219155,Bandhagen
+2016-05-18,Bastuhagsvägen 57,Stureby,GronHagsatra,2,47,3,Lägenhet,null,1995000,755000,2750000,2935,Mäklarhuset,528.9894902120514,Stureby
+2016-05-14,Skutskärsvägen 41B,Stureby,GronHagsatra,4,109,null,Parhus,2016,6000000,400000,6400000,3396,Balders Ädelmarks,361.75642375051956,Svedmyra
+2016-05-13,Sågverksgatan 104,Stureby,GronHagsatra,2,46,3,Lägenhet,null,1995000,305000,2300000,3283,Svenska Mäklarhuset,913.3693496192908,Stureby
+2016-05-11,Bäckaskiftsvägen 52,Stureby,GronHagsatra,2,57,3,Lägenhet,null,2350000,370000,2720000,2727,Svenska Mäklarhuset,313.77153187575,Bandhagen
+2016-05-11,Bäckaskiftsvägen 15,Stureby,GronHagsatra,3,76,5,Lägenhet,1951,3000000,300000,3300000,3751,Notar,305.0117541932716,Stureby
+2016-05-06,Graningegränd 9,Stureby,GronHagsatra,4,74,null,Villa,1940,5995000,505000,6500000,null,Magnusson Mäkleri,536.3774676762848,Stureby
+2016-05-05,Östrandsvägen 76,Stureby,GronHagsatra,3,72,2,Lägenhet,1950,2395000,565000,2960000,3779,Fastighetsbyrån,1038.4459804232827,Stureby
+2016-05-05,Skönviksvägen 321,Stureby,GronHagsatra,2,57,2,Lägenhet,1952,2145000,615000,2760000,3338,Svensk Fastighetsförmedling,229.15314912687487,Stureby
+2016-05-05,Skönviksvägen 272,Stureby,GronHagsatra,2,54,3,Lägenhet,1952,2295000,555000,2850000,3193,HusmanHagberg,307.52539042296496,Stureby
+2016-05-04,Utansjövägen 13,Stureby,GronHagsatra,7,190,null,Villa,1947,9750000,-200000,9550000,null,SkandiaMäklarna,363.029072001552,Stureby
+2016-05-01,Bjulevägen 26A,Stureby,GronHagsatra,1,38,null,Lägenhet,1949,1990000,25000,2015000,2831,SkandiaMäklarna,1061.2293937470786,Stureby
+2016-04-28,Bäckaskiftsvägen 31,Stureby,GronHagsatra,2,57,1,Lägenhet,1951,2000000,645000,2645000,2784,Notar,248.48203246119283,Stureby
+2016-04-26,Götaforsvägen 22,Stureby,GronHagsatra,1,41,4,Lägenhet,null,1895000,715000,2610000,2346,Mäklarhuset,372.7641293694795,Bandhagen
+2016-04-22,Bjulevägen 28,Stureby,GronHagsatra,3,76,1,Lägenhet,1949,2195000,-95000,2100000,5831,Länsförsäkringar Fastighetsförmedling,1051.4254802620626,Stureby
+2016-04-22,Tanneforsvägen 23,Stureby,GronHagsatra,10,190,null,Villa,1946,9250000,350000,9600000,null,HusmanHagberg,398.1672321068089,Stureby
+2016-04-21,Götaforsvägen 13,Stureby,GronHagsatra,2,55,1,Lägenhet,1952,2095000,355000,2450000,3208,Svensk Fastighetsförmedling,410.4969587267527,Bandhagen
+2016-04-21,Vivstavarvsvägen 163,Stureby,GronHagsatra,1,26,1,Lägenhet,1952,1395000,625000,2020000,2065,Notar,1078.7590506238084,Stureby
+2016-04-20,Kubikenborgsvägen 8,Stureby,GronHagsatra,6,151,null,Villa,1927,6995000,830000,7825000,null,HusmanHagberg,672.650044828229,Stureby
+2016-04-20,Skönviksvägen 293,Stureby,GronHagsatra,2,57,1,Lägenhet,1952,1995000,555000,2550000,3265,Mäklarhuset,225.04865871031927,Bandhagen
+2016-04-15,Götaforsvägen 28,Stureby,GronHagsatra,1.5,44.5,1,Lägenhet,1952,1895000,615000,2510000,2769,HusmanHagberg,386.9514569817523,Bandhagen
+2016-04-13,Billerudsvägen 1,Stureby,GronHagsatra,8,240,null,Villa,1957,9750000,1250000,11000000,null,HusmanHagberg,176.67105678004438,Stureby
+2016-04-08,Skönviksvägen 299,Stureby,GronHagsatra,1,23,3,Lägenhet,1952,1495000,505000,2000000,1612,BOSTHLM,272.5058647124241,Bandhagen
+2016-04-08,Rothuggsvägen 12,Stureby,GronHagsatra,6,130,null,Radhus,1966,5495000,1605000,7100000,null,Fastighetsbyrån,750.5594841701289,Stureby
+2016-04-07,Bjulevägen 34,Stureby,GronHagsatra,4,83,1,Lägenhet,1947,3295000,225000,3520000,2977,HusmanHagberg,1062.6348330405726,Stureby
+2016-04-07,Götaforsvägen 45,Stureby,GronHagsatra,5,94,null,Radhus,1964,4575000,1495000,6070000,4357,Svensk Fastighetsförmedling,526.4482415614123,Bandhagen
+2016-03-24,Bjulevägen 20,Stureby,GronHagsatra,2,56,1,Lägenhet,1950,2300000,-100000,2200000,4171,Länsförsäkringar Fastighetsförmedling,1035.5254931317625,Stureby
+2016-03-20,Bollstavägen 4,Stureby,GronHagsatra,5,153,null,Villa,null,7995000,805000,8800000,null,Södermäklarna,825.6259086139786,Stureby
+2016-03-19,Kubikenborgsvägen 3A,Stureby,GronHagsatra,3,51,2,Lägenhet,1946,2250000,450000,2700000,3116,Mäklarhuset,629.9591324319414,Stureby
+2016-03-19,Fiskebyvägen 7,Stureby,GronHagsatra,5,154,null,Villa,1946,8475000,925000,9400000,null,Svensk Fastighetsförmedling,593.5594960848737,Stureby
+2016-03-18,Bäckaskiftsvägen 68,Stureby,GronHagsatra,3,71,1,Lägenhet,1950,2795000,965000,3760000,3164,Notar,300.1716926184608,Stureby
+2016-03-12,Sågverksgatan 118,Stureby,GronHagsatra,4,83,3,Lägenhet,1950,2795000,1175000,3970000,4211,Notar,937.6939922500451,Stureby
+2016-03-11,Skönviksvägen 303,Stureby,GronHagsatra,3,69,2,Lägenhet,null,2750000,520000,3270000,3958,Mäklarhuset,292.67154657999623,Bandhagen
+2016-03-11,Sågverksgatan 41,Stureby,GronHagsatra,5,120,3,Lägenhet,2010,6950000,1100000,8050000,2600,Mäklarhuset,393.58976957061566,Stureby
+2016-03-10,Götaforsvägen 28,Stureby,GronHagsatra,3,74,3,Lägenhet,null,2895000,905000,3800000,4169,Svenska Mäklarhuset,386.9514569817523,Bandhagen
+2016-03-07,Bäckaskiftsvägen 78,Stureby,GronHagsatra,2,56,2,Lägenhet,1950,2195000,725000,2920000,2696,Notar,225.4222028367927,Stureby
+2016-03-04,Östrandsvägen 54,Stureby,GronHagsatra,3,74,1,Lägenhet,1950,2595000,0,2595000,4038,Mäklarringen,1116.3860696574634,Stureby
+2016-02-27,Skönviksvägen 286,Stureby,GronHagsatra,1,32,4,Lägenhet,1961,1850000,255000,2105000,2212,SkandiaMäklarna,294.0288155952216,Stureby
+2016-02-26,Skönviksvägen 329,Stureby,GronHagsatra,1,19,1,Lägenhet,1952,1295000,645000,1940000,1283,Notar,209.7987233390444,Stureby
+2016-02-26,Skönviksvägen 297,Stureby,GronHagsatra,1,19,1,Lägenhet,null,1395000,555000,1950000,1283,Svenska Mäklarhuset,240.7854112077565,Bandhagen
+2016-02-25,Götaforsvägen 13,Stureby,GronHagsatra,2,55,1,Lägenhet,1952,2095000,680000,2775000,3185,Fastighetsbyrån,410.4969587267527,Bandhagen
+2016-02-25,Götaforsvägen 34,Stureby,GronHagsatra,2,54.5,2,Lägenhet,1951,2195000,415000,2610000,3373,Diplomat Fastighetsmäkleri AB,424.7993119865975,Bandhagen
+2016-02-25,Bjulevägen 23,Stureby,GronHagsatra,2,59,1,Lägenhet,1950,1895000,555000,2450000,4395,Länsförsäkringar Fastighetsförmedling,1023.7571468576651,Stureby
+2016-02-24,Skönviksvägen 323,Stureby,GronHagsatra,3,57,1,Lägenhet,1952,2395000,805000,3200000,3251,Länsförsäkringar Fastighetsförmedling,236.4460662723146,Stureby
+2016-02-22,Sågverksgatan 96,Stureby,GronHagsatra,3,61,2.5,Lägenhet,null,2450000,175000,2625000,4331,Fastighetsmäklarna,874.9253256537056,Stureby
+2016-02-11,Tussmötevägen 138,Stureby,GronHagsatra,3,87.5,1,Lägenhet,1929,5295000,1055000,6350000,5378,Bjurfors,129.56197475761,Svedmyra
+2016-02-11,Östrandsvägen 70,Stureby,GronHagsatra,1,20,2,Lägenhet,1950,1495000,285000,1780000,1451,Södermäklarna,1037.3984641018874,Stureby
+2016-02-11,Bjulevägen 57,Stureby,GronHagsatra,2,48.5,1,Lägenhet,1946,2250000,325000,2575000,3188,HusmanHagberg,862.050859446688,Stureby
+2016-02-10,Sågverksgatan 114,Stureby,GronHagsatra,2,45,3,Lägenhet,1945,1995000,330000,2325000,2982,Notar,894.0629370827497,Stureby
+2016-02-05,Bastuhagsvägen 50,Stureby,GronHagsatra,2,47,1,Lägenhet,2014,2195000,115000,2310000,2809,Länsförsäkringar Fastighetsförmedling,497.91068743217903,Stureby
+2016-02-04,Kubikenborgsvägen 3A,Stureby,GronHagsatra,2,51,2,Lägenhet,null,2195000,355000,2550000,3116,Fastighetsbyrån,629.9591324319414,Stureby
+2016-02-02,Götaforsvägen 13,Stureby,GronHagsatra,1,35,4,Lägenhet,1952,1995000,565000,2560000,2027,Hemverket,410.4969587267527,Bandhagen
+2016-02-01,Vivstavarvsvägen 163,Stureby,GronHagsatra,2.5,63,2,Lägenhet,1952,2195000,455000,2650000,3648,Notar,1078.7590506238084,Stureby
+2016-01-22,Bäckaskiftsvägen 70,Stureby,GronHagsatra,3,63,1,Lägenhet,1951,2195000,1135000,3330000,2914,Länsförsäkringar Fastighetsförmedling,283.62669539428845,Stureby
+2016-01-21,Vivstavarvsvägen 151,Stureby,GronHagsatra,2.5,61,1,Lägenhet,1952,2195000,0,2195000,3616,HusmanHagberg,1102.2790350055875,Stureby
+2016-01-21,Vivstavarvsvägen 155,Stureby,GronHagsatra,2,62,2,Lägenhet,1952,2350000,350000,2700000,3695,Mäklarhuset,1110.394113749739,Stureby
+2016-01-21,Bäckaskiftsvägen 50,Stureby,GronHagsatra,1,42,2,Lägenhet,1950,1795000,495000,2290000,2258,Notar,327.9187668539297,Bandhagen
+2016-01-16,Tussmötevägen 136,Stureby,GronHagsatra,4,57.5,0,Lägenhet,1930,3695000,505000,4200000,3778,HusmanHagberg,100.80167827475157,Svedmyra
+2016-01-15,Bäckaskiftsvägen 25,Stureby,GronHagsatra,2,57,2,Lägenhet,1951,2195000,375000,2570000,2582,Notar,305.16045196273166,Stureby
+2016-01-15,Skönviksvägen 274,Stureby,GronHagsatra,3,81,1,Lägenhet,1952,3200000,1400000,4600000,6066,HusmanHagberg,303.7876007222481,Stureby
+2016-01-14,Vivstavarvsvägen 157,Stureby,GronHagsatra,4,72,3,Lägenhet,1952,2450000,390000,2840000,4272,Notar,1096.7625223038108,Stureby
+2016-01-14,Nykvarnsvägen 12,Stureby,GronHagsatra,8,202,null,Villa,1935,11000000,1200000,12200000,null,HusmanHagberg,192.55383306635574,Stureby
+2016-01-07,Bäckaskiftsvägen 48,Stureby,GronHagsatra,1,42,1,Lägenhet,1951,1895000,485000,2380000,2258,Erik Olsson Fastighetsförmedling,341.01360962219155,Bandhagen
+2015-12-12,Götaforsvägen 26,Stureby,GronHagsatra,3,74,null,Lägenhet,null,2850000,650000,3500000,4242,Fastighetsmäklarna,374.7116489184257,Bandhagen
+2015-12-11,Götaforsvägen 26,Stureby,GronHagsatra,1.5,44.5,2,Lägenhet,1952,2150000,200000,2350000,2858,Bjurfors,374.7116489184257,Bandhagen
+2015-12-09,Ställdalsvägen 1B,Stureby,GronHagsatra,4,87,null,Parhus,2014,4350000,775000,5125000,2711,Balders Ädelmarks,349.68115699847124,Svedmyra
+2015-12-05,Ställdalsvägen 1A,Stureby,GronHagsatra,5,93,null,Parhus,2014,4650000,650000,5300000,2897,Balders Ädelmarks,344.5155610444496,Svedmyra
+2015-12-03,Götaforsvägen 9,Stureby,GronHagsatra,2,54,1,Lägenhet,1952,2150000,390000,2540000,3208,HusmanHagberg,386.76454680249884,Stureby
+2015-12-02,Sågverksgatan 110,Stureby,GronHagsatra,2,45,2,Lägenhet,1946,1795000,575000,2370000,3143,Fastighetsbyrån,957.2773027248589,Stureby
+2015-11-30,Bäckaskiftsvägen 56,Stureby,GronHagsatra,1,42,1,Lägenhet,1950,1695000,675000,2370000,2258,Notar,330.3980139690745,Stureby
+2015-11-27,Bandhagsvägen 64,Stureby,GronHagsatra,5,119,null,Radhus,null,6450000,1300000,7750000,null,Södermäklarna,143.11940318691498,Stureby
+2015-11-26,Östrandsvägen 70A,Stureby,GronHagsatra,1,24,null,Lägenhet,1950,1495000,255000,1750000,1513,Notar,1030.0249896944474,Stureby
+2015-11-22,Skönviksvägen 329,Stureby,GronHagsatra,2,57,2,Lägenhet,1953,2475000,435000,2910000,3382,A-mäklarna,209.7987233390444,Stureby
+2015-11-20,Skutskärsvägen 11,Stureby,GronHagsatra,7,191,null,Villa,1975,6500000,2300000,8800000,null,Mäklarhuset,493.1015288793459,Stureby
+2015-11-13,Bjulevägen 16,Stureby,GronHagsatra,2,57,2,Lägenhet,1949,1895000,430000,2325000,4171,Länsförsäkringar Fastighetsförmedling,1029.8598261668028,Stureby
+2015-11-11,Bastuhagsvägen 57,Stureby,GronHagsatra,4,90,1,Lägenhet,2015,3850000,450000,4300000,5000,Mäklarringen,528.9894902120514,Stureby
+2015-11-09,Skönviksvägen 317,Stureby,GronHagsatra,3,69,1,Lägenhet,1952,3150000,100000,3250000,3928,Mäklarhuset,281.40148663173136,Stureby
+2015-11-05,Bäckaskiftsvägen 13,Stureby,GronHagsatra,4,86,5,Lägenhet,1951,3195000,905000,4100000,3858,Notar,321.60593320531143,Stureby
+2015-11-03,Götaforsvägen 3,Stureby,GronHagsatra,1,35,4,Lägenhet,1952,1695000,665000,2360000,2027,Notar,341.0444589782796,Stureby
+2015-11-01,Tussmötevägen 217,Stureby,GronHagsatra,8,216,null,Villa,1923,8900000,525000,9425000,null,SkandiaMäklarna,580.4849071769654,Stureby
+2015-11-01,Östrandsvägen 29,Stureby,GronHagsatra,8,150,null,Villa,1954,8700000,650000,9350000,null,SkandiaMäklarna,864.1321875428787,Stureby
+2015-10-31,Skönviksvägen 223,Stureby,GronHagsatra,6,156,null,Villa,1928,9800000,1000000,10800000,null,Fastighetsbyrån,322.51282665722476,Stureby
+2015-10-23,Nykvarnsvägen 11,Stureby,GronHagsatra,7,178,null,Villa,1929,12200000,400000,12600000,null,Bjurfors,135.81496658762526,Stureby
+2015-10-21,Tussmötevägen 144,Stureby,GronHagsatra,3.5,87,null,Lägenhet,1929,5295000,905000,6200000,5351,Bjurfors,182.57775171299843,Svedmyra
+2015-10-20,Östrandsvägen 60,Stureby,GronHagsatra,2,64,2,Lägenhet,1950,2195000,165000,2360000,3515,Bjurfors,1124.99779094131,Stureby
+2015-10-19,Bastuhagsvägen 52,Stureby,GronHagsatra,4,80.5,2,Lägenhet,2014,3695000,-195000,3500000,4562,Länsförsäkringar Fastighetsförmedling,415.58063897944146,Stureby
+2015-10-16,Bjulevägen 20,Stureby,GronHagsatra,2,56,2,Lägenhet,1950,1995000,305000,2300000,4171,Fastighetsbyrån,1035.5254931317625,Stureby
+2015-10-16,Tussmötevägen 207B,Stureby,GronHagsatra,4,110,0,Lägenhet,2014,4995000,55000,5050000,4318,Svensk Fastighetsförmedling,386.17267041097256,Svedmyra
+2015-10-13,Götaforsvägen 7,Stureby,GronHagsatra,2,55,1,Lägenhet,1952,2145000,680000,2825000,3265,Svensk Fastighetsförmedling,371.40398576426315,Stureby
+2015-10-11,Götaforsvägen 17,Stureby,GronHagsatra,2,55,1.5,Lägenhet,1952,1950000,675000,2625000,3352,Södermäklarna,411.6753922089062,Bandhagen
+2015-10-08,Skönviksvägen 282,Stureby,GronHagsatra,2,54,3,Lägenhet,null,2095000,380000,2475000,2805,Fastighetsbyrån,298.92282845495237,Stureby
+2015-10-07,Götaforsvägen 54,Stureby,GronHagsatra,5,110,null,Kedjehus,1964,4495000,265000,4760000,5686,Bjurfors,550.7770646396526,Bandhagen
+2015-10-07,Sågverksgatan 120,Stureby,GronHagsatra,3,70,1,Lägenhet,1951,2650000,150000,2800000,3551,Hemverket,955.4870762041236,Stureby
+2015-10-05,Bäckaskiftsvägen 27,Stureby,GronHagsatra,3,69,2,Lägenhet,1951,2395000,920000,3315000,3126,Notar,330.6879425081474,Stureby
+2015-10-05,Sågverksgatan 108,Stureby,GronHagsatra,2,46,3,Lägenhet,1946,1795000,515000,2310000,3283,Notar,950.1687141219791,Stureby
+2015-10-05,Bäckaskiftsvägen 74,Stureby,GronHagsatra,1,18,2,Lägenhet,1950,1095000,675000,1770000,1508,Notar,267.53823667784644,Stureby
+2015-10-02,Tussmötevägen 146,Stureby,GronHagsatra,3,88,null,Lägenhet,1929,4695000,455000,5150000,5378,Bjurfors,173.71608217526997,Svedmyra
+2015-10-02,Skönviksvägen 289,Stureby,GronHagsatra,2,54,2,Lägenhet,1952,2195000,250000,2445000,3245,Fastighetsbyrån,211.20141420542137,Bandhagen
+2015-10-01,Sågverksgatan 77,Stureby,GronHagsatra,2,54,3,Lägenhet,1946,2075000,625000,2700000,3362,Svensk Fastighetsförmedling,792.4039102226164,Stureby
+2015-09-30,Skönviksvägen 323,Stureby,GronHagsatra,2,57,2,Lägenhet,1952,2400000,530000,2930000,3338,HusmanHagberg,236.4460662723146,Stureby
+2015-09-25,Skönviksvägen 287,Stureby,GronHagsatra,2,54,2,Lägenhet,1952,2295000,305000,2600000,3245,Fastighetsbyrån,220.15325924129098,Bandhagen
+2015-09-24,Skönviksvägen 292,Stureby,GronHagsatra,4,85.5,1,Lägenhet,1961,2995000,355000,3350000,5291,Notar,251.459615286923,Stureby
+2015-09-24,Bastuhagsvägen 52,Stureby,GronHagsatra,3.5,80.5,1,Lägenhet,2014,3195000,760000,3955000,4527,Notar,415.58063897944146,Stureby
+2015-09-23,Skönviksvägen 315,Stureby,GronHagsatra,3,69,1,Lägenhet,1952,2895000,815000,3710000,3891,Mäklarhuset,291.97878067154153,Bandhagen
+2015-09-14,Götaforsvägen 23,Stureby,GronHagsatra,2,55,3,Lägenhet,1952,2095000,615000,2710000,3309,Notar,427.02369998277703,Bandhagen
+2015-09-09,Skönviksvägen 284,Stureby,GronHagsatra,3,81,1,Lägenhet,1964,2995000,1305000,4300000,3969,Mäklarhuset,306.1443848639519,Bandhagen
+2015-09-07,Bäckaskiftsvägen 46,Stureby,GronHagsatra,3,75,5,Lägenhet,1950,2995000,655000,3650000,3289,Notar,354.40619940861916,Stureby
+2015-09-07,Bjulevägen 18,Stureby,GronHagsatra,2,57,null,Lägenhet,1949,1895000,455000,2350000,4171,Länsförsäkringar Fastighetsförmedling,1029.9813326838796,Stureby
+2015-09-07,Bäckaskiftsvägen 42,Stureby,GronHagsatra,2,56,2,Lägenhet,1951,2900000,0,2900000,2695,Länsförsäkringar Fastighetsförmedling,347.1588736223408,Stureby
+2015-09-04,Tussmötevägen 188,Stureby,GronHagsatra,3.5,87,null,Lägenhet,1929,4995000,605000,5600000,4713,Bjurfors,196.33426385287882,Svedmyra
+2015-09-04,Mölndalsbacken 60,Stureby,GronHagsatra,6,146,0,Radhus,1964,5950000,100000,6050000,5970,Svensk Fastighetsförmedling,593.5892107262196,Bandhagen
+2015-09-03,Bäckaskiftsvägen 72,Stureby,GronHagsatra,3,56,2,Lägenhet,1951,2695000,505000,3200000,2695,HusmanHagberg,263.71311346387535,Stureby
+2015-09-03,Mölndalsbacken 118,Stureby,GronHagsatra,4,97.5,null,Villa,null,5100000,800000,5900000,null,Svenska Mäklarhuset,831.2864617441928,Bandhagen
+2015-08-27,Sågverksgatan 98,Stureby,GronHagsatra,2,45,1,Lägenhet,1946,1795000,525000,2320000,3143,Notar,893.4764655516325,Stureby
+2015-08-26,Bastuhagsvägen 14,Stureby,GronHagsatra,4,86,2,Lägenhet,1953,3495000,505000,4000000,3471,Mäklarhuset,637.0570302457575,Stureby
+2015-08-21,Götaforsvägen 22,Stureby,GronHagsatra,3,67,1,Lägenhet,1952,3150000,0,3150000,3718,Mäklarhuset,372.7641293694795,Bandhagen
+2015-08-21,Mölndalsbacken 112,Stureby,GronHagsatra,5,98,null,Radhus,1964,4500000,200000,4700000,5117,Bjurfors,815.9279799733756,Bandhagen
+2015-08-20,Skönviksvägen 297,Stureby,GronHagsatra,3,88,null,Lägenhet,1952,3695000,205000,3900000,4628,Erik Olsson Fastighetsförmedling,240.7854112077565,Bandhagen
+2015-08-20,Sågverksgatan 112,Stureby,GronHagsatra,3,65,-1,Lägenhet,1945,1900000,650000,2550000,3054,HusmanHagberg,884.0578495224229,Stureby
+2015-08-20,Bäckaskiftsvägen 44,Stureby,GronHagsatra,2,57,2,Lägenhet,1951,1995000,820000,2815000,2727,Länsförsäkringar Fastighetsförmedling,350.56064124646383,Stureby
+2015-08-20,Bastuhagsvägen 55,Stureby,GronHagsatra,1,29,1,Lägenhet,2014,1695000,455000,2150000,1985,Notar,497.0410970421183,Stureby
+2015-08-13,Skönviksvägen 333,Stureby,GronHagsatra,1.5,42.5,3,Lägenhet,1955,1850000,600000,2450000,2754,SkandiaMäklarna,177.70356414785502,Stureby
+2015-08-13,Bäckaskiftsvägen 78,Stureby,GronHagsatra,2,57,2,Lägenhet,1951,1995000,685000,2680000,2695,Mäklarringen,225.4222028367927,Stureby
+2015-08-11,Götaforsvägen 10,Stureby,GronHagsatra,2,41,4,Lägenhet,1952,1795000,605000,2400000,2326,Notar,341.6886669151707,Bandhagen
+2015-08-05,Sågverksgatan 98,Stureby,GronHagsatra,2,45,2,Lägenhet,1946,2050000,10000,2060000,3213,Magnusson Mäkleri,893.4764655516325,Stureby
+2015-08-05,Skönviksvägen 286,Stureby,GronHagsatra,1,32,4,Lägenhet,1961,1650000,600000,2250000,2212,SkandiaMäklarna,294.0288155952216,Stureby
+2015-08-05,Östrandsvägen 70,Stureby,GronHagsatra,2,62,3,Lägenhet,1950,2100000,450000,2550000,3103,Notar,1037.3984641018874,Stureby
+2015-07-30,Götaforsvägen 30,Stureby,GronHagsatra,2,54.5,1,Lägenhet,1951,1995000,355000,2350000,3245,Diplomat Fastighetsmäkleri AB,399.43699282044497,Bandhagen
+2015-07-03,Sågverksgatan 106B,Stureby,GronHagsatra,5,110,0,Lägenhet,1946,2860000,-160000,2700000,7753,Svensk Fastighetsförmedling,939.873462186278,Stureby
+2015-07-01,Skönviksvägen 325,Stureby,GronHagsatra,1,19,3,Lägenhet,null,1245000,705000,1950000,1320,Fastighetsmäklarna,245.24956749637394,Stureby
+2015-06-30,Skönviksvägen 272,Stureby,GronHagsatra,1,25,3,Lägenhet,1952,1900000,-210000,1690000,1604,Svensk Fastighetsförmedling,307.52539042296496,Stureby
+2015-06-26,Östrandsvägen 78,Stureby,GronHagsatra,2,62,2,Lägenhet,1950,2150000,200000,2350000,3103,Bjurfors,1048.935983617175,Stureby
+2015-06-24,Bäckaskiftsvägen 19,Stureby,GronHagsatra,2,46,-1,Lägenhet,1951,1995000,95000,2090000,2024,Länsförsäkringar Fastighetsförmedling,279.9902801031771,Stureby
+2015-06-18,Bjulevägen 17,Stureby,GronHagsatra,4,77,2,Lägenhet,null,2650000,150000,2800000,5076,Fastighetsbyrån,1014.178300000353,Stureby
+2015-06-18,Götaforsvägen 28,Stureby,GronHagsatra,2,54.5,1,Lägenhet,1952,1995000,0,1995000,3285,Fastighetsbyrån,386.9514569817523,Bandhagen
+2015-06-18,Skönviksvägen 325,Stureby,GronHagsatra,3,57,3,Lägenhet,null,2295000,1205000,3500000,3382,Fastighetsmäklarna,245.24956749637394,Stureby
+2015-06-12,Skönviksvägen 329,Stureby,GronHagsatra,2,57,1,Lägenhet,1952,2095000,405000,2500000,3251,Erik Olsson Fastighetsförmedling,209.7987233390444,Stureby
+2015-06-12,Bäckaskiftsvägen 31,Stureby,GronHagsatra,3,76,5,Lägenhet,1951,2495000,905000,3400000,3310,Notar,248.48203246119283,Stureby
+2015-06-10,Munksundsgatan 10,Stureby,GronHagsatra,5,119,null,Villa,1940,5995000,1755000,7750000,null,Bjurfors,473.3267763827924,Stureby
+2015-06-09,Bäckaskiftsvägen 78,Stureby,GronHagsatra,3,75,3,Lägenhet,null,2795000,965000,3760000,3309,Fastighetsbyrån,225.4222028367927,Stureby
+2015-06-07,Vivstavarvsvägen 159,Stureby,GronHagsatra,2,63,0,Lägenhet,1953,2400000,320000,2720000,3633,Fastighetsbyrån,1082.2720138938955,Stureby
+2015-06-02,Östrandsvägen 78A,Stureby,GronHagsatra,3,74,0,Lägenhet,1950,2495000,495000,2990000,3708,Notar,1053.2286221721763,Stureby
+2015-06-01,Skönviksvägen 275,Stureby,GronHagsatra,3,70,2,Lägenhet,1952,2595000,515000,3110000,4072,Svensk Fastighetsförmedling,318.32169715105846,Bandhagen
+2015-05-29,Östanåvägen 25,Stureby,GronHagsatra,10,177,null,Villa,1928,7750000,2150000,9900000,null,ERA,336.4719349229102,Svedmyra
+2015-05-29,Skönviksvägen 325,Stureby,GronHagsatra,2,57,null,Lägenhet,1952,2295000,490000,2785000,3315,Erik Olsson Fastighetsförmedling,245.24956749637394,Stureby
+2015-05-29,Forstmästarvägen 30,Stureby,GronHagsatra,6,170,null,Villa,1969,7500000,1525000,9025000,null,HusmanHagberg,728.8855522904829,Stureby
+2015-05-26,Götaforsvägen 17,Stureby,GronHagsatra,2,55,1,Lägenhet,1952,2025000,545000,2570000,null,Svensk Fastighetsförmedling,411.6753922089062,Bandhagen
+2015-05-22,Bäckaskiftsvägen 72,Stureby,GronHagsatra,1,18,2,Lägenhet,null,1195000,335000,1530000,1508,Notar,263.71311346387535,Stureby
+2015-05-21,Bjulevägen 21,Stureby,GronHagsatra,2,58,null,Lägenhet,1950,1795000,165000,1960000,null,Svensk Fastighetsförmedling,1022.7178280445095,Stureby
+2015-05-19,Bäckaskiftsvägen 46,Stureby,GronHagsatra,3,75,2,Lägenhet,null,2495000,735000,3230000,3227,Notar,354.40619940861916,Stureby
+2015-05-16,Skönviksvägen 306,Stureby,GronHagsatra,4,90,null,Radhus,1954,4895000,755000,5650000,4221,Bjurfors,186.2119017020033,Stureby
+2015-05-14,Östrandsvägen 70,Stureby,GronHagsatra,3,82,1,Lägenhet,1950,2595000,465000,3060000,4464,Fastighetsbyrån,1037.3984641018874,Stureby
+2015-05-13,Skönviksvägen 280,Stureby,GronHagsatra,2,56,null,Lägenhet,1958,2195000,315000,2510000,2959,Erik Olsson Fastighetsförmedling,289.90217773063364,Stureby
+2015-05-12,Skönviksvägen 286,Stureby,GronHagsatra,1.5,30,1,Lägenhet,1961,1695000,255000,1950000,2074,SkandiaMäklarna,294.0288155952216,Stureby
+2015-05-10,Bäckaskiftsvägen 72,Stureby,GronHagsatra,2,56,1,Lägenhet,1951,1995000,525000,2520000,2695,Mäklarringen,263.71311346387535,Stureby
+2015-05-08,Sågverksgatan 8,Stureby,GronHagsatra,7,196,null,Villa,1939,8975000,550000,9525000,null,Svensk Fastighetsförmedling,267.8755951036219,Stureby
+2015-05-07,Skönviksvägen 282,Stureby,GronHagsatra,2,56,1,Lägenhet,1958,1995000,290000,2285000,2959,Notar,298.92282845495237,Stureby
+2015-05-06,Sågverksgatan 96,Stureby,GronHagsatra,2,50,null,Lägenhet,1946,1895000,345000,2240000,3562,Notar,874.9253256537056,Stureby
+2015-05-05,Sågverksgatan 39,Stureby,GronHagsatra,5,null,null,Radhus,2010,6200000,850000,7050000,2530,Södermäklarna,387.14727547301914,Stureby
+2015-05-05,Skönviksvägen 272,Stureby,GronHagsatra,1,25,1,Lägenhet,1952,1395000,275000,1670000,null,Svensk Fastighetsförmedling,307.52539042296496,Stureby
+2015-05-05,Östrandsvägen 54,Stureby,GronHagsatra,2,62,3,Lägenhet,null,2395000,0,2395000,3434,Svenska Mäklarhuset,1116.3860696574634,Stureby
+2015-05-01,Bastuhagsvägen 8,Stureby,GronHagsatra,3,76,3,Lägenhet,1952,2525000,675000,3200000,3259,ERA,678.4336917311854,Stureby
+2015-05-01,Bastuhagsvägen 57,Stureby,GronHagsatra,4,90,2,Lägenhet,null,3715000,80000,3795000,null,Mäklarhuset,528.9894902120514,Stureby
+2015-05-01,Skönviksvägen 307,Stureby,GronHagsatra,4,71,3,Lägenhet,1952,2795000,515000,3310000,3988,Mäklarringen,268.1781744127887,Stureby
+2015-04-30,Bäckaskiftsvägen 66,Stureby,GronHagsatra,3,70,3,Lägenhet,1950,2400000,610000,3010000,3133,Notar,317.7800358780939,Stureby
+2015-04-29,Östrandsvägen 54,Stureby,GronHagsatra,3,70,1,Lägenhet,1952,2695000,-45000,2650000,3759,Fastighetsbyrån,1116.3860696574634,Stureby
+2015-04-29,Lessebovägen 106,Stureby,GronHagsatra,7,160,null,Villa,null,6975000,735000,7710000,null,Mäklarhuset,367.4431318424785,Stureby
+2015-04-27,Skönviksvägen 325,Stureby,GronHagsatra,3,76,3,Lägenhet,1952,3000000,510000,3510000,4701,Wallenberg Fastighetsförmedling,245.24956749637394,Stureby
+2015-04-24,Bäckaskiftvägen 82,Stureby,GronHagsatra,2,56,3,Lägenhet,1951,2195000,405000,2600000,2695,Erik Olsson Fastighetsförmedling,234.3754204287407,Stureby
+2015-04-24,Sågverksgatan 85,Stureby,GronHagsatra,2,54,2,Lägenhet,1946,1995000,385000,2380000,3433,Svensk Fastighetsförmedling,839.3818189305431,Stureby
+2015-04-24,Sågverksgatan 106,Stureby,GronHagsatra,3,69,2,Lägenhet,1946,2195000,355000,2550000,4819,Notar,934.12106980364,Stureby
+2015-04-24,Skönviksvägen 325,Stureby,GronHagsatra,1,19,1,Lägenhet,1952,1195000,615000,1810000,1298,Erik Olsson Fastighetsförmedling,245.24956749637394,Stureby
+2015-04-22,Bäckaskiftsvägen 48,Stureby,GronHagsatra,2,57,2,Lägenhet,1951,1995000,535000,2530000,2727,Mäklarringen,341.01360962219155,Bandhagen
+2015-04-18,Kubikenborgsvägen 5,Stureby,GronHagsatra,2,52,2,Lägenhet,1946,2075000,375000,2450000,null,Svensk Fastighetsförmedling,628.668615738376,Stureby
+2015-04-18,Sågverksgatan 96,Stureby,GronHagsatra,2,50,3,Lägenhet,1946,2095000,5000,2100000,3562,HusmanHagberg,874.9253256537056,Stureby
+2015-04-16,Bastuhagsvägen 57,Stureby,GronHagsatra,2,48.5,2,Lägenhet,null,2395000,115000,2510000,2935,Svenska Mäklarhuset,528.9894902120514,Stureby
+2015-04-15,Skönviksvägen 286,Stureby,GronHagsatra,1.5,43,1,Lägenhet,1961,1795000,315000,2110000,2973,Bjurfors,294.0288155952216,Stureby
+2015-04-15,Skönviksvägen 296,Stureby,GronHagsatra,1,32.4,1,Lägenhet,1961,1695000,415000,2110000,2152,Erik Olsson Fastighetsförmedling,224.23029737835031,Stureby
+2015-04-07,Skönviksvägen 295,Stureby,GronHagsatra,2,57,null,Lägenhet,1952,2095000,655000,2750000,3295,Erik Olsson Fastighetsförmedling,233.13362501485216,Bandhagen
+2015-04-07,Skönviksvägen 329,Stureby,GronHagsatra,2,57,2,Lägenhet,1952,1995000,805000,2800000,3382,Erik Olsson Fastighetsförmedling,209.7987233390444,Stureby
+2015-04-01,Skönviksvägen 315,Stureby,GronHagsatra,3,69,2,Lägenhet,1952,2395000,680000,3075000,3988,Svensk Fastighetsförmedling,291.97878067154153,Bandhagen
+2015-03-31,Bastuhagsvägen 59,Stureby,GronHagsatra,2,48.5,2,Lägenhet,2015,2295000,155000,2450000,2935,Mäklarhuset,504.0014427452114,Stureby
+2015-03-31,Bäckaskiftsvägen 72,Stureby,GronHagsatra,3,63,0.5,Lägenhet,1950,2195000,125000,2320000,2914,Notar,263.71311346387535,Stureby
+2015-03-27,Skönviksvägen 307,Stureby,GronHagsatra,3,69,2,Lägenhet,1952,2350000,525000,2875000,3988,Mäklarhuset,268.1781744127887,Stureby
+2015-03-27,Östrandsvägen 56,Stureby,GronHagsatra,4,84,2,Lägenhet,1952,2995000,355000,3350000,4245,Notar,1129.4692030437498,Stureby
+2015-03-26,Bastuhagsvägen 4,Stureby,GronHagsatra,2,57,1,Lägenhet,1952,1995000,515000,2510000,2797,Mäklarhuset,704.7102194854142,Stureby
+2015-03-26,Götaforsvägen 20,Stureby,GronHagsatra,3,67,2,Lägenhet,1954,2250000,415000,2665000,3841,Mäklarhuset,372.3169353232381,Bandhagen
+2015-03-25,Götaforsvägen 41,Stureby,GronHagsatra,4,94,null,Lägenhet,1964,4495000,555000,5050000,4192,Fastighetsmäklarna,519.41476642248,Bandhagen
+2015-03-19,Östrandsvägen 80,Stureby,GronHagsatra,3,62,2,Lägenhet,1950,2530000,0,2530000,3103,SkandiaMäklarna,1064.7209161766662,Stureby
+2015-03-19,Götaforsvägen 30,Stureby,GronHagsatra,2,54.5,2,Lägenhet,1952,1995000,565000,2560000,3331,Erik Olsson Fastighetsförmedling,399.43699282044497,Bandhagen
+2015-03-19,Skönviksvägen 286,Stureby,GronHagsatra,1,32,2,Lägenhet,1961,1750000,310000,2060000,2212,Erik Olsson Fastighetsförmedling,294.0288155952216,Stureby
+2015-03-19,Sågverksgatan 102,Stureby,GronHagsatra,2,46,2,Lägenhet,1946,1795000,565000,2360000,3213,Notar,907.0924545428906,Stureby
+2015-03-17,Vargövägen 24,Stureby,GronHagsatra,6,181,null,Villa,1946,6950000,-100000,6850000,null,SkandiaMäklarna,477.33531146010586,Stureby
+2015-03-11,Uddeholmsvägen 237,Stureby,GronHagsatra,5,120,null,Villa,1927,7450000,1075000,8525000,null,Svensk Fastighetsförmedling,834.3839574946837,Stureby
+2015-03-11,Östrandsvägen 80,Stureby,GronHagsatra,2,62,3,Lägenhet,1950,1895000,630000,2525000,3103,Fastighetsbyrån,1064.7209161766662,Stureby
+2015-03-08,Sågverksgatan 106,Stureby,GronHagsatra,3,69,3,Lägenhet,1946,2395000,5000,2400000,4889,Södermäklarna,934.12106980364,Stureby
+2015-03-04,Bäckaskiftsvägen 54,Stureby,GronHagsatra,2,57,2,Lägenhet,1951,2400000,-400000,2000000,2727,Länsförsäkringar Fastighetsförmedling,325.57338358945566,Stureby
+2015-02-27,Götaforsvägen 32,Stureby,GronHagsatra,2,54.5,2,Lägenhet,1952,1995000,465000,2460000,3331,Erik Olsson Fastighetsförmedling,411.2137447344949,Bandhagen
+2015-02-16,Skönviksvägen 289,Stureby,GronHagsatra,2,54,2,Lägenhet,1952,1995000,405000,2400000,3245,Notar,211.20141420542137,Bandhagen
+2015-02-14,Skönviksvägen 286,Stureby,GronHagsatra,1.5,32,1,Lägenhet,1961,1595000,415000,2010000,2212,SkandiaMäklarna,294.0288155952216,Stureby
+2015-02-13,Bastuhagsvägen 52,Stureby,GronHagsatra,2,47,3,Lägenhet,2014,2520000,0,2520000,2844,BOSTHLM,415.58063897944146,Stureby
+2015-02-10,Bastuhagsvägen 14,Stureby,GronHagsatra,3,68,null,Lägenhet,1952,2350000,530000,2880000,3117,ERA,637.0570302457575,Stureby
+2015-02-10,Tussmötevägen 225,Stureby,GronHagsatra,6,152,null,Villa,1923,7300000,1850000,9150000,null,Bjurfors,604.6753285010932,Stureby
+2015-02-10,Östrandsvägen 76,Stureby,GronHagsatra,3,72,3,Lägenhet,1950,2395000,255000,2650000,3634,Bjurfors,1038.4459804232827,Stureby
+2015-02-06,Götaforsvägen 5,Stureby,GronHagsatra,2,55,null,Lägenhet,1952,1995000,670000,2665000,3309,Erik Olsson Fastighetsförmedling,355.1234178123567,Stureby
+2015-02-06,Bastuhagsvägen 51,Stureby,GronHagsatra,2,36.5,3,Lägenhet,2015,2150000,25000,2175000,2395,HusmanHagberg,522.5142505712612,Stureby
+2015-02-04,Skönviksvägen 315,Stureby,GronHagsatra,3,69,1,Lägenhet,1952,2475000,405000,2880000,3891,Mäklarhuset,291.97878067154153,Bandhagen
+2015-02-04,Skönviksvägen 293,Stureby,GronHagsatra,1,19,1,Lägenhet,1954,995000,245000,1240000,1298,Mäklarhuset,225.04865871031927,Bandhagen
+2015-02-04,Skönviksvägen 293,Stureby,GronHagsatra,2,57,1,Lägenhet,1954,1995000,305000,2300000,3295,Mäklarhuset,225.04865871031927,Bandhagen
+2015-01-29,Götaforsvägen 15,Stureby,GronHagsatra,1,35,4,Lägenhet,1952,1595000,505000,2100000,2027,HusmanHagberg,411.86636220899095,Bandhagen
+2015-01-27,Götaforsvägen 22,Stureby,GronHagsatra,3,67,1,Lägenhet,1952,2095000,780000,2875000,3718,Svensk Fastighetsförmedling,372.7641293694795,Bandhagen
+2015-01-27,Bjulevägen 20,Stureby,GronHagsatra,2,56,1,Lägenhet,1950,1795000,0,1795000,4171,ERA,1035.5254931317625,Stureby
+2015-01-26,Bastuhagsvägen 49,Stureby,GronHagsatra,2,36.5,2,Lägenhet,2015,2150000,0,2150000,2395,Mäklarhuset,498.2501635532705,Stureby
+2015-01-22,Götaforsvägen 15,Stureby,GronHagsatra,2,55,3,Lägenhet,1952,1995000,375000,2370000,3309,Erik Olsson Fastighetsförmedling,411.86636220899095,Bandhagen
+2015-01-21,Vivstavarvsvägen 163,Stureby,GronHagsatra,1,26,3,Lägenhet,1951,1395000,315000,1710000,1966,Mäklarhuset,1078.7590506238084,Stureby
+2015-01-20,Sågverksgatan 108,Stureby,GronHagsatra,2,46,1,Lägenhet,1946,1795000,125000,1920000,3288,SkandiaMäklarna,950.1687141219791,Stureby
+2015-01-16,Bjulevägen 26,Stureby,GronHagsatra,2,54,2,Lägenhet,1949,1900000,240000,2140000,4023,HusmanHagberg,1049.7995655743778,Stureby
+2015-01-12,Bastuhagsvägen 52,Stureby,GronHagsatra,2,47,2,Lägenhet,2014,2375000,0,2375000,2844,Mäklarhuset,415.58063897944146,Stureby
+2014-12-18,Sågverksgatan 108,Stureby,GronHagsatra,2,46,3,Lägenhet,1946,1595000,380000,1975000,3213,Notar,950.1687141219791,Stureby
+2014-12-15,Bjulevägen 16,Stureby,GronHagsatra,2,56,1,Lägenhet,1950,1895000,455000,2350000,3973,HusmanHagberg,1029.8598261668028,Stureby
+2014-12-12,Sågverksgatan 120,Stureby,GronHagsatra,3,83,3,Lägenhet,1950,2795000,-95000,2700000,4211,Länsförsäkringar Fastighetsförmedling,955.4870762041236,Stureby
+2014-12-11,Bäckaskiftsvägen 52,Stureby,GronHagsatra,2,57,3,Lägenhet,1951,1995000,265000,2260000,2727,Mäklarhuset,313.77153187575,Bandhagen
+2014-12-11,Mölndalsbacken 30,Stureby,GronHagsatra,6,146,null,Lägenhet,1964,4895000,955000,5850000,5740,Svensk Fastighetsförmedling,621.1300682242672,Bandhagen
+2014-12-10,Östrandsvägen 72,Stureby,GronHagsatra,4,88,null,Lägenhet,1950,3195000,245000,3440000,4389,Fastighetsbyrån,1030.4090146386293,Stureby
+2014-12-08,Kubikenborgsvägen 14,Stureby,GronHagsatra,6,150,null,Villa,1924,6895000,0,6895000,null,HusmanHagberg,703.0739644358565,Stureby
+2014-12-03,Bäckaskiftsvägen 60,Stureby,GronHagsatra,2,57,3,Lägenhet,1951,2360000,0,2360000,2727,Länsförsäkringar Fastighetsförmedling,292.70514001655147,Stureby
+2014-11-30,Bastuhagsvägen 10,Stureby,GronHagsatra,1,19,3,Lägenhet,1952,1195000,355000,1550000,888,ERA,663.3914407771958,Stureby
+2014-11-28,Skärblackavägen 7,Stureby,GronHagsatra,9,165,null,Villa,null,7795000,580000,8375000,null,Svensk Fastighetsförmedling,426.04381102105276,Stureby
+2014-11-21,Östrandsvägen 68,Stureby,GronHagsatra,2,62,3,Lägenhet,null,1650000,395000,2045000,3103,Mäklarhuset,1047.321754351412,Stureby
+2014-11-20,Sågverksgatan 83,Stureby,GronHagsatra,2,54,3,Lägenhet,1946,2095000,5000,2100000,3596,Mäklarringen,827.8093050231099,Stureby
+2014-11-20,Götaforsvägen 22,Stureby,GronHagsatra,3,67,1,Lägenhet,1952,2150000,250000,2400000,3730,Mäklarhuset,372.7641293694795,Bandhagen
+2014-11-19,Bäckaskiftsvägen 56,Stureby,GronHagsatra,2,57,1.5,Lägenhet,1950,1995000,-70000,1925000,2727,Notar,330.3980139690745,Stureby
+2014-11-18,Sågverksgatan 28,Stureby,GronHagsatra,7,157,null,Villa,1935,6500000,-500000,6000000,null,HusmanHagberg,54.81372607356811,Stureby
+2014-11-13,Bjulevägen 20,Stureby,GronHagsatra,2,56,2,Lägenhet,1950,1795000,5000,1800000,3973,ERA,1035.5254931317625,Stureby
+2014-11-13,Bäckaskiftsvägen 15,Stureby,GronHagsatra,3,79,1.5,Lägenhet,1951,2475000,245000,2720000,3440,Notar,305.0117541932716,Stureby
+2014-11-12,Bastuhagsvägen 6,Stureby,GronHagsatra,1,19,3,Lägenhet,1952,1195000,235000,1430000,838,Bjurfors,690.6692340325143,Stureby
+2014-10-31,Bäckaskiftsvägen 7,Stureby,GronHagsatra,4,86,null,Lägenhet,1952,2975000,350000,3325000,3745,Reimersholme Fastighetsmäkleri AB,362.1945776361075,Stureby
+2014-10-29,Bäckaskiftsvägen 76,Stureby,GronHagsatra,1,18,2,Lägenhet,1950,1195000,75000,1270000,1508,Notar,272.2983605924026,Stureby
+2014-10-28,Östrandsvägen 68,Stureby,GronHagsatra,1,26,3,Lägenhet,null,1250000,260000,1510000,1590,Svensk Fastighetsförmedling,1047.321754351412,Stureby
+2014-10-25,Sågverksgatan 118,Stureby,GronHagsatra,4,83,1,Lägenhet,1950,2995000,285000,3280000,4211,Erik Olsson Fastighetsförmedling,937.6939922500451,Stureby
+2014-10-24,Bandhagsvägen 22,Stureby,GronHagsatra,6,145,null,Villa,1946,6500000,75000,6575000,null,Svensk Fastighetsförmedling,508.29785068356205,Stureby
+2014-10-23,Götaforsvägen 22,Stureby,GronHagsatra,3,67,2,Lägenhet,1952,2195000,180000,2375000,3841,HusmanHagberg,372.7641293694795,Bandhagen
+2014-10-20,Skönviksvägen 329,Stureby,GronHagsatra,2,57,3,Lägenhet,null,1995000,270000,2265000,3338,Svensk Fastighetsförmedling,209.7987233390444,Stureby
+2014-10-16,Sågverksgatan 118,Stureby,GronHagsatra,4,83,1,Lägenhet,1950,2995000,-145000,2850000,4211,Erik Olsson Fastighetsförmedling,937.6939922500451,Stureby
+2014-10-13,Skönviksvägen 286,Stureby,GronHagsatra,2,51,1,Lägenhet,1961,1995000,5000,2000000,3527,SkandiaMäklarna,294.0288155952216,Stureby
+2014-10-08,Bäckaskiftsvägen 25,Stureby,GronHagsatra,2,57,0.5,Lägenhet,1951,1995000,305000,2300000,2457,Notar,305.16045196273166,Stureby
+2014-10-03,Sågverksgatan 57,Stureby,GronHagsatra,5,120,null,Radhus,2010,5850000,360000,6210000,2530,HusmanHagberg,456.33870359703553,Stureby
+2014-10-03,Skönviksvägen 288,Stureby,GronHagsatra,3,72,3,Lägenhet,null,1995000,325000,2320000,4979,Svensk Fastighetsförmedling,278.0368969002785,Stureby
+2014-10-02,Bjulevägen 18,Stureby,GronHagsatra,2,56,3,Lägenhet,1950,1750000,100000,1850000,3973,HusmanHagberg,1029.9813326838796,Stureby
+2014-10-02,Bastuhagsvägen 8,Stureby,GronHagsatra,2,57,null,Lägenhet,1952,1795000,455000,2250000,2847,ERA,678.4336917311854,Stureby
+2014-10-02,Munksjövägen 3,Stureby,GronHagsatra,7,138,null,Villa,1940,6950000,200000,7150000,null,Mäklarhuset,310.2813410936663,Stureby
+2014-10-02,Östrandsvägen 80,Stureby,GronHagsatra,3,72,3,Lägenhet,1950,2350000,370000,2720000,3634,Notar,1064.7209161766662,Stureby
+2014-10-02,Götaforsvägen 18,Stureby,GronHagsatra,2,41,4,Lägenhet,1954,1695000,445000,2140000,2346,HusmanHagberg,374.2245346876729,Bandhagen
+2014-09-25,Skönviksvägen 286,Stureby,GronHagsatra,2,51,3,Lägenhet,1961,1795000,195000,1990000,3527,Mäklarhuset,294.0288155952216,Stureby
+2014-09-24,Götaforsvägen 7,Stureby,GronHagsatra,2,55,2,Lägenhet,null,1595000,750000,2345000,3309,Svensk Fastighetsförmedling,371.40398576426315,Stureby
+2014-09-22,Sågverksgatan 103,Stureby,GronHagsatra,4,77,2,Lägenhet,1946,2395000,55000,2450000,5076,Mäklarhuset,996.9380779374848,Stureby
+2014-09-19,Bäckaskiftsvägen 62,Stureby,GronHagsatra,2,57,0.5,Lägenhet,1950,1895000,430000,2325000,2727,Notar,298.59734303437637,Stureby
+2014-09-19,Bandhagsvägen 46,Stureby,GronHagsatra,7,130,null,Villa,1932,6295000,1805000,8100000,null,Svensk Fastighetsförmedling,194.62194920545974,Stureby
+2014-09-18,Götaforsvägen 15,Stureby,GronHagsatra,2,55,3,Lägenhet,1952,1995000,205000,2200000,3309,Erik Olsson Fastighetsförmedling,411.86636220899095,Bandhagen
+2014-09-15,Skönviksvägen 280,Stureby,GronHagsatra,2,40,1,Lägenhet,1958,1595000,305000,1900000,2019,Erik Olsson Fastighetsförmedling,289.90217773063364,Stureby
+2014-09-11,Nykvarnsvägen 11,Stureby,GronHagsatra,7,190,null,Villa,1929,10750000,1500000,12250000,null,HusmanHagberg,135.81496658762526,Stureby
+2014-09-10,Skönviksvägen 311,Stureby,GronHagsatra,2,54,2,Lägenhet,null,1750000,410000,2160000,3258,Svensk Fastighetsförmedling,265.72897879550624,Bandhagen
+2014-09-10,Götaforsvägen 9,Stureby,GronHagsatra,2,55,2,Lägenhet,1952,1795000,475000,2270000,3309,Mäklarhuset,386.76454680249884,Stureby
+2014-09-09,Östrandsvägen 23,Stureby,GronHagsatra,6,182,null,Villa,1949,8300000,560000,8860000,null,SkandiaMäklarna,803.321631346035,Stureby
+2014-09-03,Östrandsvägen 80,Stureby,GronHagsatra,3,72,1,Lägenhet,1950,2375000,150000,2525000,3633,HusmanHagberg,1064.7209161766662,Stureby
+2014-08-31,Utansjövägen 2,Stureby,GronHagsatra,6,149,null,Villa,1940,8250000,900000,9150000,null,HusmanHagberg,298.37053176643093,Stureby
+2014-08-28,Bäckaskiftsvägen 76,Stureby,GronHagsatra,2,57,2,Lägenhet,1950,1950000,530000,2480000,2727,Notar,272.2983605924026,Stureby
+2014-08-27,Skönviksvägen 286,Stureby,GronHagsatra,1.5,31,2,Lägenhet,1961,1495000,205000,1700000,2143,Fastighetsbyrån,294.0288155952216,Stureby
+2014-08-24,Tussmötevägen 256,Stureby,GronHagsatra,5,144,null,Villa,1926,4500000,1300000,5800000,null,Bjurfors,669.3642336740734,Stureby
+2014-08-22,Bjulevägen 14,Stureby,GronHagsatra,2,56,3,Lägenhet,1950,1850000,50000,1900000,3973,HusmanHagberg,1029.9290140782905,Stureby
+2014-08-21,Skönviksvägen 286,Stureby,GronHagsatra,1.5,31,3,Lägenhet,1961,1490000,510000,2000000,2143,SkandiaMäklarna,294.0288155952216,Stureby
+2014-08-20,Bäckaskiftsvägen 44,Stureby,GronHagsatra,1,18,1,Lägenhet,1950,1195000,0,1195000,1508,Notar,350.56064124646383,Stureby
+2014-08-20,Bjulevägen 57,Stureby,GronHagsatra,2,48.5,3,Lägenhet,1946,1650000,400000,2050000,3272,Erik Olsson Fastighetsförmedling,862.050859446688,Stureby
+2014-08-20,Skönviksvägen 270,Stureby,GronHagsatra,1,25,1,Lägenhet,1952,1250000,270000,1520000,1553,Bjurfors,301.9333429221961,Stureby
+2014-08-20,Skönviksvägen 290,Stureby,GronHagsatra,3,71.9,3,Lägenhet,1961,2295000,330000,2625000,4487,Fastighetsbyrån,265.1501532835142,Stureby
+2014-08-19,Götaforsvägen 15,Stureby,GronHagsatra,2,55,2,Lägenhet,1952,1795000,430000,2225000,3309,Mäklarhuset,411.86636220899095,Bandhagen
+2014-08-13,Skönviksvägen 293,Stureby,GronHagsatra,1,19,2,Lägenhet,1952,1195000,115000,1310000,1320,Fastighetsbyrån,225.04865871031927,Bandhagen
+2014-07-29,Bäckaskiftsvägen 76,Stureby,GronHagsatra,3,75,0.5,Lägenhet,1950,2500000,445000,2945000,3289,Notar,272.2983605924026,Stureby
+2014-07-25,Sågverksgatan 118,Stureby,GronHagsatra,3,69,3,Lägenhet,1950,2350000,290000,2640000,3501,Notar,937.6939922500451,Stureby
+2014-06-27,Mölndalsbacken 94,Stureby,GronHagsatra,4,97.5,null,Lägenhet,1961,2750000,550000,3300000,4920,Mäklarhuset,764.3804121852776,Bandhagen
+2014-06-27,Bastuhagsvägen 10,Stureby,GronHagsatra,2,57,2,Lägenhet,1952,1895000,255000,2150000,2798,Mäklarhuset,663.3914407771958,Stureby
+2014-06-25,Östanåvägen 26,Stureby,GronHagsatra,3,85,1,Lägenhet,1930,3500000,-250000,3250000,3499,Mäklarhuset,311.03678916383217,Svedmyra
+2014-06-22,Bäckaskiftsvägen 72,Stureby,GronHagsatra,3,63,3,Lägenhet,1950,1950000,455000,2405000,2914,SkandiaMäklarna,263.71311346387535,Stureby
+2014-06-14,Götaforsvägen 45,Stureby,GronHagsatra,5,94,null,Lägenhet,1964,3495000,675000,4170000,3963,Notar,526.4482415614123,Bandhagen
+2014-06-13,Tanneforsvägen 16,Stureby,GronHagsatra,7,166,null,Villa,1939,6475000,725000,7200000,null,Fastighetsbyrån,431.01077377285293,Stureby
+2014-06-04,Sågverksgatan 108,Stureby,GronHagsatra,2,45,2,Lägenhet,1946,1650000,100000,1750000,3283,HusmanHagberg,950.1687141219791,Stureby
+2014-05-30,Vivstavarvsvägen 157,Stureby,GronHagsatra,4,72,2,Lägenhet,1952,2395000,0,2395000,4272,Svenska Mäklarhuset,1096.7625223038108,Stureby
+2014-05-29,Bäckaskiftsvägen 54,Stureby,GronHagsatra,1,42,2,Lägenhet,1950,1695000,-35000,1660000,2258,Södermäklarna,325.57338358945566,Stureby
+2014-05-28,Vivstavarvsvägen 151,Stureby,GronHagsatra,2,62,2,Lägenhet,1952,1695000,305000,2000000,3695,Länsförsäkringar Fastighetsförmedling,1102.2790350055875,Stureby
+2014-05-26,Bäckaskiftsvägen 72,Stureby,GronHagsatra,1,18,2,Lägenhet,1950,1000000,320000,1320000,1508,Notar,263.71311346387535,Stureby
+2014-05-22,Sågverksgatan 100,Stureby,GronHagsatra,2,46,3,Lägenhet,1946,1495000,170000,1665000,3282,Fastighetsbyrån,898.293500898964,Stureby
+2014-05-22,Bjulevägen 61,Stureby,GronHagsatra,2,48,3,Lägenhet,1946,1700000,0,1700000,3249,HusmanHagberg,840.6943606417909,Stureby
+2014-05-21,Bjulevägen 26C,Stureby,GronHagsatra,1,50,null,Lägenhet,1949,1495000,85000,1580000,3547,Erik Olsson Fastighetsförmedling,1061.8357919608422,Stureby
+2014-05-21,Bjulevägen 26C,Stureby,GronHagsatra,2,50,null,Lägenhet,1949,1495000,85000,1580000,3547,Erik Olsson Fastighetsförmedling,1061.8357919608422,Stureby
+2014-05-16,Götaforsvägen 32,Stureby,GronHagsatra,2,54.5,1,Lägenhet,null,1750000,-50000,1700000,3245,Länsförsäkringar Fastighetsförmedling,411.2137447344949,Bandhagen
+2014-05-09,Skönviksvägen 323,Stureby,GronHagsatra,2,57,3,Lägenhet,1952,1800000,80000,1880000,3338,Notar,236.4460662723146,Stureby
+2014-05-07,Tanneforsvägen 15,Stureby,GronHagsatra,4,73,null,Villa,1938,5150000,900000,6050000,null,Svenska Mäklarhuset,326.13849375373513,Stureby
+2014-05-06,Skönviksvägen 280,Stureby,GronHagsatra,2,54,1,Lägenhet,1958,1795000,-90000,1705000,2805,Länsförsäkringar Fastighetsförmedling,289.90217773063364,Stureby
+2014-05-06,Tussmötevägen 207B,Stureby,GronHagsatra,4,109,null,Lägenhet,2014,4575000,-325000,4250000,4318,Bjurfors,386.17267041097256,Svedmyra
+2014-05-01,Sågverksgatan 110,Stureby,GronHagsatra,2,42,1,Lägenhet,1946,1600000,250000,1850000,2933,Notar,957.2773027248589,Stureby
+2014-04-30,Skönviksvägen 284,Stureby,GronHagsatra,4,102,3,Lägenhet,null,3995000,0,3995000,3872,Fastighetsbyrån,306.1443848639519,Bandhagen
+2014-04-29,Skönviksvägen 287,Stureby,GronHagsatra,2,54,1,Lägenhet,1952,1795000,155000,1950000,3046,Länsförsäkringar Fastighetsförmedling,220.15325924129098,Bandhagen
+2014-04-27,Östrandsvägen 52,Stureby,GronHagsatra,3.5,74,2,Lägenhet,1950,2195000,255000,2450000,3736,SkandiaMäklarna,1099.9383985349743,Stureby
+2014-04-16,Bäckaskiftsvägen 19,Stureby,GronHagsatra,2,46,7,Lägenhet,1951,1875000,0,1875000,1775,Notar,279.9902801031771,Stureby
+2014-04-16,Götaforsvägen 32,Stureby,GronHagsatra,2,44.5,null,Lägenhet,null,1695000,205000,1900000,2769,Fastighetsbyrån,411.2137447344949,Bandhagen
+2014-04-15,Tussmötevägen 207F,Stureby,GronHagsatra,4,106,null,Lägenhet,2014,3975000,25000,4000000,4125,Bjurfors,398.09955559834526,Svedmyra
+2014-04-12,Tussmötevägen 207C,Stureby,GronHagsatra,4,115,null,Lägenhet,2014,4150000,30000,4180000,4514,Bjurfors,389.3068607778412,Svedmyra
+2014-04-11,Tussmötevägen 207D,Stureby,GronHagsatra,4,115,null,Lägenhet,2014,4150000,0,4150000,4514,Bjurfors,392.50668707406714,Svedmyra
+2014-04-04,Skönviksvägen 315,Stureby,GronHagsatra,3,69,3,Lägenhet,1952,2250000,160000,2410000,3988,Notar,291.97878067154153,Bandhagen
+2014-04-03,Götaforsvägen 34,Stureby,GronHagsatra,3,89.5,2,Lägenhet,1952,2395000,905000,3300000,4985,Svenska Mäklarhuset,424.7993119865975,Bandhagen
+2014-03-31,Bäckaskiftsvägen 50,Stureby,GronHagsatra,1,42,1,Lägenhet,null,1525000,0,1525000,2258,Svensk Fastighetsförmedling,327.9187668539297,Bandhagen
+2014-03-27,Skönviksvägen 333,Stureby,GronHagsatra,2,42.5,3,Lägenhet,1952,1595000,235000,1830000,2754,Fantastic Frank Fastighetsmäkleri,177.70356414785502,Stureby
+2014-03-15,Fiskebyvägen 2,Stureby,GronHagsatra,7,139,null,Villa,1964,6750000,700000,7450000,null,Bjurfors,594.7360170971153,Stureby
+2014-03-14,Sågverksgatan 81,Stureby,GronHagsatra,2,54,2,Lägenhet,1946,1650000,450000,2100000,3279,Notar,815.9284401405882,Stureby
+2014-03-05,Skönviksvägen 286,Stureby,GronHagsatra,1.5,31,1,Lägenhet,1961,1450000,230000,1680000,2143,Bjurfors,294.0288155952216,Stureby
+2014-02-27,Bäckaskiftsvägen 68,Stureby,GronHagsatra,3,70,2,Lägenhet,null,2175000,245000,2420000,3133,Svensk Fastighetsförmedling,300.1716926184608,Stureby
+2014-02-26,Götaforsvägen 34,Stureby,GronHagsatra,1,44.5,2,Lägenhet,1952,1495000,305000,1800000,2807,Notar,424.7993119865975,Bandhagen
+2014-02-20,Stabbläggarbacken 6,Stureby,GronHagsatra,2,142,null,Villa,1928,4350000,325000,4675000,null,Svensk Fastighetsförmedling,862.7197847527575,Stureby
+2014-02-19,Skönviksvägen 287,Stureby,GronHagsatra,2,54,2,Lägenhet,1952,1750000,50000,1800000,3245,Mäklarringen,220.15325924129098,Bandhagen
+2014-02-17,Skönviksvägen 290,Stureby,GronHagsatra,3,72,2,Lägenhet,1961,2250000,50000,2300000,4487,Notar,265.1501532835142,Stureby
+2014-02-16,Bäckaskiftsvägen 11,Stureby,GronHagsatra,3,73,1.5,Lägenhet,1951,2450000,130000,2580000,2789,Notar,336.04477192482074,Stureby
+2014-02-14,Uddeholmsvägen 217,Stureby,GronHagsatra,5,125,5,Villa,1928,7200000,1275000,8475000,null,HusmanHagberg,613.5443305305685,Stureby
+2014-02-13,Sågverksgatan 114,Stureby,GronHagsatra,2,45,0.5,Lägenhet,1945,1495000,105000,1600000,2826,Notar,894.0629370827497,Stureby
+2014-02-12,Skönviksvägen 329,Stureby,GronHagsatra,2,57,1,Lägenhet,1952,1595000,305000,1900000,3315,Mäklarhuset,209.7987233390444,Stureby
+2014-02-11,Götaforsvägen 9,Stureby,GronHagsatra,2,55,3,Lägenhet,1952,1695000,245000,1940000,3309,Svensk Fastighetsförmedling,386.76454680249884,Stureby
+2014-02-07,Götaforsvägen 11,Stureby,GronHagsatra,1,35,4,Lägenhet,1952,1395000,330000,1725000,2027,Notar,401.9039421741746,Stureby
+2014-02-07,Skönviksvägen 329,Stureby,GronHagsatra,1,19,1,Lägenhet,1952,995000,130000,1125000,1283,Mäklarhuset,209.7987233390444,Stureby
+2014-02-06,Skönviksvägen 288,Stureby,GronHagsatra,4,86,1,Lägenhet,1961,2495000,425000,2920000,5948,Svensk Fastighetsförmedling,278.0368969002785,Stureby
+2014-01-29,Sågverksgatan 102,Stureby,GronHagsatra,2,46,null,Lägenhet,1946,1450000,310000,1760000,3213,Fastighetsbyrån,907.0924545428906,Stureby
+2014-01-22,Sågverksgatan 85,Stureby,GronHagsatra,2,54,3,Lägenhet,1946,1595000,185000,1780000,3433,HusmanHagberg,839.3818189305431,Stureby
+2014-01-22,Östrandsvägen 20,Stureby,GronHagsatra,7,182,null,Villa,1954,7500000,1800000,9300000,null,SkandiaMäklarna,830.4677300268303,Stureby
+2014-01-19,Vivstavarvsvägen 163,Stureby,GronHagsatra,1,27,2,Lägenhet,1951,1250000,-100000,1150000,1912,Södermäklarna,1078.7590506238084,Stureby
+2014-01-18,Sågverksgatan 94,Stureby,GronHagsatra,2,50,1,Lägenhet,1946,1525000,0,1525000,3492,SkandiaMäklarna,869.1389861528211,Stureby
+2014-01-17,Bäckaskiftsvägen 64,Stureby,GronHagsatra,1,42,3,Lägenhet,1951,1550000,220000,1770000,2258,HusmanHagberg,303.9040692005649,Stureby
+2014-01-17,Bäckaskiftsvägen 74,Stureby,GronHagsatra,2,57,0.5,Lägenhet,1950,1800000,100000,1900000,2727,Notar,267.53823667784644,Stureby
+2014-01-17,Tussmötevägen 224,Stureby,GronHagsatra,2,56,2,Lägenhet,1940,1795000,0,1795000,3528,HusmanHagberg,633.7365494778348,Stureby
+2014-01-17,Bäckaskiftsvägen 48,Stureby,GronHagsatra,1,42,3,Lägenhet,1951,1575000,175000,1750000,2257,Mäklarhuset,341.01360962219155,Bandhagen
+2014-01-16,Tussmötevägen 252,Stureby,GronHagsatra,6,152,null,Villa,1923,7500000,150000,7650000,null,Svensk Fastighetsförmedling,666.099776114839,Stureby
+2014-01-16,Bäckaskiftsvägen 54,Stureby,GronHagsatra,1,42,3,Lägenhet,1952,1450000,200000,1650000,2257,SkandiaMäklarna,325.57338358945566,Stureby
+2014-01-10,Bäckaskiftsvägen 44,Stureby,GronHagsatra,2,57,2,Lägenhet,1951,1695000,105000,1800000,2727,Erik Olsson Fastighetsförmedling,350.56064124646383,Stureby
+2013-12-19,Bjulevägen 28,Stureby,GronHagsatra,3,76,1,Lägenhet,1949,1695000,180000,1875000,4493,Bjurfors,1051.4254802620626,Stureby
+2013-12-12,Sågverksgatan 120,Stureby,GronHagsatra,3,70,1,Lägenhet,1950,2195000,25000,2220000,3551,Erik Olsson Fastighetsförmedling,955.4870762041236,Stureby
+2013-12-04,Skönviksvägen 296,Stureby,GronHagsatra,3,60.2,null,Lägenhet,1961,1795000,205000,2000000,3796,Gripsholms Fastighetsförmedling,224.23029737835031,Stureby
+2013-11-29,Tussmötevägen 150,Stureby,GronHagsatra,5,117,1,Lägenhet,1930,4995000,5000,5000000,6958,Fastighetsbyrån,109.24092903552261,Svedmyra
+2013-11-19,Götaforsvägen 23,Stureby,GronHagsatra,2,55,3,Lägenhet,1952,1550000,90000,1640000,3309,Svensk Fastighetsförmedling,427.02369998277703,Bandhagen
+2013-11-19,Vivstavarvsvägen 206,Stureby,GronHagsatra,5,128,null,Villa,1924,6400000,-50000,6350000,null,Mäklarhuset,827.8830992444502,Stureby
+2013-11-15,Bastuhagsvägen 6,Stureby,GronHagsatra,2,57,0.5,Lägenhet,1952,1695000,0,1695000,2766,Notar,690.6692340325143,Stureby
+2013-11-14,Bjulevägen 22,Stureby,GronHagsatra,2,57,3,Lägenhet,1949,1650000,35000,1685000,3370,Erik Olsson Fastighetsförmedling,1036.768233759788,Stureby
+2013-11-13,Bandhagsvägen 68,Stureby,GronHagsatra,5,112,null,Radhus,1961,5250000,310000,5560000,null,HusmanHagberg,146.4815815992333,Stureby
+2013-11-08,Sågverksgatan 96,Stureby,GronHagsatra,3,61,2,Lägenhet,1946,1650000,150000,1800000,4058,HusmanHagberg,874.9253256537056,Stureby
+2013-11-08,Skönviksvägen 280,Stureby,GronHagsatra,2,56,null,Lägenhet,1958,1700000,160000,1860000,2758,HusmanHagberg,289.90217773063364,Stureby
+2013-11-05,Bastuhagsvägen 6,Stureby,GronHagsatra,2,57,null,Lägenhet,1952,1595000,225000,1820000,2766,Svensk Fastighetsförmedling,690.6692340325143,Stureby
+2013-11-01,Östrandsvägen 74,Stureby,GronHagsatra,4,110,null,Lägenhet,1950,3195000,175000,3370000,4927,Fastighetsbyrån,1023.7282127089684,Stureby
+2013-10-31,Skönviksvägen 321,Stureby,GronHagsatra,2,57,3,Lägenhet,1952,1795000,0,1795000,3338,Mäklarhuset,229.15314912687487,Stureby
+2013-10-27,Skönviksvägen 295,Stureby,GronHagsatra,1,19,null,Lägenhet,null,995000,195000,1190000,1298,Mäklarringen,233.13362501485216,Bandhagen
+2013-10-26,Bäckaskiftsvägen 52,Stureby,GronHagsatra,2,57,1.5,Lägenhet,1950,1850000,-50000,1800000,2597,Notar,313.77153187575,Bandhagen
+2013-10-25,Kubikenborgsvägen 3A,Stureby,GronHagsatra,2,51,null,Lägenhet,1946,1395000,325000,1720000,3116,Fastighetsbyrån,629.9591324319414,Stureby
+2013-10-25,Bjulevägen 19,Stureby,GronHagsatra,3,77,0.5,Lägenhet,1944,1995000,255000,2250000,4928,Erik Olsson Fastighetsförmedling,1013.7288885053613,Stureby
+2013-10-10,Skönviksvägen 293,Stureby,GronHagsatra,1,19,2,Lägenhet,1952,995000,175000,1170000,1320,Notar,225.04865871031927,Bandhagen
+2013-10-07,Skönviksvägen 287,Stureby,GronHagsatra,2,54,3,Lägenhet,1952,1795000,25000,1820000,3245,Svenska Mäklarhuset,220.15325924129098,Bandhagen
+2013-10-07,Skönviksvägen 286,Stureby,GronHagsatra,1,31,4,Lägenhet,1961,1250000,210000,1460000,2143,Svensk Fastighetsförmedling,294.0288155952216,Stureby
+2013-10-01,Skönviksvägen 315,Stureby,GronHagsatra,3,69,null,Lägenhet,1952,2325000,-75000,2250000,3988,HusmanHagberg,291.97878067154153,Bandhagen
+2013-09-27,Skönviksvägen 317,Stureby,GronHagsatra,3,69,null,Lägenhet,1952,1995000,205000,2200000,3927,Notar,281.40148663173136,Stureby
+2013-09-23,Östrandsvägen 52,Stureby,GronHagsatra,3,62,null,Lägenhet,1950,1900000,0,1900000,3270,HusmanHagberg,1099.9383985349743,Stureby
+2013-09-23,Vivstavarvsvägen 161,Stureby,GronHagsatra,1,26,3,Lägenhet,1951,1175000,95000,1270000,1873,HusmanHagberg,1085.8479594160654,Stureby
+2013-09-20,Götaforsvägen 25,Stureby,GronHagsatra,1,35,4,Lägenhet,null,1550000,-50000,1500000,2027,Erik Olsson Fastighetsförmedling,439.35326363271093,Bandhagen
+2013-09-19,Bäckaskiftsvägen 78,Stureby,GronHagsatra,3,75,3,Lägenhet,null,2495000,205000,2700000,3133,Bostadsrättsspecialisten,225.4222028367927,Stureby
+2013-09-14,Skönviksvägen 288,Stureby,GronHagsatra,3,72,3,Lägenhet,1961,1995000,105000,2100000,4979,HusmanHagberg,278.0368969002785,Stureby
+2013-09-13,Sågverksgatan 112,Stureby,GronHagsatra,3,65,null,Lägenhet,1947,1649000,171000,1820000,3054,Svensk Fastighetsförmedling,884.0578495224229,Stureby
+2013-09-13,Götaforsvägen 18,Stureby,GronHagsatra,3,67,1,Lägenhet,null,2250000,250000,2500000,3835,Erik Olsson Fastighetsförmedling,374.2245346876729,Bandhagen
+2013-09-13,Mölndalsbacken 58,Stureby,GronHagsatra,6,146,null,Radhus,null,3975000,50000,4025000,5573,Fastighetsbyrån,588.317831794988,Bandhagen
+2013-09-13,Östrandsvägen 53,Stureby,GronHagsatra,5,179,null,Villa,1950,6500000,200000,6700000,null,RE/MAX Sverige,1015.7776244060457,Stureby
+2013-09-11,Bjulevägen 57,Stureby,GronHagsatra,2,48.5,null,Lägenhet,1946,1450000,70000,1520000,3392,Svensk Fastighetsförmedling,862.050859446688,Stureby
+2013-09-04,Sågverksgatan 112,Stureby,GronHagsatra,3,64,3,Lägenhet,null,1780000,90000,1870000,3922,Södermäklarna,884.0578495224229,Stureby
+2013-09-02,Sågverksgatan 106,Stureby,GronHagsatra,3,69,null,Lägenhet,1946,1695000,-65000,1630000,4589,Svensk Fastighetsförmedling,934.12106980364,Stureby
+2013-08-30,Tussmötevägen 140,Stureby,GronHagsatra,2,58.5,2,Lägenhet,1929,2000000,450000,2450000,3688,Mäklarhuset,139.70143763266904,Svedmyra
+2013-08-30,Götaforsvägen 17,Stureby,GronHagsatra,2,55,1.5,Lägenhet,null,1700000,150000,1850000,3352,Södermäklarna,411.6753922089062,Bandhagen
+2013-08-30,Bastuhagsvägen 4,Stureby,GronHagsatra,2,57,null,Lägenhet,1952,1650000,0,1650000,2766,Notar,704.7102194854142,Stureby
+2013-08-26,Bollstavägen 3,Stureby,GronHagsatra,3,81,1,Lägenhet,null,2750000,150000,2900000,4192,Gripsholms Fastighetsförmedling,791.8731983915059,Stureby
+2013-08-23,Skönviksvägen 309,Stureby,GronHagsatra,4,88,1,Lägenhet,1952,2450000,250000,2700000,4860,Mäklarhuset,253.65702178621225,Stureby
+2013-08-21,Sågverksgatan 103,Stureby,GronHagsatra,4,77,null,Lägenhet,null,null,NaN,2270000,null,SkandiaMäklarna,996.9380779374848,Stureby
+2013-08-15,Skönviksvägen 323,Stureby,GronHagsatra,2,57,null,Lägenhet,1952,1590000,60000,1650000,3338,HusmanHagberg,236.4460662723146,Stureby
+2013-08-14,Götaforsvägen 22,Stureby,GronHagsatra,1.5,41,null,Lägenhet,1952,1600000,70000,1670000,2346,HusmanHagberg,372.7641293694795,Bandhagen
+2013-08-14,Kubikenborgsvägen 3A,Stureby,GronHagsatra,2,68,null,Lägenhet,1946,2510000,0,2510000,3188,Ansvar Fastighetsförmedling,629.9591324319414,Stureby
+2013-08-14,Kubikenborgsvägen 5,Stureby,GronHagsatra,2,52,null,Lägenhet,1946,1675000,-75000,1600000,2367,Ansvar Fastighetsförmedling,628.668615738376,Stureby
+2013-08-14,Bäckaskiftsvägen 25,Stureby,GronHagsatra,3,74,0.5,Lägenhet,1951,2100000,0,2100000,2799,Notar,305.16045196273166,Stureby
+2013-08-03,Bäckaskiftsvägen 58,Stureby,GronHagsatra,2,57,1.5,Lägenhet,1950,1795000,105000,1900000,2597,Notar,319.2165791490313,Bandhagen
+2013-07-26,Skönviksvägen 289,Stureby,GronHagsatra,2,54,1,Lägenhet,1952,1695000,5000,1700000,3245,HusmanHagberg,211.20141420542137,Bandhagen
+2013-07-25,Sågverksgatan 103,Stureby,GronHagsatra,3,71,1,Lägenhet,null,1875000,375000,2250000,4544,Erik Olsson Fastighetsförmedling,996.9380779374848,Stureby
+2013-07-22,Vivstavarvsvägen 151,Stureby,GronHagsatra,2.5,61,0.5,Lägenhet,1952,1495000,55000,1550000,3562,Notar,1102.2790350055875,Stureby
+2013-07-17,Bäckaskiftsvägen 66,Stureby,GronHagsatra,4,125,null,Lägenhet,1950,1600000,755000,2355000,4621,Notar,317.7800358780939,Stureby
+2013-07-05,Sågverksgatan 98,Stureby,GronHagsatra,2,45,null,Lägenhet,1946,1475000,165000,1640000,2993,HusmanHagberg,893.4764655516325,Stureby
+2013-06-30,Tussmötevägen 270,Stureby,GronHagsatra,5,100,null,Villa,1926,5950000,100000,6050000,null,ERA,821.4058539208255,Stureby
+2013-06-28,Tussmötevägen 231,Stureby,GronHagsatra,6,176,null,Villa,1923,6950000,1000000,7950000,null,Mäklarhuset,603.7902498366157,Stureby
+2013-06-25,Skönviksvägen 295,Stureby,GronHagsatra,2,57,null,Lägenhet,1952,1795000,125000,1920000,3338,Fastighetsbyrån,233.13362501485216,Bandhagen
+2013-06-20,Tussmötevägen 192A,Stureby,GronHagsatra,4,104,3,Lägenhet,1929,3995000,135000,4130000,5626,Svenska Mäklarhuset,218.859672861992,Svedmyra
+2013-06-19,Bäckaskiftsvägen 74,Stureby,GronHagsatra,1,18,null,Lägenhet,1950,950000,0,950000,1436,Notar,267.53823667784644,Stureby
+2013-06-19,Bjulevägen 17,Stureby,GronHagsatra,4,77,3,Lägenhet,1946,2175000,0,2175000,4928,Mäklarhuset,1014.178300000353,Stureby
+2013-06-17,Skönviksvägen 286,Stureby,GronHagsatra,1.5,32,4,Lägenhet,null,1475000,25000,1500000,2212,Mäklarhuset,294.0288155952216,Stureby
+2013-06-13,Skönviksvägen 325,Stureby,GronHagsatra,2,57,null,Lägenhet,1952,1595000,300000,1895000,3338,HusmanHagberg,245.24956749637394,Stureby
+2013-06-12,Skönviksvägen 303,Stureby,GronHagsatra,3,69,null,Lägenhet,1952,1995000,0,1995000,3958,Fastighetsbyrån,292.67154657999623,Bandhagen
+2013-06-07,Götaforsvägen 5,Stureby,GronHagsatra,2,55,null,Lägenhet,1951,1695000,0,1695000,3309,SkandiaMäklarna,355.1234178123567,Stureby
+2013-06-05,Skönviksvägen 286,Stureby,GronHagsatra,1,32,2,Lägenhet,1961,1195000,285000,1480000,2212,Svensk Fastighetsförmedling,294.0288155952216,Stureby
+2013-06-05,Götaforsvägen 29,Stureby,GronHagsatra,4,94,null,Radhus,1960,2895000,305000,3200000,3848,Hemmäklarna,489.6950450277516,Bandhagen
+2013-05-28,Bjulevägen 59,Stureby,GronHagsatra,2,48.5,3,Lägenhet,1946,1450000,100000,1550000,3272,Svenska Mäklarhuset,851.171663584633,Stureby
+2013-05-28,Bäckaskiftsvägen 62,Stureby,GronHagsatra,2,57,1,Lägenhet,1950,1695000,0,1695000,2597,Restate,298.59734303437637,Stureby
+2013-05-25,Skönviksvägen 272,Stureby,GronHagsatra,2,54,null,Lägenhet,1952,1575000,125000,1700000,3104,ERA,307.52539042296496,Stureby
+2013-05-24,Bäckaskiftsvägen 74,Stureby,GronHagsatra,2,57,3,Lägenhet,1950,1795000,55000,1850000,2597,Notar,267.53823667784644,Stureby
+2013-05-23,Husumsgränd 32,Stureby,GronHagsatra,6,144,null,Villa,1951,4495000,1330000,5825000,null,Svensk Fastighetsförmedling,961.5852169394559,Stureby
+2013-05-20,Bäckaskiftsvägen 66,Stureby,GronHagsatra,3,70,1,Lägenhet,1950,2095000,0,2095000,2984,Restate,317.7800358780939,Stureby
+2013-05-17,Östrandsvägen 68,Stureby,GronHagsatra,3,75,null,Lägenhet,1950,1850000,-25000,1825000,3638,Länsförsäkringar Fastighetsförmedling,1047.321754351412,Stureby
+2013-05-09,Mölndalsbacken 50,Stureby,GronHagsatra,6,148,null,Lägenhet,1964,4275000,-150000,4125000,5573,Notar,643.0290953312198,Bandhagen
+2013-05-09,Bäckaskiftsvägen 80,Stureby,GronHagsatra,3,70,3,Lägenhet,1950,2395000,55000,2450000,2984,Restate,228.92530396608205,Stureby
+2013-05-04,Husumsgränd 7,Stureby,GronHagsatra,6,146,null,Villa,1951,6250000,850000,7100000,null,Svensk Fastighetsförmedling,978.2831258459655,Stureby
+2013-05-03,Sågverksgatan 114,Stureby,GronHagsatra,2,45,null,Lägenhet,1945,1650000,60000,1710000,2826,Fastighetsbyrån,894.0629370827497,Stureby
+2013-04-27,Mölnbackavägen 4,Stureby,GronHagsatra,5,82,null,Villa,1938,6200000,-500000,5700000,null,Bjurfors,71.39732503393824,Stureby
+2013-04-26,Sågverksgatan 103,Stureby,GronHagsatra,4,77,1,Lägenhet,1946,2250000,190000,2440000,4928,Mäklarhuset,996.9380779374848,Stureby
+2013-04-26,Bäckaskiftsvägen 29,Stureby,GronHagsatra,4,87,0.5,Lägenhet,1951,2800000,320000,3120000,2886,Notar,343.9126874761037,Stureby
+2013-04-26,Skönviksvägen 270,Stureby,GronHagsatra,2,54,null,Lägenhet,1952,1750000,120000,1870000,3245,SkandiaMäklarna,301.9333429221961,Stureby
+2013-04-17,Tussmötevägen 188,Stureby,GronHagsatra,4,95,null,Lägenhet,1930,3095000,105000,3200000,5002,HusmanHagberg,196.33426385287882,Svedmyra
+2013-04-16,Skönviksvägen 280,Stureby,GronHagsatra,2,56,null,Lägenhet,1958,1650000,30000,1680000,2758,Svenska Mäklarhuset,289.90217773063364,Stureby
+2013-04-15,Sågverksgatan 96,Stureby,GronHagsatra,1,20,null,Lägenhet,1946,995000,0,995000,1331,HusmanHagberg,874.9253256537056,Stureby
+2013-04-13,Mölndalsbacken 126,Stureby,GronHagsatra,4,97.5,null,Radhus,null,3650000,-365000,3285000,4777,Fastighetsbyrån,864.3775596176961,Bandhagen
+2013-04-12,Sågverksgatan 118,Stureby,GronHagsatra,3,83,2,Lägenhet,1950,1995000,265000,2260000,4211,Notar,937.6939922500451,Stureby
+2013-03-29,Götaforsvägen 78,Stureby,GronHagsatra,5,113,null,Villa,1963,3995000,55000,4050000,null,Mäklarringen,680.4077186603828,Bandhagen
+2013-03-29,Bjulevägen 14,Stureby,GronHagsatra,2,57,1,Lägenhet,1949,1345000,275000,1620000,3370,Notar,1029.9290140782905,Stureby
+2013-03-28,Bjulevägen 14,Stureby,GronHagsatra,2,56,null,Lägenhet,1949,1395000,0,1395000,3311,Fastighetsbyrån,1029.9290140782905,Stureby
+2013-03-28,Iggesundsvägen 54,Stureby,GronHagsatra,6,135,null,Radhus,1967,5000000,0,5000000,null,HusmanHagberg,812.0941160509807,Stureby
+2013-03-26,Skönviksvägen 286,Stureby,GronHagsatra,1.5,32,1,Lägenhet,1961,1350000,100000,1450000,2212,Mäklarhuset,294.0288155952216,Stureby
+2013-03-22,Sågverksgatan 108,Stureby,GronHagsatra,2,46,null,Lägenhet,1946,1495000,55000,1550000,3059,Länsförsäkringar Fastighetsförmedling,950.1687141219791,Stureby
+2013-03-21,Skönviksvägen 317,Stureby,GronHagsatra,4,88,null,Lägenhet,1952,2750000,200000,2950000,4999,HusmanHagberg,281.40148663173136,Stureby
+2013-03-19,Götaforsvägen 21,Stureby,GronHagsatra,2,55,3,Lägenhet,1952,1575000,205000,1780000,3309,Svensk Fastighetsförmedling,414.0698462570247,Bandhagen
+2013-03-16,Skönviksvägen 293,Stureby,GronHagsatra,2,57,null,Lägenhet,1952,1795000,225000,2020000,3382,Fastighetsbyrån,225.04865871031927,Bandhagen
+2013-03-11,Sågverksgatan 116,Stureby,GronHagsatra,3,59,null,Lägenhet,1945,1595000,105000,1700000,3574,Fastighetsbyrån,903.7665278341357,Stureby
+2013-03-09,Skönviksvägen 271,Stureby,GronHagsatra,3,70,null,Lägenhet,1951,2245000,-30000,2215000,3979,Fastighetsbyrån,344.78509192216313,Stureby
+2013-03-07,Vivstavarvsvägen 153,Stureby,GronHagsatra,2,63,2,Lägenhet,null,1750000,180000,1930000,3683,Mäklarhuset,1106.8027511553612,Stureby
+2013-03-07,Mölndalsbacken 20,Stureby,GronHagsatra,7,146,null,Lägenhet,1963,4595000,155000,4750000,5359,Mäklarhuset,590.7946160912659,Bandhagen
+2013-03-07,Östrandsvägen 54,Stureby,GronHagsatra,3,63,null,Lägenhet,1960,1695000,170000,1865000,3309,Fastighetsbyrån,1116.3860696574634,Stureby
+2013-03-02,Sågverksgatan 96,Stureby,GronHagsatra,3,61,null,Lägenhet,1946,1550000,130000,1680000,4058,HusmanHagberg,874.9253256537056,Stureby
+2013-03-01,Bjulevägen 20,Stureby,GronHagsatra,2,56,1,Lägenhet,null,1475000,25000,1500000,3310,Svensk Fastighetsförmedling,1035.5254931317625,Stureby
+2013-02-23,Sågverksgatan 101,Stureby,GronHagsatra,3,77,null,Lägenhet,1946,1995000,-145000,1850000,4928,Fastighetsbyrån,982.3437032478041,Stureby
+2013-02-22,Skönviksvägen 323,Stureby,GronHagsatra,1,19,null,Lägenhet,1952,995000,0,995000,1261,HusmanHagberg,236.4460662723146,Stureby
+2013-02-18,Bjulevägen 34,Stureby,GronHagsatra,3,68,3,Lägenhet,1947,1995000,-195000,1800000,2671,Svensk Fastighetsförmedling,1062.6348330405726,Stureby
+2013-02-16,Bäckaskiftsvägen 17,Stureby,GronHagsatra,4,85,1.5,Lägenhet,1951,2800000,300000,3100000,2848,Notar,291.7718101469032,Stureby
+2013-02-16,Sågverksgatan 77,Stureby,GronHagsatra,2,54,1,Lägenhet,1946,1550000,275000,1825000,3196,Svenska Mäklarhuset,792.4039102226164,Stureby
+2013-02-16,Bäckaskiftsvägen 15,Stureby,GronHagsatra,3,79,0.5,Lägenhet,1951,2395000,115000,2510000,2621,Notar,305.0117541932716,Stureby
+2013-02-05,Skönviksvägen 323,Stureby,GronHagsatra,2,57,null,Lägenhet,1952,1475000,345000,1820000,3251,HusmanHagberg,236.4460662723146,Stureby
+2013-02-04,Sågverksgatan 83,Stureby,GronHagsatra,2,54,2,Lägenhet,1946,1600000,0,1600000,3362,Restate,827.8093050231099,Stureby
+2013-02-02,Bastuhagsvägen 14,Stureby,GronHagsatra,4,86,null,Lägenhet,1952,2650000,180000,2830000,3130,HusmanHagberg,637.0570302457575,Stureby
+2013-01-31,Bjulevägen 17,Stureby,GronHagsatra,3,77,1,Lägenhet,1946,1750000,120000,1870000,4928,Mäklarhuset,1014.178300000353,Stureby
+2013-01-29,Skönviksvägen 311,Stureby,GronHagsatra,2,54,3,Lägenhet,1952,1750000,110000,1860000,3302,Mäklarhuset,265.72897879550624,Bandhagen
+2013-01-24,Bäckaskiftsvägen 15,Stureby,GronHagsatra,3,76,3,Lägenhet,null,2400000,-50000,2350000,2573,Mäklarhuset,305.0117541932716,Stureby
+2013-01-19,Skönviksvägen 321,Stureby,GronHagsatra,1,19,null,Lägenhet,1952,1095000,0,1095000,1320,Fastighetsbyrån,229.15314912687487,Stureby
+2013-01-19,Sågverksgatan 106,Stureby,GronHagsatra,3,69,null,Lägenhet,1946,1650000,0,1650000,4590,Notar,934.12106980364,Stureby
+2013-01-17,Skönviksvägen 272,Stureby,GronHagsatra,3,70,1,Lägenhet,1952,2200000,-100000,2100000,3887,Mäklarhuset,307.52539042296496,Stureby
+2013-01-17,Götaforsvägen 18,Stureby,GronHagsatra,1.5,41,null,Lägenhet,1951,1495000,135000,1630000,2326,Fastighetsbyrån,374.2245346876729,Bandhagen
+2013-01-16,Forstmästarvägen 17,Stureby,GronHagsatra,null,172,null,Villa,1936,5495000,-295000,5200000,null,Notar,697.4388765927944,Stureby
+2013-01-15,Mölndalsbacken 140,Stureby,GronHagsatra,4,97.5,null,Lägenhet,1961,2750000,200000,2950000,4593,Mäklarhuset,897.598474965942,Bandhagen
+2013-01-11,Götaforsvägen 20,Stureby,GronHagsatra,1.5,41,4,Lägenhet,1952,1500000,100000,1600000,2326,Notar,372.3169353232381,Bandhagen
+2013-01-11,Sågverksgatan 104,Stureby,GronHagsatra,2,46,null,Lägenhet,1946,1300000,0,1300000,2971,Svensk Fastighetsförmedling,913.3693496192908,Stureby
+2012-12-21,Mölndalsbacken 20,Stureby,GronHagsatra,7,146,null,Radhus,1963,4895000,5000,4900000,5359,Fastighetsbyrån,590.7946160912659,Bandhagen
+2012-12-21,Bjulevägen 22,Stureby,GronHagsatra,2,56,1,Lägenhet,null,1450000,35000,1485000,3010,Erik Olsson Fastighetsförmedling,1036.768233759788,Stureby
+2012-12-19,Götaforsvägen 22,Stureby,GronHagsatra,3,67,2,Lägenhet,null,1800000,0,1800000,3841,Erik Olsson Fastighetsförmedling,372.7641293694795,Bandhagen
+2012-12-12,Sågverksgatan 79,Stureby,GronHagsatra,2,54,3,Lägenhet,1947,1300000,120000,1420000,3430,Mäklarhuset,805.7446816066915,Stureby
+2012-12-05,Tussmötevägen 146,Stureby,GronHagsatra,3,81,null,Lägenhet,1929,3030000,0,3030000,4774,Bjurfors,173.71608217526997,Svedmyra
+2012-12-04,Götaforsvägen 7,Stureby,GronHagsatra,1,35,4,Lägenhet,1952,1450000,0,1450000,2027,Notar,371.40398576426315,Stureby
+2012-12-01,Bastuhagsvägen 14,Stureby,GronHagsatra,4,86,2,Lägenhet,1953,2750000,-50000,2700000,3130,Mäklarhuset,637.0570302457575,Stureby
+2012-11-30,Bäckaskiftsvägen 27,Stureby,GronHagsatra,3,69,0.5,Lägenhet,1951,2250000,0,2250000,2289,Notar,330.6879425081474,Stureby
+2012-11-27,Sågverksgatan 81,Stureby,GronHagsatra,2,54,3,Lägenhet,null,1550000,0,1550000,3279,Mäklarhuset,815.9284401405882,Stureby
+2012-11-27,Långåkersvägen 59,Stureby,GronHagsatra,6,172,null,Villa,1911,6500000,-50000,6450000,null,Mäklarhuset,892.7224191519309,Stureby
+2012-11-25,Östrandsvägen 60,Stureby,GronHagsatra,3.5,74,null,Lägenhet,1950,1995000,315000,2310000,3736,Fastighetsbyrån,1124.99779094131,Stureby
+2012-11-21,Östrandsvägen 54,Stureby,GronHagsatra,2,62,null,Lägenhet,1951,1595000,230000,1825000,3270,Fastighetsbyrån,1116.3860696574634,Stureby
+2012-11-16,Skönviksvägen 303,Stureby,GronHagsatra,3,69,null,Lägenhet,1952,1750000,90000,1840000,3958,Fastighetsbyrån,292.67154657999623,Bandhagen
+2012-11-06,Skönviksvägen 296,Stureby,GronHagsatra,2,60.2,null,Lägenhet,1961,1875000,0,1875000,3796,Svensk Fastighetsförmedling,224.23029737835031,Stureby
+2012-11-06,Götaforsvägen 23,Stureby,GronHagsatra,1,35,null,Lägenhet,1949,1395000,105000,1500000,2027,Fastighetsbyrån,427.02369998277703,Bandhagen
+2012-11-01,Sågverksgatan 85,Stureby,GronHagsatra,2,54,null,Lägenhet,1946,1495000,35000,1530000,3667,Fastighetsbyrån,839.3818189305431,Stureby
+2012-11-01,Götaforsvägen 13,Stureby,GronHagsatra,2,55,null,Lägenhet,1952,1595000,25000,1620000,3208,Svensk Fastighetsförmedling,410.4969587267527,Bandhagen
+2012-10-24,Bjulevägen 34,Stureby,GronHagsatra,4,83,null,Lägenhet,1947,2495000,215000,2710000,3308,Fastighetsbyrån,1062.6348330405726,Stureby
+2012-10-24,Skönviksvägen 297,Stureby,GronHagsatra,3.5,88,3,Lägenhet,null,2890000,20000,2910000,4669,Erik Olsson Fastighetsförmedling,240.7854112077565,Bandhagen
+2012-10-24,Skönviksvägen 297,Stureby,GronHagsatra,3,88,3,Lägenhet,null,2890000,70000,2960000,4669,Erik Olsson Fastighetsförmedling,240.7854112077565,Bandhagen
+2012-10-23,Skönviksvägen 286,Stureby,GronHagsatra,1,38,null,Lägenhet,1961,1395000,-45000,1350000,2767,Fastighetsbyrån,294.0288155952216,Stureby
+2012-10-20,Götaforsvägen 18,Stureby,GronHagsatra,3,67,2,Lägenhet,1952,1995000,-45000,1950000,3841,Mäklarhuset,374.2245346876729,Bandhagen
+2012-10-12,Götaforsvägen 23,Stureby,GronHagsatra,2,55,null,Lägenhet,null,1450000,0,1450000,3265,Fastighetsbyrån,427.02369998277703,Bandhagen
+2012-10-12,Bäckaskiftsvägen 33,Stureby,GronHagsatra,2,57,2,Lägenhet,1951,1600000,380000,1980000,1929,Notar,234.31336704384995,Stureby
+2012-10-07,Vivstavarvsvägen 159,Stureby,GronHagsatra,3,72,null,Lägenhet,1952,1975000,0,1975000,4209,Svensk Fastighetsförmedling,1082.2720138938955,Stureby
+2012-10-07,Bjulevägen 26C,Stureby,GronHagsatra,1,50,null,Lägenhet,null,1295000,105000,1400000,2687,Notar,1061.8357919608422,Stureby
+2012-10-01,Bäckaskiftsvägen 33,Stureby,GronHagsatra,3,76,0.5,Lägenhet,1951,2395000,-145000,2250000,2521,Notar,234.31336704384995,Stureby
+2012-10-01,Skönviksvägen 306,Stureby,GronHagsatra,4,89.5,null,Villa,1955,3975000,25000,4000000,null,Mäklarringen,186.2119017020033,Stureby
+2012-09-28,Bjulevägen 61,Stureby,GronHagsatra,2,48,null,Lägenhet,1946,1200000,240000,1440000,3424,Mäklarringen,840.6943606417909,Stureby
+2012-09-25,Östrandsvägen 76,Stureby,GronHagsatra,3,72,1,Lägenhet,1950,1995000,205000,2200000,3528,Svensk Fastighetsförmedling,1038.4459804232827,Stureby
