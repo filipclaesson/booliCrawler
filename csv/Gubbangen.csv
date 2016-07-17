@@ -1,323 +1,323 @@
 date,address,subArea,area,room,sqm,floor,objectType,constructionYear,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
-2016-06-23,Knektvägen 3,Gubbangen,GronHagsatra,2,53,3,Lägenhet,1947,2395000,255000,2650000,3056,SkandiaMäklarna,189.64960987521937,Gubbangen
-2016-06-18,Getfotsvägen 59,Gubbangen,GronHagsatra,4,100,3,Lägenhet,2004,3975000,425000,4400000,6274,ERA,376.83853037330476,Gubbangen
-2016-06-16,Bordsvägen 15,Gubbangen,GronHagsatra,2,51,2,Lägenhet,1946,2195000,75000,2270000,2701,Bjurfors,201.4196042658475,Gubbangen
-2016-06-14,Kryddgränd 4,Gubbangen,GronHagsatra,4,90,2,Lägenhet,1986,2875000,325000,3200000,5412,Fastighetsmäklarna,542.6042547000668,Gubbangen
-2016-06-14,Majrovägen 41,Gubbangen,GronHagsatra,2,34,null,Lägenhet,null,1975000,275000,2250000,2634,ERA,463.5680255366515,Gubbangen
-2016-06-14,Majrovägen 25,Gubbangen,GronHagsatra,5,93,null,Lägenhet,1996,4400000,0,4400000,6390,SkandiaMäklarna,329.5531681013019,Gubbangen
-2016-06-03,Knektvägen 17,Gubbangen,GronHagsatra,2,54,5,Lägenhet,1948,2395000,260000,2655000,3198,Fastighetsbyrån,83.43158728673211,Gubbangen
-2016-06-03,Kryddgränd 4,Gubbangen,GronHagsatra,3,78,null,Lägenhet,1985,2695000,-165000,2530000,4782,SkandiaMäklarna,542.6042547000668,Gubbangen
-2016-06-01,Rubanksgränd 3,Gubbangen,GronHagsatra,3,73,3,Lägenhet,2007,2995000,405000,3400000,5407,HusmanHagberg,496.1128533451014,Gubbangen
-2016-06-01,Getfotsvägen 5,Gubbangen,GronHagsatra,2,52,2,Lägenhet,1952,1975000,415000,2390000,3247,Hemmäklarna,312.6510900749745,Gubbangen
-2016-05-29,Skrinvägen 6,Gubbangen,GronHagsatra,2,60,2,Lägenhet,1946,2595000,5000,2600000,2983,SkandiaMäklarna,329.35171088868475,Gubbangen
-2016-05-28,Herrhagsvägen 129,Gubbangen,GronHagsatra,4,52,null,Villa,1939,4450000,700000,5150000,null,ERA,257.8868730713215,Gubbangen
-2016-05-27,Getfotsvägen 46,Gubbangen,GronHagsatra,3,72,2,Lägenhet,1949,2795000,430000,3225000,3800,HusmanHagberg,429.4293726537278,Gubbangen
-2016-05-27,Bordsvägen 33A,Gubbangen,GronHagsatra,2,54,2,Lägenhet,1947,2195000,155000,2350000,3660,ERA,215.36130334727267,Gubbangen
-2016-05-27,Majrovägen 5,Gubbangen,GronHagsatra,4.5,93,2,Lägenhet,2009,3900000,450000,4350000,5869,Svensk Fastighetsförmedling,243.04967023197162,Gubbangen
-2016-05-26,Kistvägen 18,Gubbangen,GronHagsatra,2,57,3,Lägenhet,1948,1995000,455000,2450000,3716,Mäklarringen,143.32779054670058,Gubbangen
-2016-05-23,Majrovägen 41,Gubbangen,GronHagsatra,4,95.5,4,Lägenhet,1996,3975000,725000,4700000,6144,ERA,463.5680255366515,Gubbangen
-2016-05-18,Getfotsvägen 11,Gubbangen,GronHagsatra,4,93.5,1,Lägenhet,2009,4250000,450000,4700000,5028,Svensk Fastighetsförmedling,375.6074051286519,Gubbangen
-2016-05-02,Karmstolsvägen 11,Gubbangen,GronHagsatra,2,64,3,Lägenhet,1947,2500000,0,2500000,4167,Länsförsäkringar Fastighetsförmedling,144.8995738899371,Gubbangen
-2016-05-02,Majrovägen 17,Gubbangen,GronHagsatra,4,99,null,Lägenhet,1999,3950000,1050000,5000000,6600,ERA,251.69635920391343,Gubbangen
-2016-04-26,Majrovägen 14,Gubbangen,GronHagsatra,2,53,5,Lägenhet,1947,2295000,575000,2870000,3056,Notar,232.6277623226066,Gubbangen
-2016-04-21,Bordsvägen 19,Gubbangen,GronHagsatra,2,51,2,Lägenhet,1946,2195000,315000,2510000,2701,Bjurfors,201.4196042658475,Gubbangen
-2016-04-21,Gubbängsvägen 48,Gubbangen,GronHagsatra,5,110,null,Villa,1948,5295000,1315000,6610000,null,Fastighetsbyrån,554.3787372740567,Gubbangen
-2016-04-20,Dörrvägen 10,Gubbangen,GronHagsatra,3,64,1,Lägenhet,1947,2850000,760000,3610000,3489,Svensk Fastighetsförmedling,268.99460185102566,Gubbangen
-2016-04-18,Getfotsvägen 48,Gubbangen,GronHagsatra,3,72,1,Lägenhet,1949,2995000,480000,3475000,3800,HusmanHagberg,426.6950931510933,Gubbangen
-2016-04-18,Cirkelvägen 6,Gubbangen,GronHagsatra,2,52,2,Lägenhet,1947,2250000,200000,2450000,3392,ERA,327.86619155014694,Gubbangen
-2016-04-16,Bordsvägen 39,Gubbangen,GronHagsatra,2,53,3,Lägenhet,1946,2290000,360000,2650000,3056,ERA,186.82933316352864,Gubbangen
-2016-04-16,Kryddgränd 6,Gubbangen,GronHagsatra,2,71,4,Lägenhet,1985,1595000,-35000,1560000,5622,Svensk Fastighetsförmedling,474.48525722183007,Gubbangen
-2016-04-15,Sicklingsvägen 7,Gubbangen,GronHagsatra,3,68,1,Lägenhet,1946,2950000,515000,3465000,3737,ERA,169.90485370312868,Gubbangen
-2016-04-10,Bordsvägen 23,Gubbangen,GronHagsatra,2,51,2,Lägenhet,1946,2295000,255000,2550000,2701,Mäklarringen,307.41770573879455,Gubbangen
-2016-04-08,Getfotsvägen 46,Gubbangen,GronHagsatra,3,72,2,Lägenhet,1951,2795000,645000,3440000,3800,SkandiaMäklarna,429.4293726537278,Gubbangen
-2016-04-06,Sicklingsvägen 10,Gubbangen,GronHagsatra,2,53,2,Lägenhet,1947,2195000,730000,2925000,3056,Notar,156.15754816851322,Gubbangen
-2016-03-27,Högsätesvägen 13,Gubbangen,GronHagsatra,5,68,null,Radhus,1947,4450000,950000,5400000,null,ERA,796.2033084454041,Gubbangen
-2016-03-26,Karmstolsvägen 10,Gubbangen,GronHagsatra,3.5,74,2,Lägenhet,1947,2695000,-95000,2600000,5121,Fastighetsbyrån,125.80223814839151,Gubbangen
-2016-03-24,Majrovägen 19,Gubbangen,GronHagsatra,3,58,1,Lägenhet,1997,2490000,630000,3120000,4650,ERA,296.2299541570934,Gubbangen
-2016-03-24,Getfotsvägen 40,Gubbangen,GronHagsatra,3,68,1,Lägenhet,1949,2495000,355000,2850000,3588,HusmanHagberg,441.8898322123783,Gubbangen
-2016-03-24,Sicklingsvägen 18,Gubbangen,GronHagsatra,3,68,1,Lägenhet,1948,2950000,50000,3000000,3737,Svensk Fastighetsförmedling,233.52441150482542,Gubbangen
-2016-03-24,Sicklingsvägen 8,Gubbangen,GronHagsatra,2,53,2,Lägenhet,null,2250000,400000,2650000,3056,Svensk Fastighetsförmedling,147.08562691079314,Gubbangen
-2016-03-22,Majrovägen 1,Gubbangen,GronHagsatra,3,70,0,Lägenhet,2010,3200000,0,3200000,4749,Fastighetsbyrån,233.881443341955,Gubbangen
-2016-03-19,Majrovägen 29,Gubbangen,GronHagsatra,4,93,1,Lägenhet,1997,3650000,760000,4410000,6354,ERA,339.057489871036,Gubbangen
-2016-03-17,Knektvägen 3,Gubbangen,GronHagsatra,2,53,2,Lägenhet,1947,2195000,245000,2440000,3056,ERA,189.64960987521937,Gubbangen
-2016-03-14,Sicklingsvägen 14,Gubbangen,GronHagsatra,3,68,3,Lägenhet,1946,2950000,660000,3610000,3812,ERA,202.26706237763509,Gubbangen
-2016-03-12,Getfotsvägen 59,Gubbangen,GronHagsatra,2,52,4,Lägenhet,2004,2295000,555000,2850000,3942,Svensk Fastighetsförmedling,376.83853037330476,Gubbangen
-2016-03-12,Majrovägen 31,Gubbangen,GronHagsatra,4,93,1,Lägenhet,1996,3675000,1175000,4850000,5692,ERA,390.59183898477727,Gubbangen
-2016-03-10,Getfotsvägen 44,Gubbangen,GronHagsatra,3,72,3,Lägenhet,1951,2795000,555000,3350000,3800,Fastighetsbyrån,431.4615945324344,Gubbangen
-2016-03-10,Getfotsvägen 13,Gubbangen,GronHagsatra,3,76,3,Lägenhet,2009,3495000,455000,3950000,4277,Fastighetsbyrån,386.0426043035413,Gubbangen
-2016-03-09,Getfotsvägen 1,Gubbangen,GronHagsatra,2,52,null,Lägenhet,1952,2450000,400000,2850000,3247,Mäklare Sjögren,285.1888728730072,Gubbangen
-2016-03-04,Knektvägen 15,Gubbangen,GronHagsatra,2,56,4,Lägenhet,1948,2290000,450000,2740000,3284,ERA,116.49536184005721,Gubbangen
-2016-03-03,Bordsvägen 72,Gubbangen,GronHagsatra,3,68,1,Lägenhet,1947,2950000,350000,3300000,3736,ERA,293.54141941922995,Gubbangen
-2016-03-01,Kryddgränd 4,Gubbangen,GronHagsatra,2,68,3,Lägenhet,1985,1795000,215000,2010000,5142,HusmanHagberg,542.6042547000668,Gubbangen
-2016-02-26,Getfotsvägen 42,Gubbangen,GronHagsatra,3,72,2,Lägenhet,1949,2795000,280000,3075000,3800,HusmanHagberg,436.91003596170793,Gubbangen
-2016-02-26,Rubanksgränd 3,Gubbangen,GronHagsatra,2,55,2,Lägenhet,2007,2295000,570000,2865000,4396,Svensk Fastighetsförmedling,496.1128533451014,Gubbangen
-2016-02-25,Kryddgränd 4,Gubbangen,GronHagsatra,2,65,null,Lägenhet,1985,1850000,260000,2110000,4984,SkandiaMäklarna,542.6042547000668,Gubbangen
-2016-02-24,Majrovägen 1,Gubbangen,GronHagsatra,3,71,4,Lägenhet,2009,2950000,170000,3120000,4798,ERA,233.881443341955,Gubbangen
-2016-02-20,Majrovägen 14,Gubbangen,GronHagsatra,2,53,1,Lägenhet,1946,2190000,430000,2620000,2998,ERA,232.6277623226066,Gubbangen
-2016-02-17,Majrovägen 35,Gubbangen,GronHagsatra,2,49.5,null,Lägenhet,1996,2225000,265000,2490000,3245,SkandiaMäklarna,404.49938183885763,Gubbangen
-2016-02-17,Cirkelvägen 6,Gubbangen,GronHagsatra,3,70,1,Lägenhet,1947,2850000,200000,3050000,4412,Fastighetsbyrån,327.86619155014694,Gubbangen
-2016-02-10,Knektvägen 15,Gubbangen,GronHagsatra,1.5,40,5,Lägenhet,1948,1995000,655000,2650000,2498,ERA,116.49536184005721,Gubbangen
-2016-02-04,Bordsvägen 33B,Gubbangen,GronHagsatra,2,54,2,Lägenhet,1947,2195000,285000,2480000,3660,ERA,228.92721324541486,Gubbangen
-2016-02-03,Sicklingsvägen 3,Gubbangen,GronHagsatra,1,25,6,Lägenhet,1947,1595000,815000,2410000,1634,Länsförsäkringar Fastighetsförmedling,120.18685345402046,Gubbangen
-2016-01-28,Bordsvägen 33,Gubbangen,GronHagsatra,2,54,1,Lägenhet,1947,2095000,280000,2375000,3660,Svensk Fastighetsförmedling,201.09790620390268,Gubbangen
-2016-01-22,Majrovägen 17,Gubbangen,GronHagsatra,2,51,3,Lägenhet,1999,2195000,255000,2450000,4131,ERA,251.69635920391343,Gubbangen
-2016-01-22,Sicklingsvägen 13,Gubbangen,GronHagsatra,3,68,3,Lägenhet,1947,2995000,370000,3365000,3812,Svensk Fastighetsförmedling,216.94200025543546,Gubbangen
-2016-01-22,Majrovägen 41,Gubbangen,GronHagsatra,4,80.5,0,Lägenhet,1996,3250000,800000,4050000,5105,HusmanHagberg,463.5680255366515,Gubbangen
-2016-01-21,Bordsvägen 33A,Gubbangen,GronHagsatra,2,54,3,Lägenhet,1947,2150000,310000,2460000,3660,ERA,215.36130334727267,Gubbangen
-2016-01-21,Karmstolsvägen 9,Gubbangen,GronHagsatra,2,64,null,Lägenhet,1947,1995000,625000,2620000,4167,Länsförsäkringar Fastighetsförmedling,220.27223577359806,Gubbangen
-2016-01-21,Majrovägen 27,Gubbangen,GronHagsatra,3,69,1,Lägenhet,1997,2850000,-50000,2800000,5124,Notar,317.6104751145561,Gubbangen
-2016-01-20,Skåpvägen 13,Gubbangen,GronHagsatra,2,54,1,Lägenhet,1946,2195000,205000,2400000,2816,Bjurfors,201.4196042658475,Gubbangen
-2016-01-14,Getfotsvägen 11,Gubbangen,GronHagsatra,5,121.5,4,Lägenhet,2008,4500000,1250000,5750000,5944,SkandiaMäklarna,375.6074051286519,Gubbangen
-2016-01-14,Getfotsvägen 11,Gubbangen,GronHagsatra,2,63.5,3,Lägenhet,2008,2450000,790000,3240000,3692,Fastighetsbyrån,375.6074051286519,Gubbangen
-2015-12-16,Bordsvägen 43,Gubbangen,GronHagsatra,4,78,1,Lägenhet,1946,3550000,250000,3800000,4327,ERA,201.04668200906698,Gubbangen
-2015-12-12,Majrovägen 33,Gubbangen,GronHagsatra,2,49.5,1,Lägenhet,1996,2150000,500000,2650000,3312,ERA,381.40930279825955,Gubbangen
-2015-12-11,Lingvägen 103,Gubbangen,GronHagsatra,3,75,3,Lägenhet,1951,2895000,605000,3500000,3331,Mäklarringen,141.8524587717747,Gubbangen
-2015-12-03,Kryddgränd 6,Gubbangen,GronHagsatra,3,72,3,Lägenhet,1985,1995000,85000,2080000,5212,SkandiaMäklarna,474.48525722183007,Gubbangen
-2015-11-26,Getfotsvägen 3,Gubbangen,GronHagsatra,2,52,3,Lägenhet,1952,2095000,475000,2570000,3097,Hemverket,298.7560805736578,Gubbangen
-2015-11-21,Kryddgränd 4,Gubbangen,GronHagsatra,2,61,3,Lägenhet,1985,1995000,265000,2260000,3713,SkandiaMäklarna,542.6042547000668,Gubbangen
-2015-11-14,Sicklingsvägen 16,Gubbangen,GronHagsatra,3,68,2,Lägenhet,1946,2750000,0,2750000,3812,ERA,218.16970316394386,Gubbangen
-2015-11-13,Bordsvägen 64,Gubbangen,GronHagsatra,3,68,2,Lägenhet,1948,2950000,-150000,2800000,3792,Svensk Fastighetsförmedling,258.058390059413,Gubbangen
-2015-11-10,Majrovägen 5,Gubbangen,GronHagsatra,3,83,5,Lägenhet,2010,2950000,850000,3800000,5314,ERA,243.04967023197162,Gubbangen
-2015-10-31,Kistvägen 12,Gubbangen,GronHagsatra,4,94,1,Lägenhet,1948,3295000,530000,3825000,6170,Living Fastighetsmäkleri,95.06549879412746,Gubbangen
-2015-10-30,Skåpvägen 1,Gubbangen,GronHagsatra,2,57,2,Lägenhet,null,2195000,455000,2650000,2779,ERA,265.49984494187584,Gubbangen
-2015-10-29,Dörrvägen 4,Gubbangen,GronHagsatra,4,100,1,Lägenhet,1947,3950000,1150000,5100000,4474,Wendell Fastighetsförmedling AB,258.1675702576046,Gubbangen
-2015-10-19,Rubanksgränd 5,Gubbangen,GronHagsatra,3,89,null,Lägenhet,1950,3495000,1230000,4725000,5862,Länsförsäkringar Fastighetsförmedling,549.2580525083961,Gubbangen
-2015-10-15,Sicklingsvägen 2,Gubbangen,GronHagsatra,2,53,3,Lägenhet,1948,2195000,485000,2680000,3056,Svensk Fastighetsförmedling,122.86638059888472,Gubbangen
-2015-10-13,Knektvägen 17,Gubbangen,GronHagsatra,2,54,5,Lägenhet,null,2250000,250000,2500000,3198,ERA,83.43158728673211,Gubbangen
-2015-09-24,Majrovägen 13,Gubbangen,GronHagsatra,3,67.5,3,Lägenhet,1999,2550000,450000,3000000,5010,ERA,241.94918962985318,Gubbangen
-2015-09-24,Kryddgränd 4,Gubbangen,GronHagsatra,3,78,null,Lägenhet,1985,1995000,738000,2733000,4562,SkandiaMäklarna,542.6042547000668,Gubbangen
-2015-09-24,Kryddgränd 4,Gubbangen,GronHagsatra,1,48,null,Lägenhet,1985,1595000,925000,2520000,3063,SkandiaMäklarna,542.6042547000668,Gubbangen
-2015-09-18,Bordsvägen 33,Gubbangen,GronHagsatra,2,54,4,Lägenhet,1947,2150000,450000,2600000,3660,ERA,201.09790620390268,Gubbangen
-2015-09-14,Gubbängsvägen 12,Gubbangen,GronHagsatra,4,95,null,Radhus,1948,3250000,1450000,4700000,null,ERA,870.7192539636544,Gubbangen
-2015-09-11,Majrovägen 8,Gubbangen,GronHagsatra,3,68,3,Lägenhet,null,2590000,630000,3220000,3792,ERA,195.76637665190245,Gubbangen
-2015-09-10,Kistvägen 12,Gubbangen,GronHagsatra,2,58,2,Lägenhet,1948,1995000,715000,2710000,3966,Living Fastighetsmäkleri,95.06549879412746,Gubbangen
-2015-09-10,Sicklingsvägen 5,Gubbangen,GronHagsatra,2,54,2,Lägenhet,1948,2195000,505000,2700000,3119,Svensk Fastighetsförmedling,135.29262204942077,Gubbangen
-2015-09-10,Majrovägen 25,Gubbangen,GronHagsatra,1,40,2,Lägenhet,1997,1790000,530000,2320000,3130,ERA,329.5531681013019,Gubbangen
-2015-09-09,Rubanksgränd 4,Gubbangen,GronHagsatra,2,55,4,Lägenhet,2006,2295000,1005000,3300000,4396,Fastighetsbyrån,494.6562129974191,Gubbangen
-2015-09-02,Majrovägen 5,Gubbangen,GronHagsatra,4.5,94,1,Lägenhet,2010,3490000,410000,3900000,5908,ERA,243.04967023197162,Gubbangen
-2015-09-02,Knektvägen 5,Gubbangen,GronHagsatra,2.5,53,2,Lägenhet,1948,2395000,635000,3030000,3056,Svensk Fastighetsförmedling,178.12313972622147,Gubbangen
-2015-08-26,Skrinvägen 8,Gubbangen,GronHagsatra,2,60,2,Lägenhet,1947,2195000,480000,2675000,2883,Fastighetsbyrån,342.5559944452343,Gubbangen
-2015-08-21,Majrovägen 31,Gubbangen,GronHagsatra,4,93,1,Lägenhet,1996,3495000,605000,4100000,5811,ERA,390.59183898477727,Gubbangen
-2015-08-20,Karmstolsvägen 6,Gubbangen,GronHagsatra,3,74,3,Lägenhet,1947,2595000,-100000,2495000,5311,Fastighetsbyrån,161.3985136523196,Gubbangen
-2015-08-20,Knektvägen 17,Gubbangen,GronHagsatra,2,54,1,Lägenhet,null,2050000,100000,2150000,2971,ERA,83.43158728673211,Gubbangen
-2015-08-20,Kistvägen 18,Gubbangen,GronHagsatra,4,93,3,Lägenhet,1948,2975000,25000,3000000,5920,Mäklarringen,143.32779054670058,Gubbangen
-2015-08-19,Rubanksgränd 4,Gubbangen,GronHagsatra,2,55,1,Lägenhet,2007,2195000,525000,2720000,4396,Södermäklarna,494.6562129974191,Gubbangen
-2015-08-12,Bordsvägen 21,Gubbangen,GronHagsatra,2,51,2,Lägenhet,1946,1995000,555000,2550000,2560,Restate,310.356187076782,Gubbangen
-2015-07-25,Knektvägen 15,Gubbangen,GronHagsatra,2,54,6,Lägenhet,1948,2095000,405000,2500000,3210,Fastighetsbyrån,116.49536184005721,Gubbangen
-2015-07-16,Getfotsvägen 1,Gubbangen,GronHagsatra,2,52,2,Lägenhet,1952,1925000,675000,2600000,3097,Fastighetsbyrån,285.1888728730072,Gubbangen
-2015-07-01,Sicklingsvägen 12,Gubbangen,GronHagsatra,3,68,2,Lägenhet,1947,2695000,730000,3425000,3812,Erik Olsson Fastighetsförmedling,190.10206740686763,Gubbangen
-2015-06-25,Majrovägen 41,Gubbangen,GronHagsatra,3,67.5,3,Lägenhet,1996,2495000,335000,2830000,4644,ERA,463.5680255366515,Gubbangen
-2015-06-18,Bordsvägen 11,Gubbangen,GronHagsatra,2,37,0,Lägenhet,1946,1795000,335000,2130000,2050,Restate,273.32344265471244,Gubbangen
-2015-06-12,Bordsvägen 25,Gubbangen,GronHagsatra,2,51,2,Lägenhet,null,1990000,470000,2460000,2560,ERA,291.9155515075103,Gubbangen
-2015-06-11,Kryddgränd 6,Gubbangen,GronHagsatra,3,75,1,Lägenhet,2008,1590000,20000,1610000,5412,ERA,474.48525722183007,Gubbangen
-2015-06-10,Rubanksgränd 3,Gubbangen,GronHagsatra,2,49,1,Lägenhet,2007,1990000,10000,2000000,3913,Svensk Fastighetsförmedling,496.1128533451014,Gubbangen
-2015-06-10,Karmstolsvägen 11,Gubbangen,GronHagsatra,2,61,1,Lägenhet,1947,1795000,475000,2270000,3980,Mäklarringen,144.8995738899371,Gubbangen
-2015-06-06,Bordsvägen 66,Gubbangen,GronHagsatra,3,68,2,Lägenhet,1946,2690000,210000,2900000,3792,ERA,260.1046716117875,Gubbangen
-2015-06-04,Majrovägen 35,Gubbangen,GronHagsatra,4,93,3,Lägenhet,1996,3495000,155000,3650000,5985,ERA,404.49938183885763,Gubbangen
-2015-06-03,Bordsvägen 49,Gubbangen,GronHagsatra,3,68,3,Lägenhet,1947,2790000,370000,3160000,3812,HusmanHagberg,230.22001971624903,Gubbangen
-2015-06-03,Getfotsvägen 5,Gubbangen,GronHagsatra,2,52,2,Lägenhet,1952,1995000,425000,2420000,3097,Hemmäklarna,312.6510900749745,Gubbangen
-2015-05-31,Sicklingsvägen 16,Gubbangen,GronHagsatra,3,68,3,Lägenhet,1946,2690000,410000,3100000,3812,ERA,218.16970316394386,Gubbangen
-2015-05-29,Knektvägen 15,Gubbangen,GronHagsatra,2,56,2,Lägenhet,1947,2150000,0,2150000,3213,ERA,116.49536184005721,Gubbangen
-2015-05-29,Knektvägen 17,Gubbangen,GronHagsatra,2,40,2,Lägenhet,null,1790000,410000,2200000,2437,ERA,83.43158728673211,Gubbangen
-2015-05-29,Getfotsvägen 50,Gubbangen,GronHagsatra,3,68,3,Lägenhet,1949,2495000,475000,2970000,3484,HusmanHagberg,424.85179313867184,Gubbangen
-2015-05-21,Getfotsvägen 11,Gubbangen,GronHagsatra,1.5,56,null,Lägenhet,2008,1925000,5000,1930000,3340,SverigeMäklaren,375.6074051286519,Gubbangen
-2015-05-20,Karmstolsvägen 6,Gubbangen,GronHagsatra,2,58,3,Lägenhet,1947,1695000,255000,1950000,3949,HusmanHagberg,161.3985136523196,Gubbangen
-2015-05-15,Lingvägen 107,Gubbangen,GronHagsatra,3.5,76,3,Lägenhet,null,2695000,345000,3040000,3375,Fastighetsbyrån,113.99734546355491,Gubbangen
-2015-05-14,Sicklingsvägen 4,Gubbangen,GronHagsatra,2,53,3,Lägenhet,1948,1995000,335000,2330000,3056,ERA,128.06822262374976,Gubbangen
-2015-05-14,Rubanksgränd 3,Gubbangen,GronHagsatra,3,73,1,Lägenhet,2007,2995000,505000,3500000,5407,Fastighetsbyrån,496.1128533451014,Gubbangen
-2015-05-14,Rubanksgränd 4,Gubbangen,GronHagsatra,3,73,2,Lägenhet,2007,2995000,255000,3250000,5407,HusmanHagberg,494.6562129974191,Gubbangen
-2015-05-13,Dörrvägen 6,Gubbangen,GronHagsatra,3,64,3,Lägenhet,1947,2495000,0,2495000,4150,Mäklarringen,269.95941292670335,Gubbangen
-2015-05-12,Majrovägen 33,Gubbangen,GronHagsatra,2,49.5,null,Lägenhet,1996,2050000,290000,2340000,3245,ERA,381.40930279825955,Gubbangen
-2015-05-09,Cirkelvägen 2,Gubbangen,GronHagsatra,2,52,2,Lägenhet,1947,2150000,20000,2170000,3325,ERA,335.0766742895047,Gubbangen
-2015-05-08,Sicklingsvägen 5,Gubbangen,GronHagsatra,2,56,2,Lägenhet,null,2150000,210000,2360000,3213,ERA,135.29262204942077,Gubbangen
-2015-05-06,Majrovägen 15,Gubbangen,GronHagsatra,2,34,null,Lägenhet,1999,1790000,290000,2080000,3228,ERA,267.20119259549523,Gubbangen
-2015-05-01,Majrovägen 35,Gubbangen,GronHagsatra,2,49.5,2,Lägenhet,1996,2150000,160000,2310000,3346,ERA,404.49938183885763,Gubbangen
-2015-05-01,Bordsvägen 43,Gubbangen,GronHagsatra,4,78,1.5,Lägenhet,1946,2750000,400000,3150000,4410,ERA,201.04668200906698,Gubbangen
-2015-04-24,Sicklingsvägen 7,Gubbangen,GronHagsatra,3,68,1.5,Lägenhet,1946,2650000,600000,3250000,3812,ERA,169.90485370312868,Gubbangen
-2015-04-24,Getfotsvägen 7,Gubbangen,GronHagsatra,2,52,3,Lägenhet,1952,1850000,490000,2340000,3097,Hemmäklarna,325.6293027392975,Gubbangen
-2015-04-23,Kistvägen 12,Gubbangen,GronHagsatra,2,58,3,Lägenhet,1948,2195000,0,2195000,null,Svensk Fastighetsförmedling,95.06549879412746,Gubbangen
-2015-04-23,Kistvägen 16,Gubbangen,GronHagsatra,2,58,1,Lägenhet,1948,1980000,70000,2050000,3966,SkandiaMäklarna,129.69927160897635,Gubbangen
-2015-04-23,Bordsvägen 13,Gubbangen,GronHagsatra,3,72,3,Lägenhet,1946,2700000,420000,3120000,null,Svensk Fastighetsförmedling,257.12794505019195,Gubbangen
-2015-04-21,Sicklingsvägen 3,Gubbangen,GronHagsatra,2,40,4,Lägenhet,1946,1795000,365000,2160000,2488,ERA,120.18685345402046,Gubbangen
-2015-04-21,Majrovägen 25,Gubbangen,GronHagsatra,4,93,3,Lägenhet,1997,3150000,1350000,4500000,6719,ERA,329.5531681013019,Gubbangen
-2015-04-17,Dörrvägen 6,Gubbangen,GronHagsatra,2,53,2,Lägenhet,1947,1995000,425000,2420000,3465,Länsförsäkringar Fastighetsförmedling,269.95941292670335,Gubbangen
-2015-04-15,Knektvägen 15,Gubbangen,GronHagsatra,2,54,6,Lägenhet,1948,2495000,215000,2710000,3210,Fastighetsbyrån,116.49536184005721,Gubbangen
-2015-04-11,Skrinvägen 2,Gubbangen,GronHagsatra,3,69,3,Lägenhet,1947,2595000,635000,3230000,3413,Fastighetsbyrån,301.1030726125545,Gubbangen
-2015-04-01,Polovägen 13,Gubbangen,GronHagsatra,5,65,null,Villa,1938,4895000,520000,5415000,null,SkandiaMäklarna,735.2586194438132,Tallkrogen
-2015-04-01,Rubanksgränd 5,Gubbangen,GronHagsatra,3,89,2,Lägenhet,1952,2980000,1065000,4045000,5747,Svensk Fastighetsförmedling,549.2580525083961,Gubbangen
-2015-03-27,Getfotsvägen 42,Gubbangen,GronHagsatra,3,72,2,Lägenhet,1949,2495000,225000,2720000,3689,HusmanHagberg,436.91003596170793,Gubbangen
-2015-03-26,Kistvägen 16,Gubbangen,GronHagsatra,4,93,2,Lägenhet,1948,2850000,720000,3570000,5920,Mäklarringen,129.69927160897635,Gubbangen
-2015-03-23,Sicklingsvägen 11,Gubbangen,GronHagsatra,3,68,2,Lägenhet,1943,2395000,585000,2980000,3812,Länsförsäkringar Fastighetsförmedling,200.7276399149391,Gubbangen
-2015-03-16,Sicklingsvägen 7,Gubbangen,GronHagsatra,3,68,3,Lägenhet,1946,2650000,590000,3240000,3812,ERA,169.90485370312868,Gubbangen
-2015-03-12,Kryddgränd 6,Gubbangen,GronHagsatra,3.5,86,1,Lägenhet,1985,1750000,0,1750000,5685,Södermäklarna,474.48525722183007,Gubbangen
-2015-03-06,Karmstolsvägen 6,Gubbangen,GronHagsatra,3.5,74,3,Lägenhet,1947,2495000,105000,2600000,5311,Fastighetsbyrån,161.3985136523196,Gubbangen
-2015-03-04,Lingvägen 101,Gubbangen,GronHagsatra,2,60,2,Lägenhet,null,2150000,625000,2775000,2665,Fastighetsbyrån,93.8716719095635,Gubbangen
-2015-03-04,Rubanksgränd 6,Gubbangen,GronHagsatra,2,49,3,Lägenhet,2007,1995000,265000,2260000,3913,SkandiaMäklarna,504.54073264116903,Gubbangen
-2015-03-04,Cirkelvägen 6,Gubbangen,GronHagsatra,3,70,1,Lägenhet,1947,2395000,455000,2850000,4326,Bjurfors,327.86619155014694,Gubbangen
-2015-02-28,Gubbängsvägen 23,Gubbangen,GronHagsatra,5,84,null,Radhus,1947,4290000,230000,4520000,null,ERA,802.2271918271068,Gubbangen
-2015-02-27,Skåpvägen 7,Gubbangen,GronHagsatra,1,73,null,Lägenhet,1946,1395000,395000,1790000,3361,Restate,201.4196042658475,Gubbangen
-2015-02-18,Bordsvägen 58,Gubbangen,GronHagsatra,2,50,3,Lägenhet,1947,1945000,565000,2510000,2911,SkandiaMäklarna,229.08901126101117,Gubbangen
-2015-02-16,Getfotsvägen 46,Gubbangen,GronHagsatra,3,72,2,Lägenhet,1949,2295000,645000,2940000,3689,HusmanHagberg,429.4293726537278,Gubbangen
-2015-02-16,Kryddgränd 6,Gubbangen,GronHagsatra,3,97,2,Lägenhet,2008,1595000,-25000,1570000,6044,ERA,474.48525722183007,Gubbangen
-2015-02-13,Majrovägen 1,Gubbangen,GronHagsatra,4,92,1,Lägenhet,2009,2950000,650000,3600000,5829,Svensk Fastighetsförmedling,233.881443341955,Gubbangen
-2015-02-11,Sicklingsvägen 8,Gubbangen,GronHagsatra,2,53,2.5,Lägenhet,1947,1995000,305000,2300000,3056,Notar,147.08562691079314,Gubbangen
-2015-02-10,Knektvägen 17,Gubbangen,GronHagsatra,2,54,5,Lägenhet,1947,1975000,425000,2400000,3198,ERA,83.43158728673211,Gubbangen
-2015-02-05,Majrovägen 29,Gubbangen,GronHagsatra,2,49.5,3,Lägenhet,1997,1750000,145000,1895000,4143,ERA,339.057489871036,Gubbangen
-2015-01-27,Kistvägen 14,Gubbangen,GronHagsatra,2,57,null,Lägenhet,1948,1795000,305000,2100000,3966,Living Fastighetsmäkleri,102.17656324886774,Gubbangen
-2015-01-25,Majrovägen 23,Gubbangen,GronHagsatra,4,93,null,Lägenhet,1997,3195000,0,3195000,6229,SkandiaMäklarna,294.05370570506363,Gubbangen
-2015-01-17,Getfotsvägen 13,Gubbangen,GronHagsatra,3,76,2,Lägenhet,2009,2795000,105000,2900000,4277,Mäklarhuset,386.0426043035413,Gubbangen
-2014-12-10,Cirkelvägen 8,Gubbangen,GronHagsatra,2,52,2,Lägenhet,1947,1795000,555000,2350000,3360,Mäklarringen,308.88086453118564,Gubbangen
-2014-12-06,Majrovägen 37,Gubbangen,GronHagsatra,5,93,1,Lägenhet,null,3150000,350000,3500000,5811,ERA,444.1467832292203,Gubbangen
-2014-12-03,Bordsvägen 62,Gubbangen,GronHagsatra,3,68,3,Lägenhet,1948,2200000,420000,2620000,3792,Svensk Fastighetsförmedling,243.5626680928199,Gubbangen
-2014-11-28,Sicklingsvägen 5,Gubbangen,GronHagsatra,1,25,5,Lägenhet,1947,1495000,285000,1780000,1630,ERA,135.29262204942077,Gubbangen
-2014-11-28,Bordsvägen 29,Gubbangen,GronHagsatra,3,66,2,Lägenhet,1947,2190000,320000,2510000,4443,ERA,257.23352294490115,Gubbangen
-2014-11-24,Majrovägen 17,Gubbangen,GronHagsatra,4,99,3,Lägenhet,1999,2750000,20000,2770000,6600,ERA,251.69635920391343,Gubbangen
-2014-11-22,Karmstolsvägen 11,Gubbangen,GronHagsatra,2,61,2,Lägenhet,1947,1795000,75000,1870000,3980,ERA,144.8995738899371,Gubbangen
-2014-11-22,Knektvägen 15,Gubbangen,GronHagsatra,1,25,5,Lägenhet,null,1485000,245000,1730000,1566,ERA,116.49536184005721,Gubbangen
-2014-11-19,Cirkelvägen 6,Gubbangen,GronHagsatra,2,52,2,Lägenhet,1947,1995000,105000,2100000,3325,Notar,327.86619155014694,Gubbangen
-2014-11-15,Sicklingsvägen 4,Gubbangen,GronHagsatra,2,53,null,Lägenhet,1948,1895000,265000,2160000,3056,ERA,128.06822262374976,Gubbangen
-2014-11-13,Knektvägen 17,Gubbangen,GronHagsatra,1,40,3,Lägenhet,1948,1795000,265000,2060000,2455,Fastighetsbyrån,83.43158728673211,Gubbangen
-2014-11-06,Sicklingsvägen 3,Gubbangen,GronHagsatra,1,25,6,Lägenhet,1947,1485000,265000,1750000,1634,ERA,120.18685345402046,Gubbangen
-2014-11-06,Majrovägen 5,Gubbangen,GronHagsatra,3,68,null,Lägenhet,2009,2495000,205000,2700000,4481,Länsförsäkringar Fastighetsförmedling,243.04967023197162,Gubbangen
-2014-11-06,Getfotsvägen 48,Gubbangen,GronHagsatra,3,72,2,Lägenhet,null,2350000,10000,2360000,3689,Fastighetsbyrån,426.6950931510933,Gubbangen
-2014-11-04,Getfotsvägen 11,Gubbangen,GronHagsatra,4,93.5,3,Lägenhet,2009,3195000,755000,3950000,5028,Erik Olsson Fastighetsförmedling,375.6074051286519,Gubbangen
-2014-11-04,Lingvägen 91,Gubbangen,GronHagsatra,4,87,2,Lägenhet,null,2850000,800000,3650000,3679,ERA,97.25419608520355,Gubbangen
-2014-11-04,Lingvägen 122,Gubbangen,GronHagsatra,3,83,5,Lägenhet,2010,2650000,150000,2800000,5314,ERA,259.04539488153176,Gubbangen
-2014-10-30,Lemmings väg 49,Gubbangen,GronHagsatra,5,null,null,Villa,null,4950000,-100000,4850000,null,Södermäklarna,836.1679656794793,Gubbangen
-2014-10-30,Sicklingsvägen 11,Gubbangen,GronHagsatra,3,68,2,Lägenhet,1947,2395000,205000,2600000,3812,ERA,200.7276399149391,Gubbangen
-2014-10-30,Majrovägen 27,Gubbangen,GronHagsatra,2,49.5,1,Lägenhet,1997,1795000,55000,1850000,4026,ERA,317.6104751145561,Gubbangen
-2014-10-29,Majrovägen 41,Gubbangen,GronHagsatra,2,34,null,Lägenhet,1995,1495000,335000,1830000,2633,SkandiaMäklarna,463.5680255366515,Gubbangen
-2014-10-24,Getfotsvägen 48,Gubbangen,GronHagsatra,3,72,3,Lägenhet,null,2350000,360000,2710000,3689,Svensk Fastighetsförmedling,426.6950931510933,Gubbangen
-2014-10-22,Cirkelvägen 8,Gubbangen,GronHagsatra,2,52,0.5,Lägenhet,1947,1795000,255000,2050000,3325,Notar,308.88086453118564,Gubbangen
-2014-10-21,Knektvägen 17,Gubbangen,GronHagsatra,2,56,4,Lägenhet,1947,1995000,245000,2240000,3284,ERA,83.43158728673211,Gubbangen
-2014-10-21,Lingvägen 78,Gubbangen,GronHagsatra,5,125,null,Villa,1947,4495000,1630000,6125000,null,ERA,230.29221413874942,Gubbangen
-2014-10-17,Bordsvägen 29,Gubbangen,GronHagsatra,3,66,3,Lägenhet,1947,1950000,150000,2100000,4443,Mäklarringen,257.23352294490115,Gubbangen
-2014-10-10,Majrovägen 8,Gubbangen,GronHagsatra,3,68,1,Lägenhet,1946,2250000,350000,2600000,3718,ERA,195.76637665190245,Gubbangen
-2014-10-10,Sicklingsvägen 14,Gubbangen,GronHagsatra,3,68,1,Lägenhet,1946,2350000,610000,2960000,3737,ERA,202.26706237763509,Gubbangen
-2014-10-08,Sicklingsvägen 5,Gubbangen,GronHagsatra,1,40,2,Lägenhet,null,1690000,240000,1930000,2437,ERA,135.29262204942077,Gubbangen
-2014-10-08,Bordsvägen 33,Gubbangen,GronHagsatra,2,54,null,Lägenhet,1947,1895000,305000,2200000,3660,ERA,201.09790620390268,Gubbangen
-2014-10-08,Dörrvägen 8,Gubbangen,GronHagsatra,3,64,null,Lägenhet,1947,2190000,230000,2420000,4150,ERA,279.98987091532234,Gubbangen
-2014-10-01,Skåpvägen 7,Gubbangen,GronHagsatra,2,57,null,Lägenhet,1945,1995000,5000,2000000,2779,Svenska Mäklarhuset,201.4196042658475,Gubbangen
-2014-09-25,Bordsvägen 17,Gubbangen,GronHagsatra,2,51,0.5,Lägenhet,1946,1795000,165000,1960000,2560,Restate,295.0272929935978,Gubbangen
-2014-09-22,Kryddgränd 6,Gubbangen,GronHagsatra,2,70,1,Lägenhet,null,1295000,100000,1395000,4924,Svensk Fastighetsförmedling,474.48525722183007,Gubbangen
-2014-09-18,Kistvägen 12,Gubbangen,GronHagsatra,4,94,2,Lägenhet,1948,2795000,-15000,2780000,5920,Fastighetsbyrån,95.06549879412746,Gubbangen
-2014-09-18,Sicklingsvägen 11,Gubbangen,GronHagsatra,3,68,3,Lägenhet,1948,2395000,580000,2975000,3812,Mäklarhuset,200.7276399149391,Gubbangen
-2014-09-16,Kryddgränd 4,Gubbangen,GronHagsatra,2,61,1,Lägenhet,1985,1495000,405000,1900000,3378,Notar,542.6042547000668,Gubbangen
-2014-09-13,Getfotsvägen 42,Gubbangen,GronHagsatra,3,72,null,Lägenhet,null,2250000,360000,2610000,3689,ERA,436.91003596170793,Gubbangen
-2014-09-12,Bordsvägen 56,Gubbangen,GronHagsatra,3,68,null,Lägenhet,1947,2400000,0,2400000,3718,Södermäklarna,236.25247570082155,Gubbangen
-2014-09-12,Skrinvägen 8,Gubbangen,GronHagsatra,2,60,null,Lägenhet,1946,1995000,105000,2100000,2983,Notar,342.5559944452343,Gubbangen
-2014-09-08,Lemmings väg 49,Gubbangen,GronHagsatra,5,null,null,Villa,null,4950000,-250000,4700000,null,Södermäklarna,836.1679656794793,Gubbangen
-2014-09-05,Karmstolsvägen 7,Gubbangen,GronHagsatra,2,61,2,Lägenhet,1947,1795000,145000,1940000,3980,Mäklarhuset,237.0198184751361,Gubbangen
-2014-08-29,Majrovägen 16,Gubbangen,GronHagsatra,2,53,null,Lägenhet,1946,1995000,265000,2260000,2998,Södermäklarna,247.53849477246297,Gubbangen
-2014-08-28,Kryddgränd 4,Gubbangen,GronHagsatra,2,61,2,Lägenhet,1985,1695000,145000,1840000,3379,Mäklarhuset,542.6042547000668,Gubbangen
-2014-08-07,Knektvägen 15,Gubbangen,GronHagsatra,2,56,4,Lägenhet,1947,1795000,305000,2100000,3284,Notar,116.49536184005721,Gubbangen
-2014-07-07,Bordsvägen 21,Gubbangen,GronHagsatra,2,51,0.5,Lägenhet,1946,2095000,30000,2125000,2560,Restate,310.356187076782,Gubbangen
-2014-06-25,Dörrvägen 8,Gubbangen,GronHagsatra,2,53,1,Lägenhet,1947,1795000,105000,1900000,3293,ERA,279.98987091532234,Gubbangen
-2014-06-17,Getfotsvägen 50,Gubbangen,GronHagsatra,3,68,1,Lägenhet,1949,2195000,280000,2475000,3484,SkandiaMäklarna,424.85179313867184,Gubbangen
-2014-06-17,Skrinvägen 8,Gubbangen,GronHagsatra,2,60,2,Lägenhet,1947,1995000,125000,2120000,2769,Svenska Mäklarhuset,342.5559944452343,Gubbangen
-2014-06-16,Bordsvägen 70,Gubbangen,GronHagsatra,3,68,1,Lägenhet,null,2190000,430000,2620000,3737,HusmanHagberg,274.5244659070136,Gubbangen
-2014-06-12,Rubanksgränd 4,Gubbangen,GronHagsatra,2,55,1,Lägenhet,2007,1950000,250000,2200000,4396,Södermäklarna,494.6562129974191,Gubbangen
-2014-06-09,Sicklingsvägen 5,Gubbangen,GronHagsatra,2,54,4,Lägenhet,null,1780000,360000,2140000,3187,Svensk Fastighetsförmedling,135.29262204942077,Gubbangen
-2014-06-09,Majrovägen 5,Gubbangen,GronHagsatra,3,83,5,Lägenhet,null,2550000,-100000,2450000,5314,ERA,243.04967023197162,Gubbangen
-2014-06-04,Knektvägen 15,Gubbangen,GronHagsatra,2,54,3,Lägenhet,1947,1850000,230000,2080000,3140,ERA,116.49536184005721,Gubbangen
-2014-05-29,Skåpvägen 9,Gubbangen,GronHagsatra,2,54,1,Lägenhet,1946,1775000,205000,1980000,2670,ERA,219.19706689207516,Gubbangen
-2014-05-29,Sicklingsvägen 16,Gubbangen,GronHagsatra,3,68,2,Lägenhet,1946,2190000,270000,2460000,3812,ERA,218.16970316394386,Gubbangen
-2014-05-28,Getfotsvägen 44,Gubbangen,GronHagsatra,3,72,null,Lägenhet,null,2240000,320000,2560000,3689,Fastighetsbyrån,431.4615945324344,Gubbangen
-2014-05-26,Polovägen 25,Gubbangen,GronHagsatra,6,136,null,Villa,null,5500000,0,5500000,null,Södermäklarna,692.6945399858114,Tallkrogen
-2014-05-23,Cirkelvägen 10,Gubbangen,GronHagsatra,4,70,null,Lägenhet,1947,2450000,-55000,2395000,4326,Södermäklarna,296.50108469193844,Gubbangen
-2014-05-23,Majrovägen 37,Gubbangen,GronHagsatra,5,93,2,Lägenhet,null,2950000,700000,3650000,5869,ERA,444.1467832292203,Gubbangen
-2014-05-19,Majrovägen 39,Gubbangen,GronHagsatra,4,95.5,null,Lägenhet,1996,2950000,360000,3310000,5787,ERA,440.4510442674459,Gubbangen
-2014-05-16,Skåpvägen 1,Gubbangen,GronHagsatra,2,57,3,Lägenhet,1946,1750000,280000,2030000,2779,ERA,265.49984494187584,Gubbangen
-2014-05-16,Kryddgränd 4,Gubbangen,GronHagsatra,2,61,2,Lägenhet,1985,1595000,45000,1640000,3379,Länsförsäkringar Fastighetsförmedling,542.6042547000668,Gubbangen
-2014-05-15,Getfotsvägen 13,Gubbangen,GronHagsatra,4,93.5,null,Lägenhet,2009,3195000,185000,3380000,5098,Fastighetsbyrån,386.0426043035413,Gubbangen
-2014-05-14,Skåpvägen 11,Gubbangen,GronHagsatra,2,61,null,Lägenhet,1946,1895000,205000,2100000,2925,Hemmäklarna,210.72752173728495,Gubbangen
-2014-05-14,Sicklingsvägen 5,Gubbangen,GronHagsatra,1,40,3,Lägenhet,null,1550000,360000,1910000,2455,Svensk Fastighetsförmedling,135.29262204942077,Gubbangen
-2014-05-14,Getfotsvägen 3,Gubbangen,GronHagsatra,2,52,1,Lägenhet,null,1795000,275000,2070000,2897,Svensk Fastighetsförmedling,298.7560805736578,Gubbangen
-2014-05-10,Sicklingsvägen 12,Gubbangen,GronHagsatra,3,68,3,Lägenhet,1946,2190000,445000,2635000,3812,ERA,190.10206740686763,Gubbangen
-2014-05-08,Cirkelvägen 2,Gubbangen,GronHagsatra,2,52,1,Lägenhet,null,1595000,365000,1960000,3325,Bjurfors,335.0766742895047,Gubbangen
-2014-04-30,Karmstolsvägen 10,Gubbangen,GronHagsatra,3,72,null,Lägenhet,1947,1695000,405000,2100000,6088,HusmanHagberg,125.80223814839151,Gubbangen
-2014-04-24,Majrovägen 3,Gubbangen,GronHagsatra,3,71,4,Lägenhet,null,2500000,500000,3000000,4798,Svensk Fastighetsförmedling,229.86291573149958,Gubbangen
-2014-04-22,Rubanksgränd 4,Gubbangen,GronHagsatra,2,49,3,Lägenhet,null,1795000,5000,1800000,3913,Svensk Fastighetsförmedling,494.6562129974191,Gubbangen
-2014-04-22,Skåpvägen 9,Gubbangen,GronHagsatra,3,70,2,Lägenhet,1946,2190000,180000,2370000,3253,ERA,219.19706689207516,Gubbangen
-2014-04-17,Kistvägen 16,Gubbangen,GronHagsatra,2,58,3,Lägenhet,1948,1625000,330000,1955000,3716,Notar,129.69927160897635,Gubbangen
-2014-04-15,Bordsvägen 15,Gubbangen,GronHagsatra,2,51,0.5,Lägenhet,1946,1695000,105000,1800000,2560,Restate,201.4196042658475,Gubbangen
-2014-04-14,Cirkelvägen 4,Gubbangen,GronHagsatra,2,52,3,Lägenhet,1947,1750000,310000,2060000,3325,ERA,330.15569782409904,Gubbangen
-2014-04-14,Majrovägen 5,Gubbangen,GronHagsatra,3,83,4,Lägenhet,2010,2495000,405000,2900000,5314,ERA,243.04967023197162,Gubbangen
-2014-04-09,Bordsvägen 31,Gubbangen,GronHagsatra,2,54,3,Lägenhet,1947,1595000,330000,1925000,3660,Erik Olsson Fastighetsförmedling,249.90429523933142,Gubbangen
-2014-03-27,Getfotsvägen 59,Gubbangen,GronHagsatra,2,52,4,Lägenhet,2004,1795000,205000,2000000,3942,Fastighetsbyrån,376.83853037330476,Gubbangen
-2014-03-26,Rubanksgränd 3,Gubbangen,GronHagsatra,2,55,4,Lägenhet,2007,1895000,335000,2230000,4396,Fastighetsbyrån,496.1128533451014,Gubbangen
-2014-03-26,Knektvägen 15,Gubbangen,GronHagsatra,1,28.5,null,Lägenhet,1948,1200000,170000,1370000,1754,Fastighetsbyrån,116.49536184005721,Gubbangen
-2014-03-21,Cirkelvägen 8,Gubbangen,GronHagsatra,2,52,2,Lägenhet,1947,1750000,200000,1950000,3325,Totalmäklarna Sverige AB,308.88086453118564,Gubbangen
-2014-03-19,Karmstolsvägen 11,Gubbangen,GronHagsatra,2,64,1,Lägenhet,null,1650000,170000,1820000,4176,HusmanHagberg,144.8995738899371,Gubbangen
-2014-03-13,Bordsvägen 50,Gubbangen,GronHagsatra,2,55,0.5,Lägenhet,null,1750000,150000,1900000,3096,Svensk Fastighetsförmedling,213.7253532667573,Gubbangen
-2014-03-12,Majrovägen 27,Gubbangen,GronHagsatra,2,49.5,2,Lägenhet,1997,1750000,110000,1860000,4065,Notar,317.6104751145561,Gubbangen
-2014-03-11,Bordsvägen 52,Gubbangen,GronHagsatra,2,55,0.5,Lägenhet,null,1700000,170000,1870000,3097,Svensk Fastighetsförmedling,210.1027472101864,Gubbangen
-2014-03-10,Bordsvägen 11,Gubbangen,GronHagsatra,2,37,null,Lägenhet,1946,895000,85000,980000,2050,Restate,273.32344265471244,Gubbangen
-2014-03-03,Sicklingsvägen 3,Gubbangen,GronHagsatra,1,25,3,Lägenhet,null,1300000,350000,1650000,1602,Svensk Fastighetsförmedling,120.18685345402046,Gubbangen
-2014-02-21,Bordsvägen 21,Gubbangen,GronHagsatra,2,51,0.5,Lägenhet,1946,1595000,235000,1830000,2560,Restate,310.356187076782,Gubbangen
-2014-02-14,Rubanksgränd 4,Gubbangen,GronHagsatra,3,73,4,Lägenhet,2007,2350000,500000,2850000,5407,Mäklarhuset,494.6562129974191,Gubbangen
-2014-02-12,Majrovägen 5newchar v4,Gubbangen,GronHagsatra,3.5,83,null,Lägenhet,2008,2500000,200000,2700000,5314,Notar,265.6078970695403,Gubbangen
-2014-02-08,Majrovägen 25,Gubbangen,GronHagsatra,1,40,1,Lägenhet,1997,1390000,200000,1590000,3100,Svensk Fastighetsförmedling,329.5531681013019,Gubbangen
-2014-02-05,Majrovägen 13,Gubbangen,GronHagsatra,3,67.5,2,Lägenhet,1999,2195000,0,2195000,5009,Fastighetsbyrån,241.94918962985318,Gubbangen
-2014-01-31,Polovägen 13,Gubbangen,GronHagsatra,5,65,null,Villa,1938,4475000,75000,4550000,null,SkandiaMäklarna,735.2586194438132,Tallkrogen
-2014-01-30,Bordsvägen 47,Gubbangen,GronHagsatra,2,53,null,Lägenhet,null,1750000,150000,1900000,3056,Svensk Fastighetsförmedling,211.48371133602933,Gubbangen
-2014-01-29,Majrovägen 1,Gubbangen,GronHagsatra,3,71,2,Lägenhet,null,2200000,620000,2820000,4798,Svensk Fastighetsförmedling,233.881443341955,Gubbangen
-2014-01-20,Skåpvägen 9,Gubbangen,GronHagsatra,3,70,3,Lägenhet,1946,2050000,50000,2100000,3253,Fastighetsbyrån,219.19706689207516,Gubbangen
-2014-01-17,Skåpvägen 7,Gubbangen,GronHagsatra,2,57,1,Lägenhet,1946,1695000,235000,1930000,2779,Mäklarhuset,201.4196042658475,Gubbangen
-2014-01-15,Majrovägen 19,Gubbangen,GronHagsatra,1,40,2,Lägenhet,1997,1490000,260000,1750000,3130,Svensk Fastighetsförmedling,296.2299541570934,Gubbangen
-2013-12-06,Majrovägen 21,Gubbangen,GronHagsatra,2,49.5,2,Lägenhet,1997,1950000,0,1950000,4065,Svensk Fastighetsförmedling,279.0583987027374,Gubbangen
-2013-12-02,Getfotsvägen 3,Gubbangen,GronHagsatra,2,52,null,Lägenhet,1952,1795000,100000,1895000,2797,Svensk Fastighetsförmedling,298.7560805736578,Gubbangen
-2013-11-27,Knektvägen 4,Gubbangen,GronHagsatra,2,53,null,Lägenhet,1947,1500000,260000,1760000,3056,Svensk Fastighetsförmedling,205.4435303478264,Gubbangen
-2013-11-26,Lingvägen 103,Gubbangen,GronHagsatra,3,76,null,Lägenhet,1951,2295000,15000,2310000,3375,Svensk Fastighetsförmedling,141.8524587717747,Gubbangen
-2013-11-26,Karmstolsvägen 11,Gubbangen,GronHagsatra,2,61,1,Lägenhet,1947,1590000,210000,1800000,3980,ERA,144.8995738899371,Gubbangen
-2013-11-20,Knektvägen 17,Gubbangen,GronHagsatra,1,25,4,Lägenhet,1948,895000,455000,1350000,1559,Fastighetsbyrån,83.43158728673211,Gubbangen
-2013-10-25,Getfotsvägen 11,Gubbangen,GronHagsatra,3,82,1,Lägenhet,2009,2850000,250000,3100000,4255,Mäklarringen,375.6074051286519,Gubbangen
-2013-10-10,Sicklingsvägen 9,Gubbangen,GronHagsatra,3,68,null,Lägenhet,1945,2150000,240000,2390000,3812,Fastighetsbyrån,185.24389045774078,Gubbangen
-2013-10-03,Knektvägen 17,Gubbangen,GronHagsatra,2,54,6,Lägenhet,null,1595000,180000,1775000,3210,ERA,83.43158728673211,Gubbangen
-2013-09-27,Dörrvägen 4,Gubbangen,GronHagsatra,2,53,2,Lägenhet,1948,1595000,5000,1600000,3142,ERA,258.1675702576046,Gubbangen
-2013-09-26,Knektvägen 17,Gubbangen,GronHagsatra,2,54,2,Lägenhet,1947,1495000,205000,1700000,3119,SkandiaMäklarna,83.43158728673211,Gubbangen
-2013-09-25,Majrovägen 1,Gubbangen,GronHagsatra,4,92,4,Lägenhet,null,2900000,400000,3300000,5829,Svensk Fastighetsförmedling,233.881443341955,Gubbangen
-2013-09-09,Lemmings väg 51,Gubbangen,GronHagsatra,5,81,null,Villa,1942,4495000,-145000,4350000,null,Mäklarhuset,835.1200437106481,Gubbangen
-2013-09-04,Dörrvägen 10,Gubbangen,GronHagsatra,3,64,3,Lägenhet,1948,null,NaN,2140000,3763,ERA,268.99460185102566,Gubbangen
-2013-08-30,Getfotsvägen 13,Gubbangen,GronHagsatra,1.5,56,null,Lägenhet,2008,1550000,50000,1600000,3435,Fastighetsbyrån,386.0426043035413,Gubbangen
-2013-08-28,Getfotsvägen 11,Gubbangen,GronHagsatra,4,93.5,3,Lägenhet,null,2995000,400000,3395000,4882,Erik Olsson Fastighetsförmedling,375.6074051286519,Gubbangen
-2013-08-23,Lemmings väg 45,Gubbangen,GronHagsatra,6,64,null,Villa,1946,3975000,325000,4300000,null,Mäklarringen,830.7474090484089,Gubbangen
-2013-08-23,Bordsvägen 55,Gubbangen,GronHagsatra,3,68,1,Lägenhet,null,2100000,100000,2200000,3492,ERA,269.8677594027265,Gubbangen
-2013-08-14,Bordsvägen 62,Gubbangen,GronHagsatra,3,68,1,Lägenhet,null,1995000,205000,2200000,3475,ERA,243.5626680928199,Gubbangen
-2013-07-18,Kryddgränd 6,Gubbangen,GronHagsatra,3,98,null,Lägenhet,1985,1450000,-50000,1400000,5798,Fastighetsbyrån,474.48525722183007,Gubbangen
-2013-07-15,Bordsvägen 53,Gubbangen,GronHagsatra,3,68,0.5,Lägenhet,1948,1995000,195000,2190000,3492,Svensk Fastighetsförmedling,261.04927378401817,Gubbangen
-2013-07-01,Majrovägen 23,Gubbangen,GronHagsatra,4,93,2,Lägenhet,1997,2450000,50000,2500000,6417,Svensk Fastighetsförmedling,294.05370570506363,Gubbangen
-2013-06-04,Sicklingsvägen 3,Gubbangen,GronHagsatra,1,25,4,Lägenhet,1947,1350000,50000,1400000,1518,ERA,120.18685345402046,Gubbangen
-2013-06-01,Rubanksgränd 5,Gubbangen,GronHagsatra,3,89,null,Lägenhet,1952,2695000,-95000,2600000,5688,Svensk Fastighetsförmedling,549.2580525083961,Gubbangen
-2013-05-30,Bordsvägen 70,Gubbangen,GronHagsatra,3,68,null,Lägenhet,null,1890000,265000,2155000,3562,Gripsholms Fastighetsförmedling,274.5244659070136,Gubbangen
-2013-05-30,Lemmings väg 74,Gubbangen,GronHagsatra,5,79,null,Lägenhet,1948,3300000,150000,3450000,null,ERA,852.9472538450574,Gubbangen
-2013-05-27,Majrovägen 5,Gubbangen,GronHagsatra,4,94,null,Lägenhet,null,2500000,150000,2650000,5908,Svensk Fastighetsförmedling,243.04967023197162,Gubbangen
-2013-05-13,Kryddgränd 4,Gubbangen,GronHagsatra,2,61,null,Lägenhet,1985,1595000,80000,1675000,3153,Fastighetsbyrån,542.6042547000668,Gubbangen
-2013-05-09,Bordsvägen 47,Gubbangen,GronHagsatra,2,53,2,Lägenhet,1948,1650000,50000,1700000,2856,Mäklarhuset,211.48371133602933,Gubbangen
-2013-05-07,Rubanksgränd 4,Gubbangen,GronHagsatra,4,85,4,Lägenhet,2007,2625000,325000,2950000,6111,Länsförsäkringar Fastighetsförmedling,494.6562129974191,Gubbangen
-2013-05-04,Kryddgränd 6,Gubbangen,GronHagsatra,2,71,3,Lägenhet,1985,1100000,130000,1230000,4711,Svensk Fastighetsförmedling,474.48525722183007,Gubbangen
-2013-04-26,Bordsvägen 33A,Gubbangen,GronHagsatra,2,54,null,Lägenhet,1947,1495000,135000,1630000,3576,Privatmäklaren,215.36130334727267,Gubbangen
-2013-04-26,Bordsvägen 33A,Gubbangen,GronHagsatra,2,54,null,Lägenhet,1947,1495000,135000,1630000,3576,Privatmäklaren,215.36130334727267,Gubbangen
-2013-04-13,Lemmings väg 60,Gubbangen,GronHagsatra,4,96,null,Radhus,null,3650000,615000,4265000,null,BOSTHLM,833.8432542322328,Gubbangen
-2013-04-13,Getfotsvägen 13,Gubbangen,GronHagsatra,2,63.5,3,Lägenhet,2009,1950000,60000,2010000,3799,Svensk Fastighetsförmedling,386.0426043035413,Gubbangen
-2013-04-10,Lingvägen 122,Gubbangen,GronHagsatra,3,68,null,Lägenhet,2010,2050000,400000,2450000,4481,Fastighetsbyrån,259.04539488153176,Gubbangen
-2013-04-05,Kistvägen 14,Gubbangen,GronHagsatra,2,57,null,Lägenhet,1948,1600000,25000,1625000,3716,Notar,102.17656324886774,Gubbangen
-2013-03-11,Getfotsvägen 3,Gubbangen,GronHagsatra,2,52,null,Lägenhet,1952,1550000,240000,1790000,2797,Svensk Fastighetsförmedling,298.7560805736578,Gubbangen
-2013-02-28,Skrinvägen 4,Gubbangen,GronHagsatra,2,60,3,Lägenhet,1947,1650000,-100000,1550000,2769,Mäklarhuset,316.99292387057466,Gubbangen
-2013-02-18,Majrovägen 3,Gubbangen,GronHagsatra,3,71,2,Lägenhet,null,2100000,100000,2200000,4798,Svensk Fastighetsförmedling,229.86291573149958,Gubbangen
-2013-02-16,Sicklingsvägen 18,Gubbangen,GronHagsatra,3,68,1,Lägenhet,1948,1950000,220000,2170000,3492,Svenska Mäklarhuset,233.52441150482542,Gubbangen
-2013-02-11,Getfotsvägen 13,Gubbangen,GronHagsatra,4,93.5,2,Lägenhet,2009,2950000,300000,3250000,5172,HusmanHagberg,386.0426043035413,Gubbangen
-2013-02-09,Sicklingsvägen,Gubbangen,GronHagsatra,4,78,6.5,Lägenhet,1948,1975000,275000,2250000,4044,Exbo,137.54669856434157,Gubbangen
-2013-01-28,Lingvägen 105,Gubbangen,GronHagsatra,3,75,null,Lägenhet,null,2150000,200000,2350000,3331,Hemverket,197.761558646201,Gubbangen
-2013-01-24,Rubanksgränd 5,Gubbangen,GronHagsatra,4,114,2,Lägenhet,1952,3150000,0,3150000,6998,Svensk Fastighetsförmedling,549.2580525083961,Gubbangen
-2013-01-24,Karmstolsvägen 12,Gubbangen,GronHagsatra,2,58,null,Lägenhet,1947,1480000,40000,1520000,3949,ERA,213.0722985657335,Gubbangen
-2013-01-21,Karmstolsvägen 13,Gubbangen,GronHagsatra,2,61,null,Lägenhet,1947,1450000,301000,1751000,3979,HusmanHagberg,136.35552712946998,Gubbangen
-2013-01-19,Karmstolsvägen 7,Gubbangen,GronHagsatra,2,64,null,Lägenhet,1947,1725000,-25000,1700000,4176,HusmanHagberg,237.0198184751361,Gubbangen
-2012-12-05,Dörrvägen 6,Gubbangen,GronHagsatra,2,53,2,Lägenhet,1947,1480000,45000,1525000,3142,Svensk Fastighetsförmedling,269.95941292670335,Gubbangen
-2012-11-09,Getfotsvägen 7,Gubbangen,GronHagsatra,2,52,0.5,Lägenhet,1952,1450000,60000,1510000,2798,Bjurfors,325.6293027392975,Gubbangen
-2012-11-02,Lingvägen 99,Gubbangen,GronHagsatra,2,60,2,Lägenhet,1951,1500000,25000,1525000,2600,Svensk Fastighetsförmedling,88.35590458839914,Gubbangen
-2012-10-27,Knektvägen 17,Gubbangen,GronHagsatra,1,25,3,Lägenhet,1948,1200000,-100000,1100000,1437,Mäklarhuset,83.43158728673211,Gubbangen
-2012-10-11,Majrovägen 13,Gubbangen,GronHagsatra,4.5,93,null,Lägenhet,1999,2495000,20000,2515000,6073,Fastighetsbyrån,241.94918962985318,Gubbangen
-2012-09-14,Dörrvägen 4,Gubbangen,GronHagsatra,2,53,3,Lägenhet,1947,1450000,130000,1580000,3142,Svensk Fastighetsförmedling,258.1675702576046,Gubbangen
-2012-09-13,Majrovägen 5,Gubbangen,GronHagsatra,3,68,null,Lägenhet,2009,1975000,275000,2250000,4212,Fastighetsbyrån,243.04967023197162,Gubbangen
-2012-08-25,Bordsvägen 60,Gubbangen,GronHagsatra,3,68,null,Lägenhet,1948,1750000,250000,2000000,3475,Fastighetsbyrån,246.03391915415386,Gubbangen
+202016-06-23,Knektvägen 3,Gubbangen,GronHagsatra,2,53,3,Lägenhet,1947,2395000,255000,2650000,3056,SkandiaMäklarna,189.64960987521937,Gubbangen
+202016-06-18,Getfotsvägen 59,Gubbangen,GronHagsatra,4,100,3,Lägenhet,2004,3975000,425000,4400000,6274,ERA,376.83853037330476,Gubbangen
+202016-06-16,Bordsvägen 15,Gubbangen,GronHagsatra,2,51,2,Lägenhet,1946,2195000,75000,2270000,2701,Bjurfors,201.4196042658475,Gubbangen
+202016-06-14,Kryddgränd 4,Gubbangen,GronHagsatra,4,90,2,Lägenhet,1986,2875000,325000,3200000,5412,Fastighetsmäklarna,542.6042547000668,Gubbangen
+202016-06-14,Majrovägen 41,Gubbangen,GronHagsatra,2,34,null,Lägenhet,null,1975000,275000,2250000,2634,ERA,463.5680255366515,Gubbangen
+202016-06-14,Majrovägen 25,Gubbangen,GronHagsatra,5,93,null,Lägenhet,1996,4400000,0,4400000,6390,SkandiaMäklarna,329.5531681013019,Gubbangen
+202016-06-03,Knektvägen 17,Gubbangen,GronHagsatra,2,54,5,Lägenhet,1948,2395000,260000,2655000,3198,Fastighetsbyrån,83.43158728673211,Gubbangen
+202016-06-03,Kryddgränd 4,Gubbangen,GronHagsatra,3,78,null,Lägenhet,1985,2695000,-165000,2530000,4782,SkandiaMäklarna,542.6042547000668,Gubbangen
+202016-06-01,Rubanksgränd 3,Gubbangen,GronHagsatra,3,73,3,Lägenhet,2007,2995000,405000,3400000,5407,HusmanHagberg,496.1128533451014,Gubbangen
+202016-06-01,Getfotsvägen 5,Gubbangen,GronHagsatra,2,52,2,Lägenhet,1952,1975000,415000,2390000,3247,Hemmäklarna,312.6510900749745,Gubbangen
+202016-05-29,Skrinvägen 6,Gubbangen,GronHagsatra,2,60,2,Lägenhet,1946,2595000,5000,2600000,2983,SkandiaMäklarna,329.35171088868475,Gubbangen
+202016-05-28,Herrhagsvägen 129,Gubbangen,GronHagsatra,4,52,null,Villa,1939,4450000,700000,5150000,null,ERA,257.8868730713215,Gubbangen
+202016-05-27,Getfotsvägen 46,Gubbangen,GronHagsatra,3,72,2,Lägenhet,1949,2795000,430000,3225000,3800,HusmanHagberg,429.4293726537278,Gubbangen
+202016-05-27,Bordsvägen 33A,Gubbangen,GronHagsatra,2,54,2,Lägenhet,1947,2195000,155000,2350000,3660,ERA,215.36130334727267,Gubbangen
+202016-05-27,Majrovägen 5,Gubbangen,GronHagsatra,4.5,93,2,Lägenhet,2009,3900000,450000,4350000,5869,Svensk Fastighetsförmedling,243.04967023197162,Gubbangen
+202016-05-26,Kistvägen 18,Gubbangen,GronHagsatra,2,57,3,Lägenhet,1948,1995000,455000,2450000,3716,Mäklarringen,143.32779054670058,Gubbangen
+202016-05-23,Majrovägen 41,Gubbangen,GronHagsatra,4,95.5,4,Lägenhet,1996,3975000,725000,4700000,6144,ERA,463.5680255366515,Gubbangen
+202016-05-18,Getfotsvägen 11,Gubbangen,GronHagsatra,4,93.5,1,Lägenhet,2009,4250000,450000,4700000,5028,Svensk Fastighetsförmedling,375.6074051286519,Gubbangen
+202016-05-02,Karmstolsvägen 11,Gubbangen,GronHagsatra,2,64,3,Lägenhet,1947,2500000,0,2500000,4167,Länsförsäkringar Fastighetsförmedling,144.8995738899371,Gubbangen
+202016-05-02,Majrovägen 17,Gubbangen,GronHagsatra,4,99,null,Lägenhet,1999,3950000,1050000,5000000,6600,ERA,251.69635920391343,Gubbangen
+202016-04-26,Majrovägen 14,Gubbangen,GronHagsatra,2,53,5,Lägenhet,1947,2295000,575000,2870000,3056,Notar,232.6277623226066,Gubbangen
+202016-04-21,Bordsvägen 19,Gubbangen,GronHagsatra,2,51,2,Lägenhet,1946,2195000,315000,2510000,2701,Bjurfors,201.4196042658475,Gubbangen
+202016-04-21,Gubbängsvägen 48,Gubbangen,GronHagsatra,5,110,null,Villa,1948,5295000,1315000,6610000,null,Fastighetsbyrån,554.3787372740567,Gubbangen
+202016-04-20,Dörrvägen 10,Gubbangen,GronHagsatra,3,64,1,Lägenhet,1947,2850000,760000,3610000,3489,Svensk Fastighetsförmedling,268.99460185102566,Gubbangen
+202016-04-18,Getfotsvägen 48,Gubbangen,GronHagsatra,3,72,1,Lägenhet,1949,2995000,480000,3475000,3800,HusmanHagberg,426.6950931510933,Gubbangen
+202016-04-18,Cirkelvägen 6,Gubbangen,GronHagsatra,2,52,2,Lägenhet,1947,2250000,200000,2450000,3392,ERA,327.86619155014694,Gubbangen
+202016-04-16,Bordsvägen 39,Gubbangen,GronHagsatra,2,53,3,Lägenhet,1946,2290000,360000,2650000,3056,ERA,186.82933316352864,Gubbangen
+202016-04-16,Kryddgränd 6,Gubbangen,GronHagsatra,2,71,4,Lägenhet,1985,1595000,-35000,1560000,5622,Svensk Fastighetsförmedling,474.48525722183007,Gubbangen
+202016-04-15,Sicklingsvägen 7,Gubbangen,GronHagsatra,3,68,1,Lägenhet,1946,2950000,515000,3465000,3737,ERA,169.90485370312868,Gubbangen
+202016-04-10,Bordsvägen 23,Gubbangen,GronHagsatra,2,51,2,Lägenhet,1946,2295000,255000,2550000,2701,Mäklarringen,307.41770573879455,Gubbangen
+202016-04-08,Getfotsvägen 46,Gubbangen,GronHagsatra,3,72,2,Lägenhet,1951,2795000,645000,3440000,3800,SkandiaMäklarna,429.4293726537278,Gubbangen
+202016-04-06,Sicklingsvägen 10,Gubbangen,GronHagsatra,2,53,2,Lägenhet,1947,2195000,730000,2925000,3056,Notar,156.15754816851322,Gubbangen
+202016-03-27,Högsätesvägen 13,Gubbangen,GronHagsatra,5,68,null,Radhus,1947,4450000,950000,5400000,null,ERA,796.2033084454041,Gubbangen
+202016-03-26,Karmstolsvägen 10,Gubbangen,GronHagsatra,3.5,74,2,Lägenhet,1947,2695000,-95000,2600000,5121,Fastighetsbyrån,125.80223814839151,Gubbangen
+202016-03-24,Majrovägen 19,Gubbangen,GronHagsatra,3,58,1,Lägenhet,1997,2490000,630000,3120000,4650,ERA,296.2299541570934,Gubbangen
+202016-03-24,Getfotsvägen 40,Gubbangen,GronHagsatra,3,68,1,Lägenhet,1949,2495000,355000,2850000,3588,HusmanHagberg,441.8898322123783,Gubbangen
+202016-03-24,Sicklingsvägen 18,Gubbangen,GronHagsatra,3,68,1,Lägenhet,1948,2950000,50000,3000000,3737,Svensk Fastighetsförmedling,233.52441150482542,Gubbangen
+202016-03-24,Sicklingsvägen 8,Gubbangen,GronHagsatra,2,53,2,Lägenhet,null,2250000,400000,2650000,3056,Svensk Fastighetsförmedling,147.08562691079314,Gubbangen
+202016-03-22,Majrovägen 1,Gubbangen,GronHagsatra,3,70,0,Lägenhet,2010,3200000,0,3200000,4749,Fastighetsbyrån,233.881443341955,Gubbangen
+202016-03-19,Majrovägen 29,Gubbangen,GronHagsatra,4,93,1,Lägenhet,1997,3650000,760000,4410000,6354,ERA,339.057489871036,Gubbangen
+202016-03-17,Knektvägen 3,Gubbangen,GronHagsatra,2,53,2,Lägenhet,1947,2195000,245000,2440000,3056,ERA,189.64960987521937,Gubbangen
+202016-03-14,Sicklingsvägen 14,Gubbangen,GronHagsatra,3,68,3,Lägenhet,1946,2950000,660000,3610000,3812,ERA,202.26706237763509,Gubbangen
+202016-03-12,Getfotsvägen 59,Gubbangen,GronHagsatra,2,52,4,Lägenhet,2004,2295000,555000,2850000,3942,Svensk Fastighetsförmedling,376.83853037330476,Gubbangen
+202016-03-12,Majrovägen 31,Gubbangen,GronHagsatra,4,93,1,Lägenhet,1996,3675000,1175000,4850000,5692,ERA,390.59183898477727,Gubbangen
+202016-03-10,Getfotsvägen 44,Gubbangen,GronHagsatra,3,72,3,Lägenhet,1951,2795000,555000,3350000,3800,Fastighetsbyrån,431.4615945324344,Gubbangen
+202016-03-10,Getfotsvägen 13,Gubbangen,GronHagsatra,3,76,3,Lägenhet,2009,3495000,455000,3950000,4277,Fastighetsbyrån,386.0426043035413,Gubbangen
+202016-03-09,Getfotsvägen 1,Gubbangen,GronHagsatra,2,52,null,Lägenhet,1952,2450000,400000,2850000,3247,Mäklare Sjögren,285.1888728730072,Gubbangen
+202016-03-04,Knektvägen 15,Gubbangen,GronHagsatra,2,56,4,Lägenhet,1948,2290000,450000,2740000,3284,ERA,116.49536184005721,Gubbangen
+202016-03-03,Bordsvägen 72,Gubbangen,GronHagsatra,3,68,1,Lägenhet,1947,2950000,350000,3300000,3736,ERA,293.54141941922995,Gubbangen
+202016-03-01,Kryddgränd 4,Gubbangen,GronHagsatra,2,68,3,Lägenhet,1985,1795000,215000,2010000,5142,HusmanHagberg,542.6042547000668,Gubbangen
+202016-02-26,Getfotsvägen 42,Gubbangen,GronHagsatra,3,72,2,Lägenhet,1949,2795000,280000,3075000,3800,HusmanHagberg,436.91003596170793,Gubbangen
+202016-02-26,Rubanksgränd 3,Gubbangen,GronHagsatra,2,55,2,Lägenhet,2007,2295000,570000,2865000,4396,Svensk Fastighetsförmedling,496.1128533451014,Gubbangen
+202016-02-25,Kryddgränd 4,Gubbangen,GronHagsatra,2,65,null,Lägenhet,1985,1850000,260000,2110000,4984,SkandiaMäklarna,542.6042547000668,Gubbangen
+202016-02-24,Majrovägen 1,Gubbangen,GronHagsatra,3,71,4,Lägenhet,2009,2950000,170000,3120000,4798,ERA,233.881443341955,Gubbangen
+202016-02-20,Majrovägen 14,Gubbangen,GronHagsatra,2,53,1,Lägenhet,1946,2190000,430000,2620000,2998,ERA,232.6277623226066,Gubbangen
+202016-02-17,Majrovägen 35,Gubbangen,GronHagsatra,2,49.5,null,Lägenhet,1996,2225000,265000,2490000,3245,SkandiaMäklarna,404.49938183885763,Gubbangen
+202016-02-17,Cirkelvägen 6,Gubbangen,GronHagsatra,3,70,1,Lägenhet,1947,2850000,200000,3050000,4412,Fastighetsbyrån,327.86619155014694,Gubbangen
+202016-02-10,Knektvägen 15,Gubbangen,GronHagsatra,1.5,40,5,Lägenhet,1948,1995000,655000,2650000,2498,ERA,116.49536184005721,Gubbangen
+202016-02-04,Bordsvägen 33B,Gubbangen,GronHagsatra,2,54,2,Lägenhet,1947,2195000,285000,2480000,3660,ERA,228.92721324541486,Gubbangen
+202016-02-03,Sicklingsvägen 3,Gubbangen,GronHagsatra,1,25,6,Lägenhet,1947,1595000,815000,2410000,1634,Länsförsäkringar Fastighetsförmedling,120.18685345402046,Gubbangen
+202016-01-28,Bordsvägen 33,Gubbangen,GronHagsatra,2,54,1,Lägenhet,1947,2095000,280000,2375000,3660,Svensk Fastighetsförmedling,201.09790620390268,Gubbangen
+202016-01-22,Majrovägen 17,Gubbangen,GronHagsatra,2,51,3,Lägenhet,1999,2195000,255000,2450000,4131,ERA,251.69635920391343,Gubbangen
+202016-01-22,Sicklingsvägen 13,Gubbangen,GronHagsatra,3,68,3,Lägenhet,1947,2995000,370000,3365000,3812,Svensk Fastighetsförmedling,216.94200025543546,Gubbangen
+202016-01-22,Majrovägen 41,Gubbangen,GronHagsatra,4,80.5,0,Lägenhet,1996,3250000,800000,4050000,5105,HusmanHagberg,463.5680255366515,Gubbangen
+202016-01-21,Bordsvägen 33A,Gubbangen,GronHagsatra,2,54,3,Lägenhet,1947,2150000,310000,2460000,3660,ERA,215.36130334727267,Gubbangen
+202016-01-21,Karmstolsvägen 9,Gubbangen,GronHagsatra,2,64,null,Lägenhet,1947,1995000,625000,2620000,4167,Länsförsäkringar Fastighetsförmedling,220.27223577359806,Gubbangen
+202016-01-21,Majrovägen 27,Gubbangen,GronHagsatra,3,69,1,Lägenhet,1997,2850000,-50000,2800000,5124,Notar,317.6104751145561,Gubbangen
+202016-01-20,Skåpvägen 13,Gubbangen,GronHagsatra,2,54,1,Lägenhet,1946,2195000,205000,2400000,2816,Bjurfors,201.4196042658475,Gubbangen
+202016-01-14,Getfotsvägen 11,Gubbangen,GronHagsatra,5,121.5,4,Lägenhet,2008,4500000,1250000,5750000,5944,SkandiaMäklarna,375.6074051286519,Gubbangen
+202016-01-14,Getfotsvägen 11,Gubbangen,GronHagsatra,2,63.5,3,Lägenhet,2008,2450000,790000,3240000,3692,Fastighetsbyrån,375.6074051286519,Gubbangen
+202015-12-16,Bordsvägen 43,Gubbangen,GronHagsatra,4,78,1,Lägenhet,1946,3550000,250000,3800000,4327,ERA,201.04668200906698,Gubbangen
+202015-12-12,Majrovägen 33,Gubbangen,GronHagsatra,2,49.5,1,Lägenhet,1996,2150000,500000,2650000,3312,ERA,381.40930279825955,Gubbangen
+202015-12-11,Lingvägen 103,Gubbangen,GronHagsatra,3,75,3,Lägenhet,1951,2895000,605000,3500000,3331,Mäklarringen,141.8524587717747,Gubbangen
+202015-12-03,Kryddgränd 6,Gubbangen,GronHagsatra,3,72,3,Lägenhet,1985,1995000,85000,2080000,5212,SkandiaMäklarna,474.48525722183007,Gubbangen
+202015-11-26,Getfotsvägen 3,Gubbangen,GronHagsatra,2,52,3,Lägenhet,1952,2095000,475000,2570000,3097,Hemverket,298.7560805736578,Gubbangen
+202015-11-21,Kryddgränd 4,Gubbangen,GronHagsatra,2,61,3,Lägenhet,1985,1995000,265000,2260000,3713,SkandiaMäklarna,542.6042547000668,Gubbangen
+202015-11-14,Sicklingsvägen 16,Gubbangen,GronHagsatra,3,68,2,Lägenhet,1946,2750000,0,2750000,3812,ERA,218.16970316394386,Gubbangen
+202015-11-13,Bordsvägen 64,Gubbangen,GronHagsatra,3,68,2,Lägenhet,1948,2950000,-150000,2800000,3792,Svensk Fastighetsförmedling,258.058390059413,Gubbangen
+202015-11-10,Majrovägen 5,Gubbangen,GronHagsatra,3,83,5,Lägenhet,2010,2950000,850000,3800000,5314,ERA,243.04967023197162,Gubbangen
+202015-10-31,Kistvägen 12,Gubbangen,GronHagsatra,4,94,1,Lägenhet,1948,3295000,530000,3825000,6170,Living Fastighetsmäkleri,95.06549879412746,Gubbangen
+202015-10-30,Skåpvägen 1,Gubbangen,GronHagsatra,2,57,2,Lägenhet,null,2195000,455000,2650000,2779,ERA,265.49984494187584,Gubbangen
+202015-10-29,Dörrvägen 4,Gubbangen,GronHagsatra,4,100,1,Lägenhet,1947,3950000,1150000,5100000,4474,Wendell Fastighetsförmedling AB,258.1675702576046,Gubbangen
+202015-10-19,Rubanksgränd 5,Gubbangen,GronHagsatra,3,89,null,Lägenhet,1950,3495000,1230000,4725000,5862,Länsförsäkringar Fastighetsförmedling,549.2580525083961,Gubbangen
+202015-10-15,Sicklingsvägen 2,Gubbangen,GronHagsatra,2,53,3,Lägenhet,1948,2195000,485000,2680000,3056,Svensk Fastighetsförmedling,122.86638059888472,Gubbangen
+202015-10-13,Knektvägen 17,Gubbangen,GronHagsatra,2,54,5,Lägenhet,null,2250000,250000,2500000,3198,ERA,83.43158728673211,Gubbangen
+202015-09-24,Majrovägen 13,Gubbangen,GronHagsatra,3,67.5,3,Lägenhet,1999,2550000,450000,3000000,5010,ERA,241.94918962985318,Gubbangen
+202015-09-24,Kryddgränd 4,Gubbangen,GronHagsatra,3,78,null,Lägenhet,1985,1995000,738000,2733000,4562,SkandiaMäklarna,542.6042547000668,Gubbangen
+202015-09-24,Kryddgränd 4,Gubbangen,GronHagsatra,1,48,null,Lägenhet,1985,1595000,925000,2520000,3063,SkandiaMäklarna,542.6042547000668,Gubbangen
+202015-09-18,Bordsvägen 33,Gubbangen,GronHagsatra,2,54,4,Lägenhet,1947,2150000,450000,2600000,3660,ERA,201.09790620390268,Gubbangen
+202015-09-14,Gubbängsvägen 12,Gubbangen,GronHagsatra,4,95,null,Radhus,1948,3250000,1450000,4700000,null,ERA,870.7192539636544,Gubbangen
+202015-09-11,Majrovägen 8,Gubbangen,GronHagsatra,3,68,3,Lägenhet,null,2590000,630000,3220000,3792,ERA,195.76637665190245,Gubbangen
+202015-09-10,Kistvägen 12,Gubbangen,GronHagsatra,2,58,2,Lägenhet,1948,1995000,715000,2710000,3966,Living Fastighetsmäkleri,95.06549879412746,Gubbangen
+202015-09-10,Sicklingsvägen 5,Gubbangen,GronHagsatra,2,54,2,Lägenhet,1948,2195000,505000,2700000,3119,Svensk Fastighetsförmedling,135.29262204942077,Gubbangen
+202015-09-10,Majrovägen 25,Gubbangen,GronHagsatra,1,40,2,Lägenhet,1997,1790000,530000,2320000,3130,ERA,329.5531681013019,Gubbangen
+202015-09-09,Rubanksgränd 4,Gubbangen,GronHagsatra,2,55,4,Lägenhet,2006,2295000,1005000,3300000,4396,Fastighetsbyrån,494.6562129974191,Gubbangen
+202015-09-02,Majrovägen 5,Gubbangen,GronHagsatra,4.5,94,1,Lägenhet,2010,3490000,410000,3900000,5908,ERA,243.04967023197162,Gubbangen
+202015-09-02,Knektvägen 5,Gubbangen,GronHagsatra,2.5,53,2,Lägenhet,1948,2395000,635000,3030000,3056,Svensk Fastighetsförmedling,178.12313972622147,Gubbangen
+202015-08-26,Skrinvägen 8,Gubbangen,GronHagsatra,2,60,2,Lägenhet,1947,2195000,480000,2675000,2883,Fastighetsbyrån,342.5559944452343,Gubbangen
+202015-08-21,Majrovägen 31,Gubbangen,GronHagsatra,4,93,1,Lägenhet,1996,3495000,605000,4100000,5811,ERA,390.59183898477727,Gubbangen
+202015-08-20,Karmstolsvägen 6,Gubbangen,GronHagsatra,3,74,3,Lägenhet,1947,2595000,-100000,2495000,5311,Fastighetsbyrån,161.3985136523196,Gubbangen
+202015-08-20,Knektvägen 17,Gubbangen,GronHagsatra,2,54,1,Lägenhet,null,2050000,100000,2150000,2971,ERA,83.43158728673211,Gubbangen
+202015-08-20,Kistvägen 18,Gubbangen,GronHagsatra,4,93,3,Lägenhet,1948,2975000,25000,3000000,5920,Mäklarringen,143.32779054670058,Gubbangen
+202015-08-19,Rubanksgränd 4,Gubbangen,GronHagsatra,2,55,1,Lägenhet,2007,2195000,525000,2720000,4396,Södermäklarna,494.6562129974191,Gubbangen
+202015-08-12,Bordsvägen 21,Gubbangen,GronHagsatra,2,51,2,Lägenhet,1946,1995000,555000,2550000,2560,Restate,310.356187076782,Gubbangen
+202015-07-25,Knektvägen 15,Gubbangen,GronHagsatra,2,54,6,Lägenhet,1948,2095000,405000,2500000,3210,Fastighetsbyrån,116.49536184005721,Gubbangen
+202015-07-16,Getfotsvägen 1,Gubbangen,GronHagsatra,2,52,2,Lägenhet,1952,1925000,675000,2600000,3097,Fastighetsbyrån,285.1888728730072,Gubbangen
+202015-07-01,Sicklingsvägen 12,Gubbangen,GronHagsatra,3,68,2,Lägenhet,1947,2695000,730000,3425000,3812,Erik Olsson Fastighetsförmedling,190.10206740686763,Gubbangen
+202015-06-25,Majrovägen 41,Gubbangen,GronHagsatra,3,67.5,3,Lägenhet,1996,2495000,335000,2830000,4644,ERA,463.5680255366515,Gubbangen
+202015-06-18,Bordsvägen 11,Gubbangen,GronHagsatra,2,37,0,Lägenhet,1946,1795000,335000,2130000,2050,Restate,273.32344265471244,Gubbangen
+202015-06-12,Bordsvägen 25,Gubbangen,GronHagsatra,2,51,2,Lägenhet,null,1990000,470000,2460000,2560,ERA,291.9155515075103,Gubbangen
+202015-06-11,Kryddgränd 6,Gubbangen,GronHagsatra,3,75,1,Lägenhet,2008,1590000,20000,1610000,5412,ERA,474.48525722183007,Gubbangen
+202015-06-10,Rubanksgränd 3,Gubbangen,GronHagsatra,2,49,1,Lägenhet,2007,1990000,10000,2000000,3913,Svensk Fastighetsförmedling,496.1128533451014,Gubbangen
+202015-06-10,Karmstolsvägen 11,Gubbangen,GronHagsatra,2,61,1,Lägenhet,1947,1795000,475000,2270000,3980,Mäklarringen,144.8995738899371,Gubbangen
+202015-06-06,Bordsvägen 66,Gubbangen,GronHagsatra,3,68,2,Lägenhet,1946,2690000,210000,2900000,3792,ERA,260.1046716117875,Gubbangen
+202015-06-04,Majrovägen 35,Gubbangen,GronHagsatra,4,93,3,Lägenhet,1996,3495000,155000,3650000,5985,ERA,404.49938183885763,Gubbangen
+202015-06-03,Bordsvägen 49,Gubbangen,GronHagsatra,3,68,3,Lägenhet,1947,2790000,370000,3160000,3812,HusmanHagberg,230.22001971624903,Gubbangen
+202015-06-03,Getfotsvägen 5,Gubbangen,GronHagsatra,2,52,2,Lägenhet,1952,1995000,425000,2420000,3097,Hemmäklarna,312.6510900749745,Gubbangen
+202015-05-31,Sicklingsvägen 16,Gubbangen,GronHagsatra,3,68,3,Lägenhet,1946,2690000,410000,3100000,3812,ERA,218.16970316394386,Gubbangen
+202015-05-29,Knektvägen 15,Gubbangen,GronHagsatra,2,56,2,Lägenhet,1947,2150000,0,2150000,3213,ERA,116.49536184005721,Gubbangen
+202015-05-29,Knektvägen 17,Gubbangen,GronHagsatra,2,40,2,Lägenhet,null,1790000,410000,2200000,2437,ERA,83.43158728673211,Gubbangen
+202015-05-29,Getfotsvägen 50,Gubbangen,GronHagsatra,3,68,3,Lägenhet,1949,2495000,475000,2970000,3484,HusmanHagberg,424.85179313867184,Gubbangen
+202015-05-21,Getfotsvägen 11,Gubbangen,GronHagsatra,1.5,56,null,Lägenhet,2008,1925000,5000,1930000,3340,SverigeMäklaren,375.6074051286519,Gubbangen
+202015-05-20,Karmstolsvägen 6,Gubbangen,GronHagsatra,2,58,3,Lägenhet,1947,1695000,255000,1950000,3949,HusmanHagberg,161.3985136523196,Gubbangen
+202015-05-15,Lingvägen 107,Gubbangen,GronHagsatra,3.5,76,3,Lägenhet,null,2695000,345000,3040000,3375,Fastighetsbyrån,113.99734546355491,Gubbangen
+202015-05-14,Sicklingsvägen 4,Gubbangen,GronHagsatra,2,53,3,Lägenhet,1948,1995000,335000,2330000,3056,ERA,128.06822262374976,Gubbangen
+202015-05-14,Rubanksgränd 3,Gubbangen,GronHagsatra,3,73,1,Lägenhet,2007,2995000,505000,3500000,5407,Fastighetsbyrån,496.1128533451014,Gubbangen
+202015-05-14,Rubanksgränd 4,Gubbangen,GronHagsatra,3,73,2,Lägenhet,2007,2995000,255000,3250000,5407,HusmanHagberg,494.6562129974191,Gubbangen
+202015-05-13,Dörrvägen 6,Gubbangen,GronHagsatra,3,64,3,Lägenhet,1947,2495000,0,2495000,4150,Mäklarringen,269.95941292670335,Gubbangen
+202015-05-12,Majrovägen 33,Gubbangen,GronHagsatra,2,49.5,null,Lägenhet,1996,2050000,290000,2340000,3245,ERA,381.40930279825955,Gubbangen
+202015-05-09,Cirkelvägen 2,Gubbangen,GronHagsatra,2,52,2,Lägenhet,1947,2150000,20000,2170000,3325,ERA,335.0766742895047,Gubbangen
+202015-05-08,Sicklingsvägen 5,Gubbangen,GronHagsatra,2,56,2,Lägenhet,null,2150000,210000,2360000,3213,ERA,135.29262204942077,Gubbangen
+202015-05-06,Majrovägen 15,Gubbangen,GronHagsatra,2,34,null,Lägenhet,1999,1790000,290000,2080000,3228,ERA,267.20119259549523,Gubbangen
+202015-05-01,Majrovägen 35,Gubbangen,GronHagsatra,2,49.5,2,Lägenhet,1996,2150000,160000,2310000,3346,ERA,404.49938183885763,Gubbangen
+202015-05-01,Bordsvägen 43,Gubbangen,GronHagsatra,4,78,1.5,Lägenhet,1946,2750000,400000,3150000,4410,ERA,201.04668200906698,Gubbangen
+202015-04-24,Sicklingsvägen 7,Gubbangen,GronHagsatra,3,68,1.5,Lägenhet,1946,2650000,600000,3250000,3812,ERA,169.90485370312868,Gubbangen
+202015-04-24,Getfotsvägen 7,Gubbangen,GronHagsatra,2,52,3,Lägenhet,1952,1850000,490000,2340000,3097,Hemmäklarna,325.6293027392975,Gubbangen
+202015-04-23,Kistvägen 12,Gubbangen,GronHagsatra,2,58,3,Lägenhet,1948,2195000,0,2195000,null,Svensk Fastighetsförmedling,95.06549879412746,Gubbangen
+202015-04-23,Kistvägen 16,Gubbangen,GronHagsatra,2,58,1,Lägenhet,1948,1980000,70000,2050000,3966,SkandiaMäklarna,129.69927160897635,Gubbangen
+202015-04-23,Bordsvägen 13,Gubbangen,GronHagsatra,3,72,3,Lägenhet,1946,2700000,420000,3120000,null,Svensk Fastighetsförmedling,257.12794505019195,Gubbangen
+202015-04-21,Sicklingsvägen 3,Gubbangen,GronHagsatra,2,40,4,Lägenhet,1946,1795000,365000,2160000,2488,ERA,120.18685345402046,Gubbangen
+202015-04-21,Majrovägen 25,Gubbangen,GronHagsatra,4,93,3,Lägenhet,1997,3150000,1350000,4500000,6719,ERA,329.5531681013019,Gubbangen
+202015-04-17,Dörrvägen 6,Gubbangen,GronHagsatra,2,53,2,Lägenhet,1947,1995000,425000,2420000,3465,Länsförsäkringar Fastighetsförmedling,269.95941292670335,Gubbangen
+202015-04-15,Knektvägen 15,Gubbangen,GronHagsatra,2,54,6,Lägenhet,1948,2495000,215000,2710000,3210,Fastighetsbyrån,116.49536184005721,Gubbangen
+202015-04-11,Skrinvägen 2,Gubbangen,GronHagsatra,3,69,3,Lägenhet,1947,2595000,635000,3230000,3413,Fastighetsbyrån,301.1030726125545,Gubbangen
+202015-04-01,Polovägen 13,Gubbangen,GronHagsatra,5,65,null,Villa,1938,4895000,520000,5415000,null,SkandiaMäklarna,735.2586194438132,Tallkrogen
+202015-04-01,Rubanksgränd 5,Gubbangen,GronHagsatra,3,89,2,Lägenhet,1952,2980000,1065000,4045000,5747,Svensk Fastighetsförmedling,549.2580525083961,Gubbangen
+202015-03-27,Getfotsvägen 42,Gubbangen,GronHagsatra,3,72,2,Lägenhet,1949,2495000,225000,2720000,3689,HusmanHagberg,436.91003596170793,Gubbangen
+202015-03-26,Kistvägen 16,Gubbangen,GronHagsatra,4,93,2,Lägenhet,1948,2850000,720000,3570000,5920,Mäklarringen,129.69927160897635,Gubbangen
+202015-03-23,Sicklingsvägen 11,Gubbangen,GronHagsatra,3,68,2,Lägenhet,1943,2395000,585000,2980000,3812,Länsförsäkringar Fastighetsförmedling,200.7276399149391,Gubbangen
+202015-03-16,Sicklingsvägen 7,Gubbangen,GronHagsatra,3,68,3,Lägenhet,1946,2650000,590000,3240000,3812,ERA,169.90485370312868,Gubbangen
+202015-03-12,Kryddgränd 6,Gubbangen,GronHagsatra,3.5,86,1,Lägenhet,1985,1750000,0,1750000,5685,Södermäklarna,474.48525722183007,Gubbangen
+202015-03-06,Karmstolsvägen 6,Gubbangen,GronHagsatra,3.5,74,3,Lägenhet,1947,2495000,105000,2600000,5311,Fastighetsbyrån,161.3985136523196,Gubbangen
+202015-03-04,Lingvägen 101,Gubbangen,GronHagsatra,2,60,2,Lägenhet,null,2150000,625000,2775000,2665,Fastighetsbyrån,93.8716719095635,Gubbangen
+202015-03-04,Rubanksgränd 6,Gubbangen,GronHagsatra,2,49,3,Lägenhet,2007,1995000,265000,2260000,3913,SkandiaMäklarna,504.54073264116903,Gubbangen
+202015-03-04,Cirkelvägen 6,Gubbangen,GronHagsatra,3,70,1,Lägenhet,1947,2395000,455000,2850000,4326,Bjurfors,327.86619155014694,Gubbangen
+202015-02-28,Gubbängsvägen 23,Gubbangen,GronHagsatra,5,84,null,Radhus,1947,4290000,230000,4520000,null,ERA,802.2271918271068,Gubbangen
+202015-02-27,Skåpvägen 7,Gubbangen,GronHagsatra,1,73,null,Lägenhet,1946,1395000,395000,1790000,3361,Restate,201.4196042658475,Gubbangen
+202015-02-18,Bordsvägen 58,Gubbangen,GronHagsatra,2,50,3,Lägenhet,1947,1945000,565000,2510000,2911,SkandiaMäklarna,229.08901126101117,Gubbangen
+202015-02-16,Getfotsvägen 46,Gubbangen,GronHagsatra,3,72,2,Lägenhet,1949,2295000,645000,2940000,3689,HusmanHagberg,429.4293726537278,Gubbangen
+202015-02-16,Kryddgränd 6,Gubbangen,GronHagsatra,3,97,2,Lägenhet,2008,1595000,-25000,1570000,6044,ERA,474.48525722183007,Gubbangen
+202015-02-13,Majrovägen 1,Gubbangen,GronHagsatra,4,92,1,Lägenhet,2009,2950000,650000,3600000,5829,Svensk Fastighetsförmedling,233.881443341955,Gubbangen
+202015-02-11,Sicklingsvägen 8,Gubbangen,GronHagsatra,2,53,2.5,Lägenhet,1947,1995000,305000,2300000,3056,Notar,147.08562691079314,Gubbangen
+202015-02-10,Knektvägen 17,Gubbangen,GronHagsatra,2,54,5,Lägenhet,1947,1975000,425000,2400000,3198,ERA,83.43158728673211,Gubbangen
+202015-02-05,Majrovägen 29,Gubbangen,GronHagsatra,2,49.5,3,Lägenhet,1997,1750000,145000,1895000,4143,ERA,339.057489871036,Gubbangen
+202015-01-27,Kistvägen 14,Gubbangen,GronHagsatra,2,57,null,Lägenhet,1948,1795000,305000,2100000,3966,Living Fastighetsmäkleri,102.17656324886774,Gubbangen
+202015-01-25,Majrovägen 23,Gubbangen,GronHagsatra,4,93,null,Lägenhet,1997,3195000,0,3195000,6229,SkandiaMäklarna,294.05370570506363,Gubbangen
+202015-01-17,Getfotsvägen 13,Gubbangen,GronHagsatra,3,76,2,Lägenhet,2009,2795000,105000,2900000,4277,Mäklarhuset,386.0426043035413,Gubbangen
+202014-12-10,Cirkelvägen 8,Gubbangen,GronHagsatra,2,52,2,Lägenhet,1947,1795000,555000,2350000,3360,Mäklarringen,308.88086453118564,Gubbangen
+202014-12-06,Majrovägen 37,Gubbangen,GronHagsatra,5,93,1,Lägenhet,null,3150000,350000,3500000,5811,ERA,444.1467832292203,Gubbangen
+202014-12-03,Bordsvägen 62,Gubbangen,GronHagsatra,3,68,3,Lägenhet,1948,2200000,420000,2620000,3792,Svensk Fastighetsförmedling,243.5626680928199,Gubbangen
+202014-11-28,Sicklingsvägen 5,Gubbangen,GronHagsatra,1,25,5,Lägenhet,1947,1495000,285000,1780000,1630,ERA,135.29262204942077,Gubbangen
+202014-11-28,Bordsvägen 29,Gubbangen,GronHagsatra,3,66,2,Lägenhet,1947,2190000,320000,2510000,4443,ERA,257.23352294490115,Gubbangen
+202014-11-24,Majrovägen 17,Gubbangen,GronHagsatra,4,99,3,Lägenhet,1999,2750000,20000,2770000,6600,ERA,251.69635920391343,Gubbangen
+202014-11-22,Karmstolsvägen 11,Gubbangen,GronHagsatra,2,61,2,Lägenhet,1947,1795000,75000,1870000,3980,ERA,144.8995738899371,Gubbangen
+202014-11-22,Knektvägen 15,Gubbangen,GronHagsatra,1,25,5,Lägenhet,null,1485000,245000,1730000,1566,ERA,116.49536184005721,Gubbangen
+202014-11-19,Cirkelvägen 6,Gubbangen,GronHagsatra,2,52,2,Lägenhet,1947,1995000,105000,2100000,3325,Notar,327.86619155014694,Gubbangen
+202014-11-15,Sicklingsvägen 4,Gubbangen,GronHagsatra,2,53,null,Lägenhet,1948,1895000,265000,2160000,3056,ERA,128.06822262374976,Gubbangen
+202014-11-13,Knektvägen 17,Gubbangen,GronHagsatra,1,40,3,Lägenhet,1948,1795000,265000,2060000,2455,Fastighetsbyrån,83.43158728673211,Gubbangen
+202014-11-06,Sicklingsvägen 3,Gubbangen,GronHagsatra,1,25,6,Lägenhet,1947,1485000,265000,1750000,1634,ERA,120.18685345402046,Gubbangen
+202014-11-06,Majrovägen 5,Gubbangen,GronHagsatra,3,68,null,Lägenhet,2009,2495000,205000,2700000,4481,Länsförsäkringar Fastighetsförmedling,243.04967023197162,Gubbangen
+202014-11-06,Getfotsvägen 48,Gubbangen,GronHagsatra,3,72,2,Lägenhet,null,2350000,10000,2360000,3689,Fastighetsbyrån,426.6950931510933,Gubbangen
+202014-11-04,Getfotsvägen 11,Gubbangen,GronHagsatra,4,93.5,3,Lägenhet,2009,3195000,755000,3950000,5028,Erik Olsson Fastighetsförmedling,375.6074051286519,Gubbangen
+202014-11-04,Lingvägen 91,Gubbangen,GronHagsatra,4,87,2,Lägenhet,null,2850000,800000,3650000,3679,ERA,97.25419608520355,Gubbangen
+202014-11-04,Lingvägen 122,Gubbangen,GronHagsatra,3,83,5,Lägenhet,2010,2650000,150000,2800000,5314,ERA,259.04539488153176,Gubbangen
+202014-10-30,Lemmings väg 49,Gubbangen,GronHagsatra,5,null,null,Villa,null,4950000,-100000,4850000,null,Södermäklarna,836.1679656794793,Gubbangen
+202014-10-30,Sicklingsvägen 11,Gubbangen,GronHagsatra,3,68,2,Lägenhet,1947,2395000,205000,2600000,3812,ERA,200.7276399149391,Gubbangen
+202014-10-30,Majrovägen 27,Gubbangen,GronHagsatra,2,49.5,1,Lägenhet,1997,1795000,55000,1850000,4026,ERA,317.6104751145561,Gubbangen
+202014-10-29,Majrovägen 41,Gubbangen,GronHagsatra,2,34,null,Lägenhet,1995,1495000,335000,1830000,2633,SkandiaMäklarna,463.5680255366515,Gubbangen
+202014-10-24,Getfotsvägen 48,Gubbangen,GronHagsatra,3,72,3,Lägenhet,null,2350000,360000,2710000,3689,Svensk Fastighetsförmedling,426.6950931510933,Gubbangen
+202014-10-22,Cirkelvägen 8,Gubbangen,GronHagsatra,2,52,0.5,Lägenhet,1947,1795000,255000,2050000,3325,Notar,308.88086453118564,Gubbangen
+202014-10-21,Knektvägen 17,Gubbangen,GronHagsatra,2,56,4,Lägenhet,1947,1995000,245000,2240000,3284,ERA,83.43158728673211,Gubbangen
+202014-10-21,Lingvägen 78,Gubbangen,GronHagsatra,5,125,null,Villa,1947,4495000,1630000,6125000,null,ERA,230.29221413874942,Gubbangen
+202014-10-17,Bordsvägen 29,Gubbangen,GronHagsatra,3,66,3,Lägenhet,1947,1950000,150000,2100000,4443,Mäklarringen,257.23352294490115,Gubbangen
+202014-10-10,Majrovägen 8,Gubbangen,GronHagsatra,3,68,1,Lägenhet,1946,2250000,350000,2600000,3718,ERA,195.76637665190245,Gubbangen
+202014-10-10,Sicklingsvägen 14,Gubbangen,GronHagsatra,3,68,1,Lägenhet,1946,2350000,610000,2960000,3737,ERA,202.26706237763509,Gubbangen
+202014-10-08,Sicklingsvägen 5,Gubbangen,GronHagsatra,1,40,2,Lägenhet,null,1690000,240000,1930000,2437,ERA,135.29262204942077,Gubbangen
+202014-10-08,Bordsvägen 33,Gubbangen,GronHagsatra,2,54,null,Lägenhet,1947,1895000,305000,2200000,3660,ERA,201.09790620390268,Gubbangen
+202014-10-08,Dörrvägen 8,Gubbangen,GronHagsatra,3,64,null,Lägenhet,1947,2190000,230000,2420000,4150,ERA,279.98987091532234,Gubbangen
+202014-10-01,Skåpvägen 7,Gubbangen,GronHagsatra,2,57,null,Lägenhet,1945,1995000,5000,2000000,2779,Svenska Mäklarhuset,201.4196042658475,Gubbangen
+202014-09-25,Bordsvägen 17,Gubbangen,GronHagsatra,2,51,0.5,Lägenhet,1946,1795000,165000,1960000,2560,Restate,295.0272929935978,Gubbangen
+202014-09-22,Kryddgränd 6,Gubbangen,GronHagsatra,2,70,1,Lägenhet,null,1295000,100000,1395000,4924,Svensk Fastighetsförmedling,474.48525722183007,Gubbangen
+202014-09-18,Kistvägen 12,Gubbangen,GronHagsatra,4,94,2,Lägenhet,1948,2795000,-15000,2780000,5920,Fastighetsbyrån,95.06549879412746,Gubbangen
+202014-09-18,Sicklingsvägen 11,Gubbangen,GronHagsatra,3,68,3,Lägenhet,1948,2395000,580000,2975000,3812,Mäklarhuset,200.7276399149391,Gubbangen
+202014-09-16,Kryddgränd 4,Gubbangen,GronHagsatra,2,61,1,Lägenhet,1985,1495000,405000,1900000,3378,Notar,542.6042547000668,Gubbangen
+202014-09-13,Getfotsvägen 42,Gubbangen,GronHagsatra,3,72,null,Lägenhet,null,2250000,360000,2610000,3689,ERA,436.91003596170793,Gubbangen
+202014-09-12,Bordsvägen 56,Gubbangen,GronHagsatra,3,68,null,Lägenhet,1947,2400000,0,2400000,3718,Södermäklarna,236.25247570082155,Gubbangen
+202014-09-12,Skrinvägen 8,Gubbangen,GronHagsatra,2,60,null,Lägenhet,1946,1995000,105000,2100000,2983,Notar,342.5559944452343,Gubbangen
+202014-09-08,Lemmings väg 49,Gubbangen,GronHagsatra,5,null,null,Villa,null,4950000,-250000,4700000,null,Södermäklarna,836.1679656794793,Gubbangen
+202014-09-05,Karmstolsvägen 7,Gubbangen,GronHagsatra,2,61,2,Lägenhet,1947,1795000,145000,1940000,3980,Mäklarhuset,237.0198184751361,Gubbangen
+202014-08-29,Majrovägen 16,Gubbangen,GronHagsatra,2,53,null,Lägenhet,1946,1995000,265000,2260000,2998,Södermäklarna,247.53849477246297,Gubbangen
+202014-08-28,Kryddgränd 4,Gubbangen,GronHagsatra,2,61,2,Lägenhet,1985,1695000,145000,1840000,3379,Mäklarhuset,542.6042547000668,Gubbangen
+202014-08-07,Knektvägen 15,Gubbangen,GronHagsatra,2,56,4,Lägenhet,1947,1795000,305000,2100000,3284,Notar,116.49536184005721,Gubbangen
+202014-07-07,Bordsvägen 21,Gubbangen,GronHagsatra,2,51,0.5,Lägenhet,1946,2095000,30000,2125000,2560,Restate,310.356187076782,Gubbangen
+202014-06-25,Dörrvägen 8,Gubbangen,GronHagsatra,2,53,1,Lägenhet,1947,1795000,105000,1900000,3293,ERA,279.98987091532234,Gubbangen
+202014-06-17,Getfotsvägen 50,Gubbangen,GronHagsatra,3,68,1,Lägenhet,1949,2195000,280000,2475000,3484,SkandiaMäklarna,424.85179313867184,Gubbangen
+202014-06-17,Skrinvägen 8,Gubbangen,GronHagsatra,2,60,2,Lägenhet,1947,1995000,125000,2120000,2769,Svenska Mäklarhuset,342.5559944452343,Gubbangen
+202014-06-16,Bordsvägen 70,Gubbangen,GronHagsatra,3,68,1,Lägenhet,null,2190000,430000,2620000,3737,HusmanHagberg,274.5244659070136,Gubbangen
+202014-06-12,Rubanksgränd 4,Gubbangen,GronHagsatra,2,55,1,Lägenhet,2007,1950000,250000,2200000,4396,Södermäklarna,494.6562129974191,Gubbangen
+202014-06-09,Sicklingsvägen 5,Gubbangen,GronHagsatra,2,54,4,Lägenhet,null,1780000,360000,2140000,3187,Svensk Fastighetsförmedling,135.29262204942077,Gubbangen
+202014-06-09,Majrovägen 5,Gubbangen,GronHagsatra,3,83,5,Lägenhet,null,2550000,-100000,2450000,5314,ERA,243.04967023197162,Gubbangen
+202014-06-04,Knektvägen 15,Gubbangen,GronHagsatra,2,54,3,Lägenhet,1947,1850000,230000,2080000,3140,ERA,116.49536184005721,Gubbangen
+202014-05-29,Skåpvägen 9,Gubbangen,GronHagsatra,2,54,1,Lägenhet,1946,1775000,205000,1980000,2670,ERA,219.19706689207516,Gubbangen
+202014-05-29,Sicklingsvägen 16,Gubbangen,GronHagsatra,3,68,2,Lägenhet,1946,2190000,270000,2460000,3812,ERA,218.16970316394386,Gubbangen
+202014-05-28,Getfotsvägen 44,Gubbangen,GronHagsatra,3,72,null,Lägenhet,null,2240000,320000,2560000,3689,Fastighetsbyrån,431.4615945324344,Gubbangen
+202014-05-26,Polovägen 25,Gubbangen,GronHagsatra,6,136,null,Villa,null,5500000,0,5500000,null,Södermäklarna,692.6945399858114,Tallkrogen
+202014-05-23,Cirkelvägen 10,Gubbangen,GronHagsatra,4,70,null,Lägenhet,1947,2450000,-55000,2395000,4326,Södermäklarna,296.50108469193844,Gubbangen
+202014-05-23,Majrovägen 37,Gubbangen,GronHagsatra,5,93,2,Lägenhet,null,2950000,700000,3650000,5869,ERA,444.1467832292203,Gubbangen
+202014-05-19,Majrovägen 39,Gubbangen,GronHagsatra,4,95.5,null,Lägenhet,1996,2950000,360000,3310000,5787,ERA,440.4510442674459,Gubbangen
+202014-05-16,Skåpvägen 1,Gubbangen,GronHagsatra,2,57,3,Lägenhet,1946,1750000,280000,2030000,2779,ERA,265.49984494187584,Gubbangen
+202014-05-16,Kryddgränd 4,Gubbangen,GronHagsatra,2,61,2,Lägenhet,1985,1595000,45000,1640000,3379,Länsförsäkringar Fastighetsförmedling,542.6042547000668,Gubbangen
+202014-05-15,Getfotsvägen 13,Gubbangen,GronHagsatra,4,93.5,null,Lägenhet,2009,3195000,185000,3380000,5098,Fastighetsbyrån,386.0426043035413,Gubbangen
+202014-05-14,Skåpvägen 11,Gubbangen,GronHagsatra,2,61,null,Lägenhet,1946,1895000,205000,2100000,2925,Hemmäklarna,210.72752173728495,Gubbangen
+202014-05-14,Sicklingsvägen 5,Gubbangen,GronHagsatra,1,40,3,Lägenhet,null,1550000,360000,1910000,2455,Svensk Fastighetsförmedling,135.29262204942077,Gubbangen
+202014-05-14,Getfotsvägen 3,Gubbangen,GronHagsatra,2,52,1,Lägenhet,null,1795000,275000,2070000,2897,Svensk Fastighetsförmedling,298.7560805736578,Gubbangen
+202014-05-10,Sicklingsvägen 12,Gubbangen,GronHagsatra,3,68,3,Lägenhet,1946,2190000,445000,2635000,3812,ERA,190.10206740686763,Gubbangen
+202014-05-08,Cirkelvägen 2,Gubbangen,GronHagsatra,2,52,1,Lägenhet,null,1595000,365000,1960000,3325,Bjurfors,335.0766742895047,Gubbangen
+202014-04-30,Karmstolsvägen 10,Gubbangen,GronHagsatra,3,72,null,Lägenhet,1947,1695000,405000,2100000,6088,HusmanHagberg,125.80223814839151,Gubbangen
+202014-04-24,Majrovägen 3,Gubbangen,GronHagsatra,3,71,4,Lägenhet,null,2500000,500000,3000000,4798,Svensk Fastighetsförmedling,229.86291573149958,Gubbangen
+202014-04-22,Rubanksgränd 4,Gubbangen,GronHagsatra,2,49,3,Lägenhet,null,1795000,5000,1800000,3913,Svensk Fastighetsförmedling,494.6562129974191,Gubbangen
+202014-04-22,Skåpvägen 9,Gubbangen,GronHagsatra,3,70,2,Lägenhet,1946,2190000,180000,2370000,3253,ERA,219.19706689207516,Gubbangen
+202014-04-17,Kistvägen 16,Gubbangen,GronHagsatra,2,58,3,Lägenhet,1948,1625000,330000,1955000,3716,Notar,129.69927160897635,Gubbangen
+202014-04-15,Bordsvägen 15,Gubbangen,GronHagsatra,2,51,0.5,Lägenhet,1946,1695000,105000,1800000,2560,Restate,201.4196042658475,Gubbangen
+202014-04-14,Cirkelvägen 4,Gubbangen,GronHagsatra,2,52,3,Lägenhet,1947,1750000,310000,2060000,3325,ERA,330.15569782409904,Gubbangen
+202014-04-14,Majrovägen 5,Gubbangen,GronHagsatra,3,83,4,Lägenhet,2010,2495000,405000,2900000,5314,ERA,243.04967023197162,Gubbangen
+202014-04-09,Bordsvägen 31,Gubbangen,GronHagsatra,2,54,3,Lägenhet,1947,1595000,330000,1925000,3660,Erik Olsson Fastighetsförmedling,249.90429523933142,Gubbangen
+202014-03-27,Getfotsvägen 59,Gubbangen,GronHagsatra,2,52,4,Lägenhet,2004,1795000,205000,2000000,3942,Fastighetsbyrån,376.83853037330476,Gubbangen
+202014-03-26,Rubanksgränd 3,Gubbangen,GronHagsatra,2,55,4,Lägenhet,2007,1895000,335000,2230000,4396,Fastighetsbyrån,496.1128533451014,Gubbangen
+202014-03-26,Knektvägen 15,Gubbangen,GronHagsatra,1,28.5,null,Lägenhet,1948,1200000,170000,1370000,1754,Fastighetsbyrån,116.49536184005721,Gubbangen
+202014-03-21,Cirkelvägen 8,Gubbangen,GronHagsatra,2,52,2,Lägenhet,1947,1750000,200000,1950000,3325,Totalmäklarna Sverige AB,308.88086453118564,Gubbangen
+202014-03-19,Karmstolsvägen 11,Gubbangen,GronHagsatra,2,64,1,Lägenhet,null,1650000,170000,1820000,4176,HusmanHagberg,144.8995738899371,Gubbangen
+202014-03-13,Bordsvägen 50,Gubbangen,GronHagsatra,2,55,0.5,Lägenhet,null,1750000,150000,1900000,3096,Svensk Fastighetsförmedling,213.7253532667573,Gubbangen
+202014-03-12,Majrovägen 27,Gubbangen,GronHagsatra,2,49.5,2,Lägenhet,1997,1750000,110000,1860000,4065,Notar,317.6104751145561,Gubbangen
+202014-03-11,Bordsvägen 52,Gubbangen,GronHagsatra,2,55,0.5,Lägenhet,null,1700000,170000,1870000,3097,Svensk Fastighetsförmedling,210.1027472101864,Gubbangen
+202014-03-10,Bordsvägen 11,Gubbangen,GronHagsatra,2,37,null,Lägenhet,1946,895000,85000,980000,2050,Restate,273.32344265471244,Gubbangen
+202014-03-03,Sicklingsvägen 3,Gubbangen,GronHagsatra,1,25,3,Lägenhet,null,1300000,350000,1650000,1602,Svensk Fastighetsförmedling,120.18685345402046,Gubbangen
+202014-02-21,Bordsvägen 21,Gubbangen,GronHagsatra,2,51,0.5,Lägenhet,1946,1595000,235000,1830000,2560,Restate,310.356187076782,Gubbangen
+202014-02-14,Rubanksgränd 4,Gubbangen,GronHagsatra,3,73,4,Lägenhet,2007,2350000,500000,2850000,5407,Mäklarhuset,494.6562129974191,Gubbangen
+202014-02-12,Majrovägen 5newchar v4,Gubbangen,GronHagsatra,3.5,83,null,Lägenhet,2008,2500000,200000,2700000,5314,Notar,265.6078970695403,Gubbangen
+202014-02-08,Majrovägen 25,Gubbangen,GronHagsatra,1,40,1,Lägenhet,1997,1390000,200000,1590000,3100,Svensk Fastighetsförmedling,329.5531681013019,Gubbangen
+202014-02-05,Majrovägen 13,Gubbangen,GronHagsatra,3,67.5,2,Lägenhet,1999,2195000,0,2195000,5009,Fastighetsbyrån,241.94918962985318,Gubbangen
+202014-01-31,Polovägen 13,Gubbangen,GronHagsatra,5,65,null,Villa,1938,4475000,75000,4550000,null,SkandiaMäklarna,735.2586194438132,Tallkrogen
+202014-01-30,Bordsvägen 47,Gubbangen,GronHagsatra,2,53,null,Lägenhet,null,1750000,150000,1900000,3056,Svensk Fastighetsförmedling,211.48371133602933,Gubbangen
+202014-01-29,Majrovägen 1,Gubbangen,GronHagsatra,3,71,2,Lägenhet,null,2200000,620000,2820000,4798,Svensk Fastighetsförmedling,233.881443341955,Gubbangen
+202014-01-20,Skåpvägen 9,Gubbangen,GronHagsatra,3,70,3,Lägenhet,1946,2050000,50000,2100000,3253,Fastighetsbyrån,219.19706689207516,Gubbangen
+202014-01-17,Skåpvägen 7,Gubbangen,GronHagsatra,2,57,1,Lägenhet,1946,1695000,235000,1930000,2779,Mäklarhuset,201.4196042658475,Gubbangen
+202014-01-15,Majrovägen 19,Gubbangen,GronHagsatra,1,40,2,Lägenhet,1997,1490000,260000,1750000,3130,Svensk Fastighetsförmedling,296.2299541570934,Gubbangen
+202013-12-06,Majrovägen 21,Gubbangen,GronHagsatra,2,49.5,2,Lägenhet,1997,1950000,0,1950000,4065,Svensk Fastighetsförmedling,279.0583987027374,Gubbangen
+202013-12-02,Getfotsvägen 3,Gubbangen,GronHagsatra,2,52,null,Lägenhet,1952,1795000,100000,1895000,2797,Svensk Fastighetsförmedling,298.7560805736578,Gubbangen
+202013-11-27,Knektvägen 4,Gubbangen,GronHagsatra,2,53,null,Lägenhet,1947,1500000,260000,1760000,3056,Svensk Fastighetsförmedling,205.4435303478264,Gubbangen
+202013-11-26,Lingvägen 103,Gubbangen,GronHagsatra,3,76,null,Lägenhet,1951,2295000,15000,2310000,3375,Svensk Fastighetsförmedling,141.8524587717747,Gubbangen
+202013-11-26,Karmstolsvägen 11,Gubbangen,GronHagsatra,2,61,1,Lägenhet,1947,1590000,210000,1800000,3980,ERA,144.8995738899371,Gubbangen
+202013-11-20,Knektvägen 17,Gubbangen,GronHagsatra,1,25,4,Lägenhet,1948,895000,455000,1350000,1559,Fastighetsbyrån,83.43158728673211,Gubbangen
+202013-10-25,Getfotsvägen 11,Gubbangen,GronHagsatra,3,82,1,Lägenhet,2009,2850000,250000,3100000,4255,Mäklarringen,375.6074051286519,Gubbangen
+202013-10-10,Sicklingsvägen 9,Gubbangen,GronHagsatra,3,68,null,Lägenhet,1945,2150000,240000,2390000,3812,Fastighetsbyrån,185.24389045774078,Gubbangen
+202013-10-03,Knektvägen 17,Gubbangen,GronHagsatra,2,54,6,Lägenhet,null,1595000,180000,1775000,3210,ERA,83.43158728673211,Gubbangen
+202013-09-27,Dörrvägen 4,Gubbangen,GronHagsatra,2,53,2,Lägenhet,1948,1595000,5000,1600000,3142,ERA,258.1675702576046,Gubbangen
+202013-09-26,Knektvägen 17,Gubbangen,GronHagsatra,2,54,2,Lägenhet,1947,1495000,205000,1700000,3119,SkandiaMäklarna,83.43158728673211,Gubbangen
+202013-09-25,Majrovägen 1,Gubbangen,GronHagsatra,4,92,4,Lägenhet,null,2900000,400000,3300000,5829,Svensk Fastighetsförmedling,233.881443341955,Gubbangen
+202013-09-09,Lemmings väg 51,Gubbangen,GronHagsatra,5,81,null,Villa,1942,4495000,-145000,4350000,null,Mäklarhuset,835.1200437106481,Gubbangen
+202013-09-04,Dörrvägen 10,Gubbangen,GronHagsatra,3,64,3,Lägenhet,1948,null,NaN,2140000,3763,ERA,268.99460185102566,Gubbangen
+202013-08-30,Getfotsvägen 13,Gubbangen,GronHagsatra,1.5,56,null,Lägenhet,2008,1550000,50000,1600000,3435,Fastighetsbyrån,386.0426043035413,Gubbangen
+202013-08-28,Getfotsvägen 11,Gubbangen,GronHagsatra,4,93.5,3,Lägenhet,null,2995000,400000,3395000,4882,Erik Olsson Fastighetsförmedling,375.6074051286519,Gubbangen
+202013-08-23,Lemmings väg 45,Gubbangen,GronHagsatra,6,64,null,Villa,1946,3975000,325000,4300000,null,Mäklarringen,830.7474090484089,Gubbangen
+202013-08-23,Bordsvägen 55,Gubbangen,GronHagsatra,3,68,1,Lägenhet,null,2100000,100000,2200000,3492,ERA,269.8677594027265,Gubbangen
+202013-08-14,Bordsvägen 62,Gubbangen,GronHagsatra,3,68,1,Lägenhet,null,1995000,205000,2200000,3475,ERA,243.5626680928199,Gubbangen
+202013-07-18,Kryddgränd 6,Gubbangen,GronHagsatra,3,98,null,Lägenhet,1985,1450000,-50000,1400000,5798,Fastighetsbyrån,474.48525722183007,Gubbangen
+202013-07-15,Bordsvägen 53,Gubbangen,GronHagsatra,3,68,0.5,Lägenhet,1948,1995000,195000,2190000,3492,Svensk Fastighetsförmedling,261.04927378401817,Gubbangen
+202013-07-01,Majrovägen 23,Gubbangen,GronHagsatra,4,93,2,Lägenhet,1997,2450000,50000,2500000,6417,Svensk Fastighetsförmedling,294.05370570506363,Gubbangen
+202013-06-04,Sicklingsvägen 3,Gubbangen,GronHagsatra,1,25,4,Lägenhet,1947,1350000,50000,1400000,1518,ERA,120.18685345402046,Gubbangen
+202013-06-01,Rubanksgränd 5,Gubbangen,GronHagsatra,3,89,null,Lägenhet,1952,2695000,-95000,2600000,5688,Svensk Fastighetsförmedling,549.2580525083961,Gubbangen
+202013-05-30,Bordsvägen 70,Gubbangen,GronHagsatra,3,68,null,Lägenhet,null,1890000,265000,2155000,3562,Gripsholms Fastighetsförmedling,274.5244659070136,Gubbangen
+202013-05-30,Lemmings väg 74,Gubbangen,GronHagsatra,5,79,null,Lägenhet,1948,3300000,150000,3450000,null,ERA,852.9472538450574,Gubbangen
+202013-05-27,Majrovägen 5,Gubbangen,GronHagsatra,4,94,null,Lägenhet,null,2500000,150000,2650000,5908,Svensk Fastighetsförmedling,243.04967023197162,Gubbangen
+202013-05-13,Kryddgränd 4,Gubbangen,GronHagsatra,2,61,null,Lägenhet,1985,1595000,80000,1675000,3153,Fastighetsbyrån,542.6042547000668,Gubbangen
+202013-05-09,Bordsvägen 47,Gubbangen,GronHagsatra,2,53,2,Lägenhet,1948,1650000,50000,1700000,2856,Mäklarhuset,211.48371133602933,Gubbangen
+202013-05-07,Rubanksgränd 4,Gubbangen,GronHagsatra,4,85,4,Lägenhet,2007,2625000,325000,2950000,6111,Länsförsäkringar Fastighetsförmedling,494.6562129974191,Gubbangen
+202013-05-04,Kryddgränd 6,Gubbangen,GronHagsatra,2,71,3,Lägenhet,1985,1100000,130000,1230000,4711,Svensk Fastighetsförmedling,474.48525722183007,Gubbangen
+202013-04-26,Bordsvägen 33A,Gubbangen,GronHagsatra,2,54,null,Lägenhet,1947,1495000,135000,1630000,3576,Privatmäklaren,215.36130334727267,Gubbangen
+202013-04-26,Bordsvägen 33A,Gubbangen,GronHagsatra,2,54,null,Lägenhet,1947,1495000,135000,1630000,3576,Privatmäklaren,215.36130334727267,Gubbangen
+202013-04-13,Lemmings väg 60,Gubbangen,GronHagsatra,4,96,null,Radhus,null,3650000,615000,4265000,null,BOSTHLM,833.8432542322328,Gubbangen
+202013-04-13,Getfotsvägen 13,Gubbangen,GronHagsatra,2,63.5,3,Lägenhet,2009,1950000,60000,2010000,3799,Svensk Fastighetsförmedling,386.0426043035413,Gubbangen
+202013-04-10,Lingvägen 122,Gubbangen,GronHagsatra,3,68,null,Lägenhet,2010,2050000,400000,2450000,4481,Fastighetsbyrån,259.04539488153176,Gubbangen
+202013-04-05,Kistvägen 14,Gubbangen,GronHagsatra,2,57,null,Lägenhet,1948,1600000,25000,1625000,3716,Notar,102.17656324886774,Gubbangen
+202013-03-11,Getfotsvägen 3,Gubbangen,GronHagsatra,2,52,null,Lägenhet,1952,1550000,240000,1790000,2797,Svensk Fastighetsförmedling,298.7560805736578,Gubbangen
+202013-02-28,Skrinvägen 4,Gubbangen,GronHagsatra,2,60,3,Lägenhet,1947,1650000,-100000,1550000,2769,Mäklarhuset,316.99292387057466,Gubbangen
+202013-02-18,Majrovägen 3,Gubbangen,GronHagsatra,3,71,2,Lägenhet,null,2100000,100000,2200000,4798,Svensk Fastighetsförmedling,229.86291573149958,Gubbangen
+202013-02-16,Sicklingsvägen 18,Gubbangen,GronHagsatra,3,68,1,Lägenhet,1948,1950000,220000,2170000,3492,Svenska Mäklarhuset,233.52441150482542,Gubbangen
+202013-02-11,Getfotsvägen 13,Gubbangen,GronHagsatra,4,93.5,2,Lägenhet,2009,2950000,300000,3250000,5172,HusmanHagberg,386.0426043035413,Gubbangen
+202013-02-09,Sicklingsvägen,Gubbangen,GronHagsatra,4,78,6.5,Lägenhet,1948,1975000,275000,2250000,4044,Exbo,137.54669856434157,Gubbangen
+202013-01-28,Lingvägen 105,Gubbangen,GronHagsatra,3,75,null,Lägenhet,null,2150000,200000,2350000,3331,Hemverket,197.761558646201,Gubbangen
+202013-01-24,Rubanksgränd 5,Gubbangen,GronHagsatra,4,114,2,Lägenhet,1952,3150000,0,3150000,6998,Svensk Fastighetsförmedling,549.2580525083961,Gubbangen
+202013-01-24,Karmstolsvägen 12,Gubbangen,GronHagsatra,2,58,null,Lägenhet,1947,1480000,40000,1520000,3949,ERA,213.0722985657335,Gubbangen
+202013-01-21,Karmstolsvägen 13,Gubbangen,GronHagsatra,2,61,null,Lägenhet,1947,1450000,301000,1751000,3979,HusmanHagberg,136.35552712946998,Gubbangen
+202013-01-19,Karmstolsvägen 7,Gubbangen,GronHagsatra,2,64,null,Lägenhet,1947,1725000,-25000,1700000,4176,HusmanHagberg,237.0198184751361,Gubbangen
+202012-12-05,Dörrvägen 6,Gubbangen,GronHagsatra,2,53,2,Lägenhet,1947,1480000,45000,1525000,3142,Svensk Fastighetsförmedling,269.95941292670335,Gubbangen
+202012-11-09,Getfotsvägen 7,Gubbangen,GronHagsatra,2,52,0.5,Lägenhet,1952,1450000,60000,1510000,2798,Bjurfors,325.6293027392975,Gubbangen
+202012-11-02,Lingvägen 99,Gubbangen,GronHagsatra,2,60,2,Lägenhet,1951,1500000,25000,1525000,2600,Svensk Fastighetsförmedling,88.35590458839914,Gubbangen
+202012-10-27,Knektvägen 17,Gubbangen,GronHagsatra,1,25,3,Lägenhet,1948,1200000,-100000,1100000,1437,Mäklarhuset,83.43158728673211,Gubbangen
+202012-10-11,Majrovägen 13,Gubbangen,GronHagsatra,4.5,93,null,Lägenhet,1999,2495000,20000,2515000,6073,Fastighetsbyrån,241.94918962985318,Gubbangen
+202012-09-14,Dörrvägen 4,Gubbangen,GronHagsatra,2,53,3,Lägenhet,1947,1450000,130000,1580000,3142,Svensk Fastighetsförmedling,258.1675702576046,Gubbangen
+202012-09-13,Majrovägen 5,Gubbangen,GronHagsatra,3,68,null,Lägenhet,2009,1975000,275000,2250000,4212,Fastighetsbyrån,243.04967023197162,Gubbangen
+202012-08-25,Bordsvägen 60,Gubbangen,GronHagsatra,3,68,null,Lägenhet,1948,1750000,250000,2000000,3475,Fastighetsbyrån,246.03391915415386,Gubbangen

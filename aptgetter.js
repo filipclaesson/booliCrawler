@@ -3,6 +3,7 @@ var querystring = require('querystring');
 var fs = require('fs');
 var converter = require('json-2-csv');
 var distanceGetter = require('./distancegetter.js');
+var db = require('./pgdb.js');
 
 
 
@@ -13,7 +14,8 @@ var subArea = "";
 var bigArea = "";
 
 
-var createCSVrecursive = function(areas){
+var createCSVrecursive = function(areas, date){
+  aptList.length = 0
   area = areas.pop()
 
   console.log("areaCode: ", area.areaCode)
@@ -23,23 +25,8 @@ var createCSVrecursive = function(areas){
   console.log("LÄNGDEN ÄR NU: ", aptList.length)
   subArea = area.subArea;
   bigArea = area.area;
-  getListLength(getQueryString(area.areaCode, 10, 0), area.areaCode, createCSVrecursive, areas);
+  getListLength(getQueryString(area.areaCode, 10, 0, date), area.areaCode, createCSVrecursive, areas);
 }
-
-var testPop = function(areas, callback){
-  hej = areas.pop()
-  console.log(hej)
-  console.log(areas.length)
-  if (areas.length == 0){
-    callback()
-  }    
-  else{
-    testPop(areas, callback)
-  }
-    
-}
-
-
 
 
 /* Function that will be used to start the procedure of printing all aptments to a CSV
@@ -110,7 +97,9 @@ function getQueryString(areaCode, limit, offset){
   var limitString = "limit=" + limit + "&";
   var areaString = areaCode + "&";
   var offsetString = "offset=" + offset + "&";
-  var url = "http://api.booli.se/sold?q="+ areaString + limitString + offsetString + querystring.stringify(auth2);
+  var dateString = "minSoldDate=" + date + "&";
+  var url = "http://api.booli.se/sold?q="+ areaString + dateString +  limitString + offsetString + querystring.stringify(auth2);
+  console.log(" QUERY STRING: " + url)
   return url;
 }
 
@@ -119,8 +108,7 @@ function getQueryString(areaCode, limit, offset){
  *
  */
 function getListLength(url, area, createCSVrecursive, areas){
-
-  
+ 
  
   http.get(url, function (res) {
 
@@ -195,59 +183,14 @@ function addToListAndPrint(pageList,createCSVrecursive, areas){
   console.log("...");   
   console.log("längd på listan: " + aptList.length);
   console.log("----- Listan är slut -----");
-  writeToCSV(aptList,createCSVrecursive, areas);
+  //writeToCSV(aptList,createCSVrecursive, areas);
+  writeToDb(aptList,createCSVrecursive, areas);
   
 }
 
 
-/* Function takes out the important data from each apt object and returns a formatted aptObject
- *
- * @param aptIn is an unformatted json object thtat need formatting
- */
-function setupAptObject(aptIn){
-  var apt = {
-        "date":"",
-        "address": "",
-        "subArea" : "",
-        "area": "",
-        "room":"",
-        "sqm": "",
-        "floor": "",
-        "objectType": "",
-        "constructionYear": "",
-        "listPrice": "",
-        "priceUp": "",
-        "soldPrice": "",
-        "rent": "",
-        "broker": "",
-        "distanceToMetro":"",
-        "metro":""
-      }
 
-      apt.date = aptIn.soldDate;
-      apt.address = removeComma(aptIn.location.address['streetAddress']);
-      apt.subArea = subArea;
-      apt.area = bigArea;
-      apt.room = aptIn.rooms;
-      apt.floor = aptIn.floor;
-      apt.sqm = aptIn.livingArea;
-      apt.listPrice = aptIn.listPrice;
-      apt.priceUp = aptIn.soldPrice - aptIn.listPrice;
-      apt.soldPrice = aptIn.soldPrice;
-      apt.rent = aptIn.rent;
-      apt.constructionYear = aptIn.constructionYear;
-      apt.objectType = aptIn.objectType;
-      apt.broker = aptIn.source.name;
-
-      lat = aptIn.location.position.latitude
-      lon = aptIn.location.position.longitude
-      tbana = distanceGetter.getDistanceFromLatLonInKm(lat,lon,0,0)
-      apt.distanceToMetro = tbana[0]
-      apt.metro = tbana[1]
-
-      return apt;
-}
-/* Function prints the json file to a csv file
+/* Function inserts to the DB
  *
  * @param json is the JSON object to be converted in a csv file 
  */
@@ -256,9 +199,24 @@ function writeToDb(json, createCSVrecursive, areas){
   console.log("-------------------")
   console.log("name in printResult: " + subArea + ".csv")
   console.log("Length: " + json.length)
+  
+  listlen = json.length
 
+  console.log(" antal transaktion att föra in i DB: " + listlen)
+  if (listlen != 0){
+    if (areas.length != 0){
+      //createCSVrecursive(areas)
+      db.multiInsert("booli", json, createCSVrecursive, areas)
+    }else{
+      db.multiInsert("booli", json)
+    }
 
-  converter.json2csv(aptList, json2csvCallback);
+  }else{
+    createCSVrecursive(areas);
+  }
+  
+  
+  
   
 }
 
@@ -272,6 +230,9 @@ function writeToCSV(json, createCSVrecursive, areas){
   console.log("name in printResult: " + subArea + ".csv")
   console.log("Length: " + json.length)
 
+  for (var i = json.length - 1; i >= 0; i--) {
+    console.log(json[i])
+  };
 
   var json2csvCallback = function (err, csv) {
     console.log("name in json2csv: " + subArea + ".csv")
@@ -310,10 +271,67 @@ function removeComma(text){
   return text.replace(/,/g , "newchar");
 }
 
+function checkNumber(data){
+  if (typeof data != "number"){ 
+    return undefined
+  }else{
+    return data
+  }
+}
+
+/* Function takes out the important data from each apt object and returns a formatted aptObject
+ *
+ * @param aptIn is an unformatted json object thtat need formatting
+ */
+function setupAptObject(aptIn){
+  var apt = {
+        "date":"",
+        "address": "",
+        "subArea" : "",
+        "area": "",
+        "room":"",
+        "sqm": "",
+        "floor": "",
+        "objectType": "",
+        "constructionYear": "",
+        "listPrice": "",
+        "priceUp": "",
+        "soldPrice": "",
+        "rent": "",
+        "broker": "",
+        "distanceToMetro":"",
+        "metro":""
+      }
+
+      apt.date = aptIn.soldDate;
+      apt.address = removeComma(aptIn.location.address['streetAddress']);
+      apt.subArea = subArea;
+      apt.area = bigArea;
+      apt.room = checkNumber(aptIn.rooms);
+      apt.floor = checkNumber(aptIn.floor);
+      apt.sqm = checkNumber(aptIn.livingArea);
+      apt.listPrice = checkNumber(aptIn.listPrice);
+      apt.priceUp = checkNumber(aptIn.soldPrice - aptIn.listPrice);
+      apt.soldPrice = checkNumber(aptIn.soldPrice);
+      apt.rent = checkNumber(aptIn.rent);
+      apt.constructionYear = checkNumber(aptIn.constructionYear);
+      apt.objectType = aptIn.objectType;
+      apt.broker = aptIn.source.name;
+
+      lat = aptIn.location.position.latitude
+      lon = aptIn.location.position.longitude
+      tbana = distanceGetter.getDistanceFromLatLonInKm(lat,lon,0,0)
+      apt.distanceToMetro = tbana[0]
+      apt.metro = tbana[1]
+
+      return apt;
+}
+
+
+
 
 module.exports = {
   createcsvfromarea: createcsvfromarea,
-  testPop: testPop,
   createCSVrecursive: createCSVrecursive,
   writeToDb: writeToDb
 
