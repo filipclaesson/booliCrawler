@@ -206,18 +206,13 @@ function writeToDb(json, createCSVrecursive, areas){
   if (listlen != 0){
     if (areas.length != 0){
       //createCSVrecursive(areas)
-      db.multiInsert("booli", json, createCSVrecursive, areas)
+      db.multiInsert("booli_data", json, createCSVrecursive, areas)
     }else{
-      db.multiInsert("booli", json)
+      db.multiInsert("booli_data", json)
     }
-
   }else{
     createCSVrecursive(areas);
   }
-  
-  
-  
-  
 }
 
 /* Function prints the json file to a csv file
@@ -299,9 +294,18 @@ function setupAptObject(aptIn){
         "soldPrice": "",
         "rent": "",
         "broker": "",
+        "lon": "",
+        "lat": "",
         "distanceToMetro":"",
         "metro":""
       }
+
+
+      // --- tbana
+      lat = aptIn.location.position.latitude;
+      lon = aptIn.location.position.longitude;
+      tbana = distanceGetter.getDistanceFromLatLonInKm(lat,lon,0,0)
+
 
       apt.date = aptIn.soldDate;
       apt.address = removeComma(aptIn.location.address['streetAddress']);
@@ -317,10 +321,8 @@ function setupAptObject(aptIn){
       apt.constructionYear = checkNumber(aptIn.constructionYear);
       apt.objectType = aptIn.objectType;
       apt.broker = aptIn.source.name;
-
-      lat = aptIn.location.position.latitude
-      lon = aptIn.location.position.longitude
-      tbana = distanceGetter.getDistanceFromLatLonInKm(lat,lon,0,0)
+      apt.lon = lon;
+      apt.lat = lat;
       apt.distanceToMetro = tbana[0]
       apt.metro = tbana[1]
 

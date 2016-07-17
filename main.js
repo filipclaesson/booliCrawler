@@ -4,7 +4,7 @@ var async = require("async");
 
 areas = getOmraden()
 tuples = getTuples()
-date = '20160627' // Datument exkluders 
+date = '20010101' // Datument exkluders 
 // Körde senast 16 juli
 
 

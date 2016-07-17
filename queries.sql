@@ -16,6 +16,8 @@ CREATE TABLE booli (
     soldPrice	double precision,
     rent	double precision,
     broker	varchar(80),
+    lon    double precision,
+    lat    double precision,
     distanceToMetro double precision,
     metro	varchar(40)
 );
