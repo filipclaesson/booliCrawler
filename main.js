@@ -4,11 +4,11 @@ var async = require("async");
 
 areas = getOmraden()
 tuples = getTuples()
-date = '20010101' // Datument exkluders 
+date = '20160716' // Datument exkluders 
 // Körde senast 16 juli
 
 
-aptgetter.createCSVrecursive(areas, date)
+aptgetter.getAptsRecursive(areas, date)
 
 
 

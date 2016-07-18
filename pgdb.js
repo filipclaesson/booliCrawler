@@ -23,7 +23,7 @@ var insert = function(table, data){
 		}
 	}
 	queryString = queryString + tableColumns + ') VALUES (' + values +")"
-	console.log(queryString)
+	//console.log(queryString)
 	var query = client.query(queryString);
 	query.on('end', function() { client.end(); });
 }
@@ -49,14 +49,14 @@ var insert2 = function(table, data){
 		}
 	}
 	//console.log(values)
-	queryString = queryString + tableColumns + ') VALUES(' + columnNames + ')' 
+	//queryString = queryString + tableColumns + ') VALUES(' + columnNames + ')' 
 	var query = client.query(queryString, values);
 	query.on('end', function() { client.end(); });
 	console.log(queryString)
 }
 
 
-var multiInsert = function(table, data, callback, params){
+var multiInsert = function(table, data, callback, callbackParams){
 	
 	var client = new pg.Client(connectionString);
     client.on('drain', client.end.bind(client)); //disconnect client when all queries are finished
@@ -67,7 +67,6 @@ var multiInsert = function(table, data, callback, params){
 	columnNames = ""
 	values = []
 	//create db statement
-	console.log("data 0" )
     
     len = Object.keys(data[0]).length 
     queryString = 'INSERT INTO ' + table + ' ('
@@ -107,9 +106,9 @@ var multiInsert = function(table, data, callback, params){
 		});
 	}
 	
-	console.log(queryString)
-	if (params != undefined){
-		callback(params)
+	//console.log(queryString)
+	if (callbackParams != undefined){
+		callback(callbackParams)
 	}
 }
 

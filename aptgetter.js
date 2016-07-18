@@ -12,20 +12,28 @@ areaList = []
 var aptList = [];
 var subArea = "";
 var bigArea = "";
+var globalDate = "";
 
 
-var createCSVrecursive = function(areas, date){
+var getAptsRecursive = function(areas, date){
+  globalDate = date;
+  console.log("getAptsRecursive - date: " + date);
+  console.log(areas)
   aptList.length = 0
+  areaLength = areas.length
   area = areas.pop()
-
-  console.log("areaCode: ", area.areaCode)
-  console.log("subAreaIn: ", area.subArea)
-  console.log("area: ",area.area)
+  if (areaLength != 0){
+    console.log("---> getAptsRecursive")
+    console.log("---> areaCode: ", area.areaCode)
+    console.log("---> subAreaIn: ", area.subArea)
+    console.log("---> area: ",area.area)
   
-  console.log("LÄNGDEN ÄR NU: ", aptList.length)
+  
+  //console.log("LÄNGDEN ÄR NU: ", aptList.length)
   subArea = area.subArea;
   bigArea = area.area;
-  getListLength(getQueryString(area.areaCode, 10, 0, date), area.areaCode, createCSVrecursive, areas);
+  getListLength(getQueryString(area.areaCode, 10, 0, date), area.areaCode, getAptsRecursive, areas);
+  }
 }
 
 
@@ -54,7 +62,8 @@ var createcsvfromarea = function(areaCode, subAreaIn, area){
  * @param area is the search area where alla patsments will be printed to a CSV
  *
  */
-function startFetchingProcedure(totHits, areaCode, createCSVrecursive, areas){
+function startFetchingProcedure(totHits, areaCode, getAptsRecursive, areas){
+  console.log("startFetchingProcedure - totHits: " + totHits + ",areaCode: " + areaCode);
   
 
   times = Math.floor(totHits/500)+1;
@@ -66,7 +75,7 @@ function startFetchingProcedure(totHits, areaCode, createCSVrecursive, areas){
           console.log("Nu görs hämtning ", counter, " av ", times)
           if(counter == times){
             console.log("sista hämtningen")
-            get500(getQueryString(areaCode, 500, 500*(counter-1)), addToListAndPrint, createCSVrecursive, areas);
+            get500(getQueryString(areaCode, 500, 500*(counter-1)), addToListAndPrint, getAptsRecursive, areas);
           }
           else{
             get500(getQueryString(areaCode, 500, 500*(counter-1)), addToList);
@@ -87,6 +96,7 @@ function startFetchingProcedure(totHits, areaCode, createCSVrecursive, areas){
  * returns a query string
  */
 function getQueryString(areaCode, limit, offset){
+  console.log("getQueryString - areaCode: " + areaCode + ", limit: " + limit + ", offset: " + offset);
   var crypto = require('crypto');
   var shasum = crypto.createHash('sha1');
   var auth2 = {};
@@ -99,7 +109,7 @@ function getQueryString(areaCode, limit, offset){
   var offsetString = "offset=" + offset + "&";
   var dateString = "minSoldDate=" + date + "&";
   var url = "http://api.booli.se/sold?q="+ areaString + dateString +  limitString + offsetString + querystring.stringify(auth2);
-  console.log(" QUERY STRING: " + url)
+  //console.log(" QUERY STRING: " + url)
   return url;
 }
 
@@ -107,8 +117,8 @@ function getQueryString(areaCode, limit, offset){
 /* Function retrieves the list length on the booli search
  *
  */
-function getListLength(url, area, createCSVrecursive, areas){
- 
+function getListLength(url, area, getAptsRecursive, areas){
+  console.log("getListLength: area: " + area);
  
   http.get(url, function (res) {
 
@@ -119,8 +129,8 @@ function getListLength(url, area, createCSVrecursive, areas){
     res.on('end', function() {
       var pageList = [];
       var apts = JSON.parse(body); 
-      console.log ("total hits: " + apts.totalCount);
-      startFetchingProcedure(apts.totalCount, area, createCSVrecursive, areas);
+      console.log ("--->total hits: " + apts.totalCount);
+      startFetchingProcedure(apts.totalCount, area, getAptsRecursive, areas);
       
       //callback(pageList, end);
     });
@@ -134,8 +144,8 @@ function getListLength(url, area, createCSVrecursive, areas){
  * @callback is the function that handles the results from the url request
  * and is addToList
  */
-function get500(url, callback, createCSVrecursive, areas){
-  //console.log(url);
+function get500(url, callback, getAptsRecursive, areas){
+  console.log("get500");
   http.get(url, function (res) {
 
     var body = "";
@@ -147,15 +157,13 @@ function get500(url, callback, createCSVrecursive, areas){
       var apts = JSON.parse(body); 
       //console.log(apts);
 
-      
-
       // ---- Add every apt in list to bigList ---- // 
       for (var i = 0; i < apts.count; i++) {
         apt = setupAptObject(apts.sold[i]);
         pageList.push(apt);
       };
 
-      callback(pageList,createCSVrecursive, areas);
+      callback(pageList,getAptsRecursive, areas);
     });
   });
 }
@@ -167,24 +175,24 @@ function get500(url, callback, createCSVrecursive, areas){
  * @param pageList is the array of hits that booli api returned
  * @param end is the boolean that is true if there are no more hits to retrieve from booli api
  */
-function addToList(pageList,createCSVrecursive, areas){
-  console.log("...");  
+function addToList(pageList,getAptsRecursive, areas){
+  console.log("addToList");  
   for (var i = 0; i < pageList.length; i++) {
     aptList.push(pageList[i]);
   };
 }
 
 
-function addToListAndPrint(pageList,createCSVrecursive, areas){
-  
+function addToListAndPrint(pageList,getAptsRecursive, areas){
+  console.log("addToListAndPrint"); 
   for (var i = 0; i < pageList.length; i++) {
     aptList.push(pageList[i]);
   };
-  console.log("...");   
-  console.log("längd på listan: " + aptList.length);
+  //console.log("...");   
+  console.log("--->längd på listan: " + aptList.length);
   console.log("----- Listan är slut -----");
-  //writeToCSV(aptList,createCSVrecursive, areas);
-  writeToDb(aptList,createCSVrecursive, areas);
+  //writeToCSV(aptList,getAptsRecursive, areas);
+  writeToDb(aptList,getAptsRecursive, areas);
   
 }
 
@@ -194,24 +202,25 @@ function addToListAndPrint(pageList,createCSVrecursive, areas){
  *
  * @param json is the JSON object to be converted in a csv file 
  */
-function writeToDb(json, createCSVrecursive, areas){
-  console.log("Saving file to database...")
-  console.log("-------------------")
-  console.log("name in printResult: " + subArea + ".csv")
-  console.log("Length: " + json.length)
+function writeToDb(json, getAptsRecursive, areas){
+  console.log("writeToDb")
+  //console.log("Saving file to database...")
+  //console.log("-------------------")
+  //console.log("name in printResult: " + subArea + ".csv")
+  //console.log("Length: " + json.length)
   
   listlen = json.length
 
-  console.log(" antal transaktion att föra in i DB: " + listlen)
+  console.log("---> Antal transaktion att föra in i DB: " + listlen)
   if (listlen != 0){
     if (areas.length != 0){
-      //createCSVrecursive(areas)
-      db.multiInsert("booli_data", json, createCSVrecursive, areas)
+      //getAptsRecursive(areas)
+      db.multiInsert("booli_data", json, getAptsRecursive, areas)
     }else{
       db.multiInsert("booli_data", json)
     }
   }else{
-    createCSVrecursive(areas);
+    getAptsRecursive(areas, globalDate);
   }
 }
 
@@ -219,7 +228,7 @@ function writeToDb(json, createCSVrecursive, areas){
  *
  * @param json is the JSON object to be converted in a csv file 
  */
-function writeToCSV(json, createCSVrecursive, areas){
+function writeToCSV(json, getAptsRecursive, areas){
   console.log("Saving file ...")
   console.log("-------------------")
   console.log("name in printResult: " + subArea + ".csv")
@@ -254,7 +263,7 @@ function writeToCSV(json, createCSVrecursive, areas){
     });
     aptList.length = 0
     if (areas.length != 0){
-      createCSVrecursive(areas)
+      getAptsRecursive(areas)
     }
   };
 
@@ -334,7 +343,7 @@ function setupAptObject(aptIn){
 
 module.exports = {
   createcsvfromarea: createcsvfromarea,
-  createCSVrecursive: createCSVrecursive,
+  getAptsRecursive: getAptsRecursive,
   writeToDb: writeToDb
 
 
