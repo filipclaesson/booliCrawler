@@ -4,8 +4,8 @@ var async = require("async");
 
 areas = getOmraden()
 tuples = getTuples()
-date = '20160716' // Datument exkluders 
-// Körde senast 16 juli
+date = '20160828' // Datument exkluders - alla läggor efter datumet
+// Körde senast 28 juli - 
 
 
 aptgetter.getAptsRecursive(areas, date)

@@ -18,7 +18,6 @@ var globalDate = "";
 var getAptsRecursive = function(areas, date){
   globalDate = date;
   console.log("getAptsRecursive - date: " + date);
-  console.log(areas)
   aptList.length = 0
   areaLength = areas.length
   area = areas.pop()
